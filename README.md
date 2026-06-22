@@ -24,6 +24,12 @@ Kho lưu trữ liên kết tải ứng dụng, bộ cài, thông tin phiên bả
   * [VMware Workstation Pro 26H1 for Linux](#vmware-workstation-pro-26h1-for-linux)
   * [VMware Workstation Pro 25H2u1 for Linux](#vmware-workstation-pro-25h2u1-for-linux)
   * [VMware Workstation Pro 25H2 for Linux](#vmware-workstation-pro-25h2-for-linux)
+  * [VMware Workstation Pro 17.6.4 for Linux](#vmware-workstation-pro-1764-for-linux)
+  * [VMware Workstation Pro 17.6.3 for Linux](#vmware-workstation-pro-1763-for-linux)
+  * [VMware Workstation Pro 17.6.2 for Linux](#vmware-workstation-pro-1762-for-linux)
+  * [VMware Workstation Pro 17.6.1 for Linux](#vmware-workstation-pro-1761-for-linux)
+  * [VMware Workstation Pro 17.6.0 for Linux](#vmware-workstation-pro-1760-for-linux)
+  * [VMware Workstation Pro 17.5.2 for Linux](#vmware-workstation-pro-1752-for-linux)
 * [Checksum Guide](#-checksum-guide)
 * [Ghi chú sử dụng](#-ghi-chú-sử-dụng)
 
@@ -39,6 +45,7 @@ Kho lưu trữ liên kết tải ứng dụng, bộ cài, thông tin phiên bả
 | **Tên file**                  | `VMware-Workstation-Full-26H1-25388281.exe`                        |
 | **Dung lượng**                | `274.34 MB`                                                        |
 | **Build Number**              | `25388281`                                                         |
+| **Release Level Info**        | `543221`                                                           |
 | **Ngày phát hành**            | `May 14, 2026`                                                     |
 | **Ngày cập nhật / file date** | `May 05, 2026`                                                     |
 | **SHA-256**                   | `a0ef9087607d9cad20b08139e73e41242e044ad5bd8cee141d3bad314586737f` |
@@ -62,6 +69,7 @@ Hoặc tải trực tiếp tại đây:
 | **Tên file**                  | `VMware-Workstation-Full-25H2u1-25219725.exe`                      |
 | **Dung lượng**                | `278.31 MB`                                                        |
 | **Build Number**              | `25219725`                                                         |
+| **Release Level Info**        | `540566`                                                           |
 | **Ngày phát hành**            | `Feb 26, 2026`                                                     |
 | **Ngày cập nhật / file date** | `Feb 20, 2026`                                                     |
 | **SHA-256**                   | `b592c47756d47c932a3ce2c2b83ad3af1fa23ccc1dd1d3166a51bcc1d2bd58e0` |
@@ -108,6 +116,7 @@ Hoặc tải trực tiếp tại đây:
 | **Tên file**                  | `VMware-workstation-full-17.6.4-24832109.exe`                      |
 | **Dung lượng**                | `405.72 MB`                                                        |
 | **Build Number**              | `24832109`                                                         |
+| **Release Level Info**        | `533272`                                                           |
 | **Ngày phát hành**            | `Jul 15, 2025`                                                     |
 | **Ngày cập nhật / file date** | `Jul 09, 2025`                                                     |
 | **SHA-256**                   | `10fe3a36f525d88aa133118ab3b5a16b18da88d4aa11b14d74e4164b3fb94ba9` |
@@ -131,6 +140,7 @@ Hoặc tải trực tiếp tại đây:
 | **Tên file**                  | `VMware-workstation-full-17.6.3-24583834.exe`                      |
 | **Dung lượng**                | `401.43 MB`                                                        |
 | **Build Number**              | `24583834`                                                         |
+| **Release Level Info**        | `528496`                                                           |
 | **Ngày phát hành**            | `Mar 04, 2025`                                                     |
 | **Ngày cập nhật / file date** | `Feb 24, 2025`                                                     |
 | **SHA-256**                   | `d7c04b4dd1e6bf551693897d4805e99c45198a830c6361d9af8267b40906857b` |
@@ -154,6 +164,7 @@ Hoặc tải trực tiếp tại đây:
 | **Tên file**                  | `VMware-workstation-full-17.6.2-24409262.exe`                      |
 | **Dung lượng**                | `447.93 MB`                                                        |
 | **Build Number**              | `24409262`                                                         |
+| **Release Level Info**        | `526672`                                                           |
 | **Ngày phát hành**            | `Dec 17, 2024`                                                     |
 | **Ngày cập nhật / file date** | `Dec 15, 2024`                                                     |
 | **SHA-256**                   | `5e556b7fc1bd27775143eea930cac68760a1b5dc9b4c089d3fc664cd8439645b` |
@@ -177,6 +188,7 @@ Hoặc tải trực tiếp tại đây:
 | **Tên file**                  | `VMware-workstation-full-17.6.1-24319023.exe`                      |
 | **Dung lượng**                | `447.93 MB`                                                        |
 | **Build Number**              | `24319023`                                                         |
+| **Release Level Info**        | `524543`                                                           |
 | **Ngày phát hành**            | `Oct 10, 2024`                                                     |
 | **Ngày cập nhật / file date** | `Oct 08, 2024`                                                     |
 | **SHA-256**                   | `f95429e395a583eb5ba91f09b040e2f8c53a5e7aa37c4c6bfcaf82115a8d3fa4` |
@@ -200,6 +212,7 @@ Hoặc tải trực tiếp tại đây:
 | **Tên file**                  | `VMware-workstation-full-17.6.0-24238078.exe`                      |
 | **Dung lượng**                | `447.97 MB`                                                        |
 | **Build Number**              | `24238078`                                                         |
+| **Release Level Info**        | `522389`                                                           |
 | **Ngày phát hành**            | `Sep 03, 2024`                                                     |
 | **Ngày cập nhật / file date** | `Aug 28, 2024`                                                     |
 | **SHA-256**                   | `e34461ffbcb38ca7baa7928f7f37575ef31129961099eae96b43a64b06462778` |
@@ -223,6 +236,7 @@ Hoặc tải trực tiếp tại đây:
 | **Tên file**                  | `VMware-workstation-full-17.5.2-23775571.exe`                      |
 | **Dung lượng**                | `618.26 MB`                                                        |
 | **Build Number**              | `23775571`                                                         |
+| **Release Level Info**        | `520398`                                                           |
 | **Ngày phát hành**            | `May 14, 2024`                                                     |
 | **Ngày cập nhật / file date** | `May 10, 2024`                                                     |
 | **SHA-256**                   | `2c3a40993a450dc9a059563d07664fc0fb85ae398a57d22b1b4bf0e602417bf7` |
@@ -248,6 +262,7 @@ Hoặc tải trực tiếp tại đây:
 | **Tên file**                  | `VMware-Workstation-Full-26H1-25388281.x86_64.bundle`              |
 | **Dung lượng**                | `325.03 MB`                                                        |
 | **Build Number**              | `25388281`                                                         |
+| **Release Level Info**        | `543222`                                                           |
 | **Ngày phát hành**            | `May 14, 2026`                                                     |
 | **Ngày cập nhật / file date** | `May 05, 2026`                                                     |
 | **SHA-256**                   | `3f6d2501e654dbc7701a8290ff6ffcfba6c5444cd5f35f4933cd08c9499f6d84` |
@@ -271,6 +286,7 @@ Hoặc tải trực tiếp tại đây:
 | **Tên file**                  | `VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle`            |
 | **Dung lượng**                | `296.22 MB`                                                        |
 | **Build Number**              | `25219725`                                                         |
+| **Release Level Info**        | `540565`                                                           |
 | **Ngày phát hành**            | `Feb 26, 2026`                                                     |
 | **Ngày cập nhật / file date** | `Feb 20, 2026`                                                     |
 | **SHA-256**                   | `721aa93c4ebcaa51ac6db75ed97c7a4db10aa88110446890db1e40bfafc7566a` |
@@ -306,6 +322,150 @@ Hoặc tải trực tiếp tại đây:
 Hoặc tải trực tiếp tại đây:
 
 👉 [**VMware-Workstation-Full-25H2-24995812.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.x86_64.bundle&oid=47146678&id=kr_OJDDytiV_eDW-h326kEJDdlRxynvxU2d_BzJVwsunWc1K2-zTLyB8c6-HvGGyduz523WpProoppo=&verify=1782127162-qKJYfgALBWRRMt3LyGMdSIp9xIfpoKsNPXkpemXW0AE%3D)
+
+---
+
+## VMware Workstation Pro 17.6.4 for Linux
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Workstation Pro 17.6.4 for Linux                            |
+| **Tên file**                  | `VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle`            |
+| **Dung lượng**                | `339.46 MB`                                                        |
+| **Build Number**              | `24832109`                                                         |
+| **Release Level Info**        | `533273`                                                           |
+| **Ngày phát hành**            | `Jul 15, 2025`                                                     |
+| **Ngày cập nhật / file date** | `Jul 09, 2025`                                                     |
+| **SHA-256**                   | `64fbfbaeacc48865468114362a2bbaade9110cc9e87bc3bd938396ba7f19a9bd` |
+| **MD5**                       | `8683cf24267109c49d1b8c7188ecda20`                                 |
+
+### ⬇️ Download
+
+[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle&oid=47146966&id=XnOIJDaaMDCFmx32iJw7TbwZTn4B-01klQN2_PRCP0eRUhI9euPK6v1CCtXNYCLANa2o1fmM_u457gw=&verify=1782128171-r8sBXxYbViWJIq0Wgcfy0beqgyX7O6nFsO1c2VSDU%2BQ%3D)
+
+Hoặc tải trực tiếp tại đây:
+
+👉 [**VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle&oid=47146966&id=XnOIJDaaMDCFmx32iJw7TbwZTn4B-01klQN2_PRCP0eRUhI9euPK6v1CCtXNYCLANa2o1fmM_u457gw=&verify=1782128171-r8sBXxYbViWJIq0Wgcfy0beqgyX7O6nFsO1c2VSDU%2BQ%3D)
+
+---
+
+## VMware Workstation Pro 17.6.3 for Linux
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Workstation Pro 17.6.3 for Linux                            |
+| **Tên file**                  | `VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle`            |
+| **Dung lượng**                | `335.21 MB`                                                        |
+| **Build Number**              | `24583834`                                                         |
+| **Release Level Info**        | `528497`                                                           |
+| **Ngày phát hành**            | `Mar 04, 2025`                                                     |
+| **Ngày cập nhật / file date** | `Feb 27, 2025`                                                     |
+| **SHA-256**                   | `79575917728ded4c6d0b89f4ab6a81be9a773c00eeb68d1d12ac0db125478ee0` |
+| **MD5**                       | `01559c427a4b47547e67026320c77738`                                 |
+
+### ⬇️ Download
+
+[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle&oid=47146975&id=XC0gfb9UbUN6hLvnYTmXpdOS4hrMggZMEaIijOExH5QUZlj01ut2xdBTavMGYMhJ4yPVutubaYayk7k=&verify=1782128205-bV02RKmDQiWqNVmyPq25OuNwlHj%2Fs%2FOEv312Z8KyZWc%3D)
+
+Hoặc tải trực tiếp tại đây:
+
+👉 [**VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle&oid=47146975&id=XC0gfb9UbUN6hLvnYTmXpdOS4hrMggZMEaIijOExH5QUZlj01ut2xdBTavMGYMhJ4yPVutubaYayk7k=&verify=1782128205-bV02RKmDQiWqNVmyPq25OuNwlHj%2Fs%2FOEv312Z8KyZWc%3D)
+
+---
+
+## VMware Workstation Pro 17.6.2 for Linux
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Workstation Pro 17.6.2 for Linux                            |
+| **Tên file**                  | `VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle`            |
+| **Dung lượng**                | `372.49 MB`                                                        |
+| **Build Number**              | `24409262`                                                         |
+| **Release Level Info**        | `526673`                                                           |
+| **Ngày phát hành**            | `Dec 17, 2024`                                                     |
+| **Ngày cập nhật / file date** | `Dec 15, 2024`                                                     |
+| **SHA-256**                   | `15536dfc5afbbcf42daec10b1d9d1d6da3ca27da478938defc9c558064ff09f7` |
+| **MD5**                       | `90db043747bd48f82f694d51bef661a8`                                 |
+
+### ⬇️ Download
+
+[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle&oid=47146987&id=K78d5PNPso8FadQNTzK8XONqv2J4k7cduyY2w-f4B6H_I_trmGcFCZL48WfyG_kDvhV_hesP1k7XA28=&verify=1782128226-%2BF6JnF1hFrnJ1nbG6M5464tttJXEO%2Bagj0HjQ9RdASo%3D)
+
+Hoặc tải trực tiếp tại đây:
+
+👉 [**VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle&oid=47146987&id=K78d5PNPso8FadQNTzK8XONqv2J4k7cduyY2w-f4B6H_I_trmGcFCZL48WfyG_kDvhV_hesP1k7XA28=&verify=1782128226-%2BF6JnF1hFrnJ1nbG6M5464tttJXEO%2Bagj0HjQ9RdASo%3D)
+
+---
+
+## VMware Workstation Pro 17.6.1 for Linux
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Workstation Pro 17.6.1 for Linux                            |
+| **Tên file**                  | `VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle`            |
+| **Dung lượng**                | `372.46 MB`                                                        |
+| **Build Number**              | `24319023`                                                         |
+| **Release Level Info**        | `524584`                                                           |
+| **Ngày phát hành**            | `Oct 10, 2024`                                                     |
+| **Ngày cập nhật / file date** | `Oct 08, 2024`                                                     |
+| **SHA-256**                   | `7b539aafa8251e7af3b49dc12a299b127938ef0355d3de68f616ceac3e59e016` |
+| **MD5**                       | `20567d4ee560385119cf8a8d4f7fbf18`                                 |
+
+### ⬇️ Download
+
+[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle&oid=47147006&id=vk36Xg5n8hbRVy_Jc2tbeLinU7B_t-WVCrxASZ-GAdJf3hQrnHJUAno6SHlHF0SvYlSjkpKt31m5C30=&verify=1782128263-4iNCJ0WqrCczyzEZsv2515JtL2s%2BOSSvO209gQp2SpU%3D)
+
+Hoặc tải trực tiếp tại đây:
+
+👉 [**VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle&oid=47147006&id=vk36Xg5n8hbRVy_Jc2tbeLinU7B_t-WVCrxASZ-GAdJf3hQrnHJUAno6SHlHF0SvYlSjkpKt31m5C30=&verify=1782128263-4iNCJ0WqrCczyzEZsv2515JtL2s%2BOSSvO209gQp2SpU%3D)
+
+---
+
+## VMware Workstation Pro 17.6.0 for Linux
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Workstation Pro 17.6.0 for Linux                            |
+| **Tên file**                  | `VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle`            |
+| **Dung lượng**                | `372.46 MB`                                                        |
+| **Build Number**              | `24238078`                                                         |
+| **Release Level Info**        | `522391`                                                           |
+| **Ngày phát hành**            | `Sep 03, 2024`                                                     |
+| **Ngày cập nhật / file date** | `Aug 28, 2024`                                                     |
+| **SHA-256**                   | `5e9e8e01278bef6408a360ff2f56218c2ee62854735be8d9cbe2dc61811ca0dc` |
+| **MD5**                       | `ed12df25b5331b838810b10c45e3b0de`                                 |
+
+### ⬇️ Download
+
+[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle&oid=47147016&id=Aq_tKuidxeoQwE_gS81JKABBFMtUq881KIouCZggnblqcKBtWlM0FbMVM3--RsJ3wvILgNF-XJlZpHM=&verify=1782128284-I8SpzxLz%2Bb2bsFRh2qfRpTaBY5rGUXT6IM4RqG0pUeo%3D)
+
+Hoặc tải trực tiếp tại đây:
+
+👉 [**VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle&oid=47147016&id=Aq_tKuidxeoQwE_gS81JKABBFMtUq881KIouCZggnblqcKBtWlM0FbMVM3--RsJ3wvILgNF-XJlZpHM=&verify=1782128284-I8SpzxLz%2Bb2bsFRh2qfRpTaBY5rGUXT6IM4RqG0pUeo%3D)
+
+---
+
+## VMware Workstation Pro 17.5.2 for Linux
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Workstation Pro 17.5.2 for Linux                            |
+| **Tên file**                  | `VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle`            |
+| **Dung lượng**                | `510.58 MB`                                                        |
+| **Build Number**              | `23775571`                                                         |
+| **Release Level Info**        | `520449`                                                           |
+| **Ngày phát hành**            | `May 14, 2024`                                                     |
+| **Ngày cập nhật / file date** | `May 10, 2024`                                                     |
+| **SHA-256**                   | `a9da5e9b785ab98c6f49d1e769f6885028fd115c96e3cf0e6d22da3112b89a21` |
+| **MD5**                       | `70adb9ba7305972eeb845eac5d69b32e`                                 |
+
+### ⬇️ Download
+
+[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle&oid=47147024&id=Hqv0WLqLADWl5n8tq8-DbgAj0UiDSPnYqSar1kK2AR8og6wOQsEqPqcVJhhovWjsv-FfzFk_rfvu3nc=&verify=1782128310-6EI85cIUbkUk34HXfgRZzaqfNHLggR2TR297eRQKVGs%3D)
+
+Hoặc tải trực tiếp tại đây:
+
+👉 [**VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle&oid=47147024&id=Hqv0WLqLADWl5n8tq8-DbgAj0UiDSPnYqSar1kK2AR8og6wOQsEqPqcVJhhovWjsv-FfzFk_rfvu3nc=&verify=1782128310-6EI85cIUbkUk34HXfgRZzaqfNHLggR2TR297eRQKVGs%3D)
 
 ---
 
@@ -393,6 +553,12 @@ b6bc666962ff9d1b056a7ea686c9dd5c  ./VMware-Workstation-Full-26H1-25388281.x86_64
 |  10 | VMware Workstation Pro 26H1   | Linux    | Build `25388281`  | `325.03 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.x86_64.bundle&oid=47146393&id=SYxnAUOWu1CN9319mN6_xoI-fFFWnIYQJtQaLUjulvjEZ2FFZbuafrp-zD2OOSZGrUWZg0PJdpXffaI=&verify=1782126527-JLI6bHfx6zZm3ybPiZpHVMvy7tz2SoF992%2Bo%2F%2B0ssMc%3D) |
 |  11 | VMware Workstation Pro 25H2u1 | Linux    | Build `25219725`  | `296.22 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle&oid=47146665&id=7inIBaoinBz28DZzJIDqYrEOCoarAm5TuIMbtNli3Mz3--yC_Df0L3HH9-NJOlY-uJDQLsVijaC5yL8=&verify=1782127119-jlmK91mhVmz9FVgrdMbbyWJPT1MBrqHSuPRwLzADvdQ%3D) |
 |  12 | VMware Workstation Pro 25H2   | Linux    | Build `24995812`  | `295.19 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.x86_64.bundle&oid=47146678&id=kr_OJDDytiV_eDW-h326kEJDdlRxynvxU2d_BzJVwsunWc1K2-zTLyB8c6-HvGGyduz523WpProoppo=&verify=1782127162-qKJYfgALBWRRMt3LyGMdSIp9xIfpoKsNPXkpemXW0AE%3D) |
+|  13 | VMware Workstation Pro 17.6.4 | Linux    | Build `24832109`  | `339.46 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle&oid=47146966&id=XnOIJDaaMDCFmx32iJw7TbwZTn4B-01klQN2_PRCP0eRUhI9euPK6v1CCtXNYCLANa2o1fmM_u457gw=&verify=1782128171-r8sBXxYbViWJIq0Wgcfy0beqgyX7O6nFsO1c2VSDU%2BQ%3D) |
+|  14 | VMware Workstation Pro 17.6.3 | Linux    | Build `24583834`  | `335.21 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle&oid=47146975&id=XC0gfb9UbUN6hLvnYTmXpdOS4hrMggZMEaIijOExH5QUZlj01ut2xdBTavMGYMhJ4yPVutubaYayk7k=&verify=1782128205-bV02RKmDQiWqNVmyPq25OuNwlHj%2Fs%2FOEv312Z8KyZWc%3D) |
+|  15 | VMware Workstation Pro 17.6.2 | Linux    | Build `24409262`  | `372.49 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle&oid=47146987&id=K78d5PNPso8FadQNTzK8XONqv2J4k7cduyY2w-f4B6H_I_trmGcFCZL48WfyG_kDvhV_hesP1k7XA28=&verify=1782128226-%2BF6JnF1hFrnJ1nbG6M5464tttJXEO%2Bagj0HjQ9RdASo%3D) |
+|  16 | VMware Workstation Pro 17.6.1 | Linux    | Build `24319023`  | `372.46 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle&oid=47147006&id=vk36Xg5n8hbRVy_Jc2tbeLinU7B_t-WVCrxASZ-GAdJf3hQrnHJUAno6SHlHF0SvYlSjkpKt31m5C30=&verify=1782128263-4iNCJ0WqrCczyzEZsv2515JtL2s%2BOSSvO209gQp2SpU%3D) |
+|  17 | VMware Workstation Pro 17.6.0 | Linux    | Build `24238078`  | `372.46 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle&oid=47147016&id=Aq_tKuidxeoQwE_gS81JKABBFMtUq881KIouCZggnblqcKBtWlM0FbMVM3--RsJ3wvILgNF-XJlZpHM=&verify=1782128284-I8SpzxLz%2Bb2bsFRh2qfRpTaBY5rGUXT6IM4RqG0pUeo%3D) |
+|  18 | VMware Workstation Pro 17.5.2 | Linux    | Build `23775571`  | `510.58 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle&oid=47147024&id=Hqv0WLqLADWl5n8tq8-DbgAj0UiDSPnYqSar1kK2AR8og6wOQsEqPqcVJhhovWjsv-FfzFk_rfvu3nc=&verify=1782128310-6EI85cIUbkUk34HXfgRZzaqfNHLggR2TR297eRQKVGs%3D) |
 
 ---
 
