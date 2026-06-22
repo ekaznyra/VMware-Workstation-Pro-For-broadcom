@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware_workstation_16_icon.png" width="120" alt="VMware Logo"/>
-  <h1>📦 TỔNG HỢP LINK TẢI VMWARE WORKSTATION PRO TỪ BROADCOM 📦</h1>
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/vmware.svg" width="150" alt="VMware Logo"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=0095D3&center=true&vCenter=true&width=800&lines=📦+VMWARE+WORKSTATION+PRO+📦;TỔNG+HỢP+LINK+TẢI+CHÍNH+THỨC;TỪ+MÁY+CHỦ+BROADCOM" alt="Typing SVG" />
   <p><b>Kho lưu trữ liên kết tải ứng dụng, bộ cài, thông tin phiên bản, mã kiểm tra hash và ghi chú phát hành.</b></p>
   
   [![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
