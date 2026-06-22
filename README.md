@@ -1,37 +1,57 @@
-# 📦 Application Archive
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware_workstation_16_icon.png" width="120" alt="VMware Logo"/>
+  <h1>📦 TỔNG HỢP LINK TẢI VMWARE WORKSTATION PRO TỪ BROADCOM 📦</h1>
+  <p><b>Kho lưu trữ liên kết tải ứng dụng, bộ cài, thông tin phiên bản, mã kiểm tra hash và ghi chú phát hành.</b></p>
+  
+  [![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
+  [![Linux](https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux)](https://www.linux.org)
+  [![VMware](https://img.shields.io/badge/VMware-Workstation_Pro-green?style=for-the-badge&logo=vmware)](https://www.vmware.com)
+</div>
 
-Kho lưu trữ liên kết tải ứng dụng, bộ cài, thông tin phiên bản, mã kiểm tra hash và ghi chú phát hành.
+<br/>
 
-> Repository này dùng để tổng hợp link tải chính thức, thông tin build và checksum nhằm tiện tra cứu, cài đặt và kiểm tra tính toàn vẹn file.
+> [!NOTE]  
+> **Mục đích của Repository:** Tổng hợp các link tải trực tiếp từ máy chủ chính thức của Broadcom. Bao gồm đầy đủ thông tin Build Number, Release Level và Checksum để bạn tiện tra cứu, cài đặt và kiểm tra tính toàn vẹn của file.
 
 ---
 
-## 📚 Mục lục
+## 📚 Danh mục (Table of Contents)
 
-* [Windows Applications](#-windows-applications)
+<details open>
+<summary><b>🪟 Windows Applications</b></summary>
+<br>
 
-  * [VMware Workstation Pro 26H1 for Windows](#vmware-workstation-pro-26h1-for-windows)
-  * [VMware Workstation Pro 25H2u1 for Windows](#vmware-workstation-pro-25h2u1-for-windows)
-  * [VMware Workstation Pro 25H2 for Windows](#vmware-workstation-pro-25h2-for-windows)
-  * [VMware Workstation Pro 17.6.4 for Windows](#vmware-workstation-pro-1764-for-windows)
-  * [VMware Workstation Pro 17.6.3 for Windows](#vmware-workstation-pro-1763-for-windows)
-  * [VMware Workstation Pro 17.6.2 for Windows](#vmware-workstation-pro-1762-for-windows)
-  * [VMware Workstation Pro 17.6.1 for Windows](#vmware-workstation-pro-1761-for-windows)
-  * [VMware Workstation Pro 17.6.0 for Windows](#vmware-workstation-pro-1760-for-windows)
-  * [VMware Workstation Pro 17.5.2 for Windows](#vmware-workstation-pro-1752-for-windows)
-* [Linux Applications](#-linux-applications)
+* [VMware Workstation Pro 26H1 for Windows](#vmware-workstation-pro-26h1-for-windows)
+* [VMware Workstation Pro 25H2u1 for Windows](#vmware-workstation-pro-25h2u1-for-windows)
+* [VMware Workstation Pro 25H2 for Windows](#vmware-workstation-pro-25h2-for-windows)
+* [VMware Workstation Pro 17.6.4 for Windows](#vmware-workstation-pro-1764-for-windows)
+* [VMware Workstation Pro 17.6.3 for Windows](#vmware-workstation-pro-1763-for-windows)
+* [VMware Workstation Pro 17.6.2 for Windows](#vmware-workstation-pro-1762-for-windows)
+* [VMware Workstation Pro 17.6.1 for Windows](#vmware-workstation-pro-1761-for-windows)
+* [VMware Workstation Pro 17.6.0 for Windows](#vmware-workstation-pro-1760-for-windows)
+* [VMware Workstation Pro 17.5.2 for Windows](#vmware-workstation-pro-1752-for-windows)
+</details>
 
-  * [VMware Workstation Pro 26H1 for Linux](#vmware-workstation-pro-26h1-for-linux)
-  * [VMware Workstation Pro 25H2u1 for Linux](#vmware-workstation-pro-25h2u1-for-linux)
-  * [VMware Workstation Pro 25H2 for Linux](#vmware-workstation-pro-25h2-for-linux)
-  * [VMware Workstation Pro 17.6.4 for Linux](#vmware-workstation-pro-1764-for-linux)
-  * [VMware Workstation Pro 17.6.3 for Linux](#vmware-workstation-pro-1763-for-linux)
-  * [VMware Workstation Pro 17.6.2 for Linux](#vmware-workstation-pro-1762-for-linux)
-  * [VMware Workstation Pro 17.6.1 for Linux](#vmware-workstation-pro-1761-for-linux)
-  * [VMware Workstation Pro 17.6.0 for Linux](#vmware-workstation-pro-1760-for-linux)
-  * [VMware Workstation Pro 17.5.2 for Linux](#vmware-workstation-pro-1752-for-linux)
-* [Checksum Guide](#-checksum-guide)
-* [Ghi chú sử dụng](#-ghi-chú-sử-dụng)
+<details open>
+<summary><b>🐧 Linux Applications</b></summary>
+<br>
+
+* [VMware Workstation Pro 26H1 for Linux](#vmware-workstation-pro-26h1-for-linux)
+* [VMware Workstation Pro 25H2u1 for Linux](#vmware-workstation-pro-25h2u1-for-linux)
+* [VMware Workstation Pro 25H2 for Linux](#vmware-workstation-pro-25h2-for-linux)
+* [VMware Workstation Pro 17.6.4 for Linux](#vmware-workstation-pro-1764-for-linux)
+* [VMware Workstation Pro 17.6.3 for Linux](#vmware-workstation-pro-1763-for-linux)
+* [VMware Workstation Pro 17.6.2 for Linux](#vmware-workstation-pro-1762-for-linux)
+* [VMware Workstation Pro 17.6.1 for Linux](#vmware-workstation-pro-1761-for-linux)
+* [VMware Workstation Pro 17.6.0 for Linux](#vmware-workstation-pro-1760-for-linux)
+* [VMware Workstation Pro 17.5.2 for Linux](#vmware-workstation-pro-1752-for-linux)
+</details>
+
+<br>
+
+* [🔐 Hướng dẫn kiểm tra Checksum (Checksum Guide)](#-hướng-dẫn-kiểm-tra-checksum-checksum-guide)
+* [📝 Ghi chú sử dụng (Usage Notes)](#-ghi-chú-sử-dụng-usage-notes)
+* [✅ Bảng tổng hợp các phiên bản](#-bảng-tổng-hợp-các-phiên-bản)
 
 ---
 
@@ -469,75 +489,61 @@ Hoặc tải trực tiếp tại đây:
 
 ---
 
-# 🔐 Checksum Guide
+# 🔐 Hướng dẫn kiểm tra Checksum (Checksum Guide)
 
-Sau khi tải file, nên kiểm tra checksum để đảm bảo file không bị lỗi hoặc bị thay đổi.
+> [!IMPORTANT]  
+> Sau khi tải file, **luôn luôn** kiểm tra checksum để đảm bảo file không bị lỗi trong quá trình tải xuống hoặc bị chỉnh sửa trái phép.
 
-## Kiểm tra SHA-256 trên Windows
+<details>
+<summary><b>🪟 Kiểm tra trên Windows (PowerShell)</b></summary>
+<br>
 
-Mở PowerShell tại thư mục chứa file rồi chạy:
-
+**1. Kiểm tra SHA-256:**
+Mở PowerShell tại thư mục chứa file rồi chạy lệnh:
 ```powershell
 Get-FileHash .\VMware-Workstation-Full-26H1-25388281.exe -Algorithm SHA256
 ```
+Kết quả hiển thị mã Hash phải khớp hoàn toàn với thông tin trên bảng.
 
-Kết quả đúng phải là:
-
-```text
-a0ef9087607d9cad20b08139e73e41242e044ad5bd8cee141d3bad314586737f
-```
-
-## Kiểm tra MD5 trên Windows
-
+**2. Kiểm tra MD5:**
 ```powershell
 Get-FileHash .\VMware-Workstation-Full-26H1-25388281.exe -Algorithm MD5
 ```
 
-Kết quả đúng phải là:
+</details>
 
-```text
-83f9b6cc7cf0e74ad3b15ccca27860af
-```
+<details>
+<summary><b>🐧 Kiểm tra trên Linux (Terminal)</b></summary>
+<br>
 
-## Kiểm tra SHA-256 trên Linux
-
-Mở Terminal tại thư mục chứa file rồi chạy:
-
+**1. Kiểm tra SHA-256:**
+Mở Terminal tại thư mục chứa file rồi chạy lệnh:
 ```bash
 sha256sum ./VMware-Workstation-Full-26H1-25388281.x86_64.bundle
 ```
+Kết quả hiển thị mã Hash phải khớp hoàn toàn với thông tin trên bảng.
 
-Kết quả đúng phải là:
-
-```text
-3f6d2501e654dbc7701a8290ff6ffcfba6c5444cd5f35f4933cd08c9499f6d84  ./VMware-Workstation-Full-26H1-25388281.x86_64.bundle
-```
-
-## Kiểm tra MD5 trên Linux
-
+**2. Kiểm tra MD5:**
 ```bash
 md5sum ./VMware-Workstation-Full-26H1-25388281.x86_64.bundle
 ```
 
-Kết quả đúng phải là:
-
-```text
-b6bc666962ff9d1b056a7ea686c9dd5c  ./VMware-Workstation-Full-26H1-25388281.x86_64.bundle
-```
+</details>
 
 ---
 
-# 📝 Ghi chú sử dụng
+# 📝 Ghi chú sử dụng (Usage Notes)
 
-* Nên ưu tiên tải từ nguồn chính thức của nhà phát hành.
-* Không lưu license key, crack, patch hoặc thông tin kích hoạt trong repository.
-* Nếu link tải có tham số xác thực tạm thời, link có thể hết hạn sau một thời gian.
-* Với các file quan trọng, hãy kiểm tra SHA-256 sau khi tải.
-* Repository này chỉ dùng cho mục đích lưu trữ thông tin, tra cứu và quản lý phiên bản.
+> [!WARNING]  
+> * **Nguồn gốc:** Ưu tiên tải trực tiếp từ nguồn chính thức của nhà phát hành.
+> * **Bản quyền:** Repository KHÔNG lưu trữ license key, crack, patch hoặc bất kỳ thông tin/công cụ kích hoạt trái phép nào.
+> * **Hạn sử dụng link:** Nếu link tải có chứa tham số xác thực tạm thời, link có thể hết hạn. Xin vui lòng báo lại nếu phát hiện link hỏng.
+> * **Bảo mật:** Với các file bộ cài quan trọng, hãy luôn đối chiếu lại mã SHA-256 sau khi tải để đảm bảo tính an toàn.
+> * **Mục đích:** Chỉ dùng cho mục đích tra cứu thông tin, lịch sử các bản build và quản lý phiên bản phần mềm.
 
 ---
 
-# ✅ Danh sách hiện có
+# ✅ Bảng tổng hợp các phiên bản
 
 | STT | Ứng dụng                      | Nền tảng | Phiên bản / Build |  Dung lượng | Tải về                                                                                                                                                                                                                                                             |
 | --: | ----------------------------- | -------- | ----------------- | ----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -562,7 +568,9 @@ b6bc666962ff9d1b056a7ea686c9dd5c  ./VMware-Workstation-Full-26H1-25388281.x86_64
 
 ---
 
-<p align="center">
-  <b>Application Archive</b><br>
-  Clean • Organized • Verified
-</p>
+<div align="center">
+  <br>
+  <b>🌟 NGUỒN TÀI NGUYÊN CHẤT LƯỢNG CAO TỪ CỘNG ĐỒNG 🌟</b><br>
+  <i>Clean • Organized • Verified</i><br>
+  <sub>Được tổng hợp và cập nhật liên tục để đảm bảo luôn có sẵn phiên bản mới nhất và các phiên bản ổn định cũ.</sub>
+</div>
