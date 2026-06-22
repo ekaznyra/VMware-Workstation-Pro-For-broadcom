@@ -12,9 +12,12 @@ Kho lưu trữ liên kết tải ứng dụng, bộ cài, thông tin phiên bả
 
   * [VMware Workstation Pro 26H1 for Windows](#vmware-workstation-pro-26h1-for-windows)
   * [VMware Workstation Pro 25H2u1 for Windows](#vmware-workstation-pro-25h2u1-for-windows)
+  * [VMware Workstation Pro 25H2 for Windows](#vmware-workstation-pro-25h2-for-windows)
 * [Linux Applications](#-linux-applications)
 
   * [VMware Workstation Pro 26H1 for Linux](#vmware-workstation-pro-26h1-for-linux)
+  * [VMware Workstation Pro 25H2u1 for Linux](#vmware-workstation-pro-25h2u1-for-linux)
+  * [VMware Workstation Pro 25H2 for Linux](#vmware-workstation-pro-25h2-for-linux)
 * [Checksum Guide](#-checksum-guide)
 * [Ghi chú sử dụng](#-ghi-chú-sử-dụng)
 
@@ -68,6 +71,29 @@ Hoặc tải trực tiếp tại đây:
 
 ---
 
+## VMware Workstation Pro 25H2 for Windows
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Workstation Pro 25H2 for Windows                            |
+| **Tên file**                  | `VMware-Workstation-Full-25H2-24995812.exe`                        |
+| **Dung lượng**                | `277.63 MB`                                                        |
+| **Build Number**              | `24995812`                                                         |
+| **Ngày phát hành**            | `Oct 14, 2025`                                                     |
+| **Ngày cập nhật / file date** | `Oct 09, 2025`                                                     |
+| **SHA-256**                   | `49ad7c2bbce854ed30ed0702d1af9fc042697777dc981e087bfa7241045b0361` |
+| **MD5**                       | `e9476168dfecaf1359a371c2500de7f8`                                 |
+
+### ⬇️ Download
+
+[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.exe&oid=47146647&id=K0Xv749W9Bkg9ttMNIgrvuy741g4O8ZN-_k8xuQQfeOZGNkcvajjcuFd-LpQwG-f3cxT6lB9CCeDBk8=&verify=1782127070-4ArmVOzsWcHYfyiFpR0VaagcKHYYtGH4DD40cBs2QFY%3D)
+
+Hoặc tải trực tiếp tại đây:
+
+👉 [**VMware-Workstation-Full-25H2-24995812.exe**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.exe&oid=47146647&id=K0Xv749W9Bkg9ttMNIgrvuy741g4O8ZN-_k8xuQQfeOZGNkcvajjcuFd-LpQwG-f3cxT6lB9CCeDBk8=&verify=1782127070-4ArmVOzsWcHYfyiFpR0VaagcKHYYtGH4DD40cBs2QFY%3D)
+
+---
+
 # 🐧 Linux Applications
 
 ## VMware Workstation Pro 26H1 for Linux
@@ -90,6 +116,52 @@ Hoặc tải trực tiếp tại đây:
 Hoặc tải trực tiếp tại đây:
 
 👉 [**VMware-Workstation-Full-26H1-25388281.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.x86_64.bundle&oid=47146393&id=SYxnAUOWu1CN9319mN6_xoI-fFFWnIYQJtQaLUjulvjEZ2FFZbuafrp-zD2OOSZGrUWZg0PJdpXffaI=&verify=1782126527-JLI6bHfx6zZm3ybPiZpHVMvy7tz2SoF992%2Bo%2F%2B0ssMc%3D)
+
+---
+
+## VMware Workstation Pro 25H2u1 for Linux
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Workstation Pro 25H2u1 for Linux                            |
+| **Tên file**                  | `VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle`            |
+| **Dung lượng**                | `296.22 MB`                                                        |
+| **Build Number**              | `25219725`                                                         |
+| **Ngày phát hành**            | `Feb 26, 2026`                                                     |
+| **Ngày cập nhật / file date** | `Feb 20, 2026`                                                     |
+| **SHA-256**                   | `721aa93c4ebcaa51ac6db75ed97c7a4db10aa88110446890db1e40bfafc7566a` |
+| **MD5**                       | `f5c124966134fa8bdcdde8b66f1ba6b7`                                 |
+
+### ⬇️ Download
+
+[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle&oid=47146665&id=7inIBaoinBz28DZzJIDqYrEOCoarAm5TuIMbtNli3Mz3--yC_Df0L3HH9-NJOlY-uJDQLsVijaC5yL8=&verify=1782127119-jlmK91mhVmz9FVgrdMbbyWJPT1MBrqHSuPRwLzADvdQ%3D)
+
+Hoặc tải trực tiếp tại đây:
+
+👉 [**VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle&oid=47146665&id=7inIBaoinBz28DZzJIDqYrEOCoarAm5TuIMbtNli3Mz3--yC_Df0L3HH9-NJOlY-uJDQLsVijaC5yL8=&verify=1782127119-jlmK91mhVmz9FVgrdMbbyWJPT1MBrqHSuPRwLzADvdQ%3D)
+
+---
+
+## VMware Workstation Pro 25H2 for Linux
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Workstation Pro 25H2 for Linux                              |
+| **Tên file**                  | `VMware-Workstation-Full-25H2-24995812.x86_64.bundle`              |
+| **Dung lượng**                | `295.19 MB`                                                        |
+| **Build Number**              | `24995812`                                                         |
+| **Ngày phát hành**            | `Oct 14, 2025`                                                     |
+| **Ngày cập nhật / file date** | `Oct 09, 2025`                                                     |
+| **SHA-256**                   | `9beced8a0653c9382e9aa9917168a54bf5635e566c8cb341589d72cf14093322` |
+| **MD5**                       | `b5aa796d1b254d7f77549502b4415a92`                                 |
+
+### ⬇️ Download
+
+[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.x86_64.bundle&oid=47146678&id=kr_OJDDytiV_eDW-h326kEJDdlRxynvxU2d_BzJVwsunWc1K2-zTLyB8c6-HvGGyduz523WpProoppo=&verify=1782127162-qKJYfgALBWRRMt3LyGMdSIp9xIfpoKsNPXkpemXW0AE%3D)
+
+Hoặc tải trực tiếp tại đây:
+
+👉 [**VMware-Workstation-Full-25H2-24995812.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.x86_64.bundle&oid=47146678&id=kr_OJDDytiV_eDW-h326kEJDdlRxynvxU2d_BzJVwsunWc1K2-zTLyB8c6-HvGGyduz523WpProoppo=&verify=1782127162-qKJYfgALBWRRMt3LyGMdSIp9xIfpoKsNPXkpemXW0AE%3D)
 
 ---
 
@@ -167,7 +239,10 @@ b6bc666962ff9d1b056a7ea686c9dd5c  ./VMware-Workstation-Full-26H1-25388281.x86_64
 | --: | ----------------------------- | -------- | ----------------- | ----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |   1 | VMware Workstation Pro 26H1   | Windows  | Build `25388281`  | `274.34 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.exe&oid=47146166&id=sqIAHk5-lESnJmq2nJQ8iuehJ8I1ij75MPK3ZgAfG6NaWGHQqMnpTEPZg_36E_xSsBTFQybPFobOL8E=&verify=1782125681-x0kSJpl%2BUR8lP4pbwS8YcvZ89ZxwmeWUEOhXqlM9b10%3D) |
 |   2 | VMware Workstation Pro 25H2u1 | Windows  | Build `25219725`  | `278.31 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.exe&oid=47146487&id=m4svKPONH7C2W1_GuSE-t8dH7WZfLk8hnVm9gWu3tyc4lhzCEVUUHiFfoscpbCTifC54ZgJZoj7741o=&verify=1782126803-7d1NUneeWr8347RwohkAhKTf1YeIUAzyuNlCpVLuFa4%3D) |
-|   3 | VMware Workstation Pro 26H1   | Linux    | Build `25388281`  | `325.03 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.x86_64.bundle&oid=47146393&id=SYxnAUOWu1CN9319mN6_xoI-fFFWnIYQJtQaLUjulvjEZ2FFZbuafrp-zD2OOSZGrUWZg0PJdpXffaI=&verify=1782126527-JLI6bHfx6zZm3ybPiZpHVMvy7tz2SoF992%2Bo%2F%2B0ssMc%3D) |
+|   3 | VMware Workstation Pro 25H2   | Windows  | Build `24995812`  | `277.63 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.exe&oid=47146647&id=K0Xv749W9Bkg9ttMNIgrvuy741g4O8ZN-_k8xuQQfeOZGNkcvajjcuFd-LpQwG-f3cxT6lB9CCeDBk8=&verify=1782127070-4ArmVOzsWcHYfyiFpR0VaagcKHYYtGH4DD40cBs2QFY%3D) |
+|   4 | VMware Workstation Pro 26H1   | Linux    | Build `25388281`  | `325.03 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.x86_64.bundle&oid=47146393&id=SYxnAUOWu1CN9319mN6_xoI-fFFWnIYQJtQaLUjulvjEZ2FFZbuafrp-zD2OOSZGrUWZg0PJdpXffaI=&verify=1782126527-JLI6bHfx6zZm3ybPiZpHVMvy7tz2SoF992%2Bo%2F%2B0ssMc%3D) |
+|   5 | VMware Workstation Pro 25H2u1 | Linux    | Build `25219725`  | `296.22 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle&oid=47146665&id=7inIBaoinBz28DZzJIDqYrEOCoarAm5TuIMbtNli3Mz3--yC_Df0L3HH9-NJOlY-uJDQLsVijaC5yL8=&verify=1782127119-jlmK91mhVmz9FVgrdMbbyWJPT1MBrqHSuPRwLzADvdQ%3D) |
+|   6 | VMware Workstation Pro 25H2   | Linux    | Build `24995812`  | `295.19 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.x86_64.bundle&oid=47146678&id=kr_OJDDytiV_eDW-h326kEJDdlRxynvxU2d_BzJVwsunWc1K2-zTLyB8c6-HvGGyduz523WpProoppo=&verify=1782127162-qKJYfgALBWRRMt3LyGMdSIp9xIfpoKsNPXkpemXW0AE%3D) |
 
 ---
 
