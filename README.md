@@ -76,8 +76,6 @@
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.exe&oid=47146166&id=sqIAHk5-lESnJmq2nJQ8iuehJ8I1ij75MPK3ZgAfG6NaWGHQqMnpTEPZg_36E_xSsBTFQybPFobOL8E=&verify=1782125681-x0kSJpl%2BUR8lP4pbwS8YcvZ89ZxwmeWUEOhXqlM9b10%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-Workstation-Full-26H1-25388281.exe**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.exe&oid=47146166&id=sqIAHk5-lESnJmq2nJQ8iuehJ8I1ij75MPK3ZgAfG6NaWGHQqMnpTEPZg_36E_xSsBTFQybPFobOL8E=&verify=1782125681-x0kSJpl%2BUR8lP4pbwS8YcvZ89ZxwmeWUEOhXqlM9b10%3D)
 
 ---
@@ -100,8 +98,6 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.exe&oid=47146487&id=m4svKPONH7C2W1_GuSE-t8dH7WZfLk8hnVm9gWu3tyc4lhzCEVUUHiFfoscpbCTifC54ZgJZoj7741o=&verify=1782126803-7d1NUneeWr8347RwohkAhKTf1YeIUAzyuNlCpVLuFa4%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-Workstation-Full-25H2u1-25219725.exe**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.exe&oid=47146487&id=m4svKPONH7C2W1_GuSE-t8dH7WZfLk8hnVm9gWu3tyc4lhzCEVUUHiFfoscpbCTifC54ZgJZoj7741o=&verify=1782126803-7d1NUneeWr8347RwohkAhKTf1YeIUAzyuNlCpVLuFa4%3D)
 
 ---
@@ -122,8 +118,6 @@ Hoặc tải trực tiếp tại đây:
 ### ⬇️ Download
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.exe&oid=47146647&id=K0Xv749W9Bkg9ttMNIgrvuy741g4O8ZN-_k8xuQQfeOZGNkcvajjcuFd-LpQwG-f3cxT6lB9CCeDBk8=&verify=1782127070-4ArmVOzsWcHYfyiFpR0VaagcKHYYtGH4DD40cBs2QFY%3D)
-
-Hoặc tải trực tiếp tại đây:
 
 👉 [**VMware-Workstation-Full-25H2-24995812.exe**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.exe&oid=47146647&id=K0Xv749W9Bkg9ttMNIgrvuy741g4O8ZN-_k8xuQQfeOZGNkcvajjcuFd-LpQwG-f3cxT6lB9CCeDBk8=&verify=1782127070-4ArmVOzsWcHYfyiFpR0VaagcKHYYtGH4DD40cBs2QFY%3D)
 
@@ -147,9 +141,13 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.4-24832109.exe&oid=47146741&id=gZkZSblNE4FqrbpvVF7QNNFejUiaqn4vGoT24daZy2fx26NjXAS14UOD0ff5MlbAIhsV5KgrgjeIt2E=&verify=1782127372-d7dqK8JphR4nktvMjGzOgVlf%2B5GC%2FeESHaTqiANcvtg%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-workstation-full-17.6.4-24832109.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.4-24832109.exe&oid=47146741&id=gZkZSblNE4FqrbpvVF7QNNFejUiaqn4vGoT24daZy2fx26NjXAS14UOD0ff5MlbAIhsV5KgrgjeIt2E=&verify=1782127372-d7dqK8JphR4nktvMjGzOgVlf%2B5GC%2FeESHaTqiANcvtg%3D)
+
+Hoặc tải từ Google Drive (Mirror):
+
+[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=drive_link)
+
+👉 [**VMware-workstation-full-17.6.4-24832109.exe (Google Drive)**](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=drive_link)
 
 ---
 
@@ -171,9 +169,13 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.3-24583834.exe&oid=47146751&id=DzpmvyIIKfrSXGBlzBnw9NqDS1Rr0t0dINLVet6gKDbII5Jl6zTTeD5zurLpVz0Y08mqRHz6Yx5BnH8=&verify=1782127410-%2FfOKE%2BLrYR127DIXlp54Ge9iSPxx4TvGH36KUJ5GS3M%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-workstation-full-17.6.3-24583834.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.3-24583834.exe&oid=47146751&id=DzpmvyIIKfrSXGBlzBnw9NqDS1Rr0t0dINLVet6gKDbII5Jl6zTTeD5zurLpVz0Y08mqRHz6Yx5BnH8=&verify=1782127410-%2FfOKE%2BLrYR127DIXlp54Ge9iSPxx4TvGH36KUJ5GS3M%3D)
+
+Hoặc tải từ Google Drive (Mirror):
+
+[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
+
+👉 [**VMware-workstation-full-17.6.3-24583834.exe (Google Drive)**](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
 
 ---
 
@@ -195,9 +197,13 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=47146774&id=vuytg3H7U9egLiKwQzJXgYp8W1_YM-Lc5EcZFq9MvklKsD4jkCM88VHzzcVDQjn2jvkm9MF8RRI8jJQ=&verify=1782127474-RAPZTbQIeAgW6cIWMtRZKSzmV0VtjYyATkFCjwmQjXE%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-workstation-full-17.6.2-24409262.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=47146774&id=vuytg3H7U9egLiKwQzJXgYp8W1_YM-Lc5EcZFq9MvklKsD4jkCM88VHzzcVDQjn2jvkm9MF8RRI8jJQ=&verify=1782127474-RAPZTbQIeAgW6cIWMtRZKSzmV0VtjYyATkFCjwmQjXE%3D)
+
+Hoặc tải từ Google Drive (Mirror):
+
+[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=drive_link)
+
+👉 [**VMware-workstation-full-17.6.2-24409262.exe (Google Drive)**](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=drive_link)
 
 ---
 
@@ -219,9 +225,13 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.1-24319023.exe&oid=47146875&id=y93DCWKVykPXboHSe3Ln_lTbfhXqn9_MO3o4rtZDjxCA8ugbuHEpcNGhs22t7EAZtVJoqOIIFLGwsrU=&verify=1782127895-6FkOM%2Fgkq5SvgOt0Q8ryLSrchP256CpFYuTUDxAMWuY%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-workstation-full-17.6.1-24319023.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.1-24319023.exe&oid=47146875&id=y93DCWKVykPXboHSe3Ln_lTbfhXqn9_MO3o4rtZDjxCA8ugbuHEpcNGhs22t7EAZtVJoqOIIFLGwsrU=&verify=1782127895-6FkOM%2Fgkq5SvgOt0Q8ryLSrchP256CpFYuTUDxAMWuY%3D)
+
+Hoặc tải từ Google Drive (Mirror):
+
+[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=drive_link)
+
+👉 [**VMware-workstation-full-17.6.1-24319023.exe (Google Drive)**](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=drive_link)
 
 ---
 
@@ -243,9 +253,13 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.0-24238078.exe&oid=47146885&id=4AgrltC75PgwsyV3zzh4jsdDkM9yJvHsPdLMzc21V1xXu4i8KA0J0uKYmvv8LTs7VlAusRDL9R3PHNc=&verify=1782127926-VT%2BPgtDcdart%2BP9ETuP%2FcGUUJm%2BkrffkKfRmFE2KAXU%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-workstation-full-17.6.0-24238078.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.0-24238078.exe&oid=47146885&id=4AgrltC75PgwsyV3zzh4jsdDkM9yJvHsPdLMzc21V1xXu4i8KA0J0uKYmvv8LTs7VlAusRDL9R3PHNc=&verify=1782127926-VT%2BPgtDcdart%2BP9ETuP%2FcGUUJm%2BkrffkKfRmFE2KAXU%3D)
+
+Hoặc tải từ Google Drive (Mirror):
+
+[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
+
+👉 [**VMware-workstation-full-17.6.0-24238078.exe (Google Drive)**](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
 
 ---
 
@@ -267,9 +281,13 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.5.2-23775571.exe&oid=47146891&id=NuFkfK8_khRZEA8-o6NWVLY3V4IolIbb6THTegVqYjky6D4U-Ae8fEtm02Ya5M9VL1YZv9mocqFQZS8=&verify=1782127947-aH%2FDxtiBpzHeEd30k%2BqWkXNHvkcDa%2Fh8T6bn55R1p5k%3D)
 
-Hoặc tải trực tiếp tại đây:
+👉 [**VMware-workstation-full-17.5.2-23775571.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.5.2-23775571.exe&oid=47146891&id=NuFkfK8_khRZEA8-o6NWVLY3V4IolIbb6THTegVqYjky6D4U-Ae8fEtm02Ya5M9VL1YZv9mocqFQZS8=&verify=1782127947-aH%2FDxtiBpzHeEd30k%2BqWkXNHvkcDa%2Fh8T6bn55R1p5k%3D)
 
-👉 [**VMware-workstation-full-17.5.2-23775571.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.5.2-23775571.exe&oid=47146891&id=NuFkfK8_khRZEA8-o6NWVLY3V4IolIbb6THTegVqqYjky6D4U-Ae8fEtm02Ya5M9VL1YZv9mocqFQZS8=&verify=1782127947-aH%2FDxtiBpzHeEd30k%2BqWkXNHvkcDa%2Fh8T6bn55R1p5k%3D)
+Hoặc tải từ Google Drive (Mirror):
+
+[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=drive_link)
+
+👉 [**VMware-workstation-full-17.5.2-23775571.exe (Google Drive)**](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=drive_link)
 
 ---
 
@@ -293,8 +311,6 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.x86_64.bundle&oid=47146393&id=SYxnAUOWu1CN9319mN6_xoI-fFFWnIYQJtQaLUjulvjEZ2FFZbuafrp-zD2OOSZGrUWZg0PJdpXffaI=&verify=1782126527-JLI6bHfx6zZm3ybPiZpHVMvy7tz2SoF992%2Bo%2F%2B0ssMc%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-Workstation-Full-26H1-25388281.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.x86_64.bundle&oid=47146393&id=SYxnAUOWu1CN9319mN6_xoI-fFFWnIYQJtQaLUjulvjEZ2FFZbuafrp-zD2OOSZGrUWZg0PJdpXffaI=&verify=1782126527-JLI6bHfx6zZm3ybPiZpHVMvy7tz2SoF992%2Bo%2F%2B0ssMc%3D)
 
 ---
@@ -317,8 +333,6 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle&oid=47146665&id=7inIBaoinBz28DZzJIDqYrEOCoarAm5TuIMbtNli3Mz3--yC_Df0L3HH9-NJOlY-uJDQLsVijaC5yL8=&verify=1782127119-jlmK91mhVmz9FVgrdMbbyWJPT1MBrqHSuPRwLzADvdQ%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle&oid=47146665&id=7inIBaoinBz28DZzJIDqYrEOCoarAm5TuIMbtNli3Mz3--yC_Df0L3HH9-NJOlY-uJDQLsVijaC5yL8=&verify=1782127119-jlmK91mhVmz9FVgrdMbbyWJPT1MBrqHSuPRwLzADvdQ%3D)
 
 ---
@@ -339,8 +353,6 @@ Hoặc tải trực tiếp tại đây:
 ### ⬇️ Download
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.x86_64.bundle&oid=47146678&id=kr_OJDDytiV_eDW-h326kEJDdlRxynvxU2d_BzJVwsunWc1K2-zTLyB8c6-HvGGyduz523WpProoppo=&verify=1782127162-qKJYfgALBWRRMt3LyGMdSIp9xIfpoKsNPXkpemXW0AE%3D)
-
-Hoặc tải trực tiếp tại đây:
 
 👉 [**VMware-Workstation-Full-25H2-24995812.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.x86_64.bundle&oid=47146678&id=kr_OJDDytiV_eDW-h326kEJDdlRxynvxU2d_BzJVwsunWc1K2-zTLyB8c6-HvGGyduz523WpProoppo=&verify=1782127162-qKJYfgALBWRRMt3LyGMdSIp9xIfpoKsNPXkpemXW0AE%3D)
 
@@ -364,8 +376,6 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle&oid=47146966&id=XnOIJDaaMDCFmx32iJw7TbwZTn4B-01klQN2_PRCP0eRUhI9euPK6v1CCtXNYCLANa2o1fmM_u457gw=&verify=1782128171-r8sBXxYbViWJIq0Wgcfy0beqgyX7O6nFsO1c2VSDU%2BQ%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle&oid=47146966&id=XnOIJDaaMDCFmx32iJw7TbwZTn4B-01klQN2_PRCP0eRUhI9euPK6v1CCtXNYCLANa2o1fmM_u457gw=&verify=1782128171-r8sBXxYbViWJIq0Wgcfy0beqgyX7O6nFsO1c2VSDU%2BQ%3D)
 
 ---
@@ -387,8 +397,6 @@ Hoặc tải trực tiếp tại đây:
 ### ⬇️ Download
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle&oid=47146975&id=XC0gfb9UbUN6hLvnYTmXpdOS4hrMggZMEaIijOExH5QUZlj01ut2xdBTavMGYMhJ4yPVutubaYayk7k=&verify=1782128205-bV02RKmDQiWqNVmyPq25OuNwlHj%2Fs%2FOEv312Z8KyZWc%3D)
-
-Hoặc tải trực tiếp tại đây:
 
 👉 [**VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle&oid=47146975&id=XC0gfb9UbUN6hLvnYTmXpdOS4hrMggZMEaIijOExH5QUZlj01ut2xdBTavMGYMhJ4yPVutubaYayk7k=&verify=1782128205-bV02RKmDQiWqNVmyPq25OuNwlHj%2Fs%2FOEv312Z8KyZWc%3D)
 
@@ -412,8 +420,6 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle&oid=47146987&id=K78d5PNPso8FadQNTzK8XONqv2J4k7cduyY2w-f4B6H_I_trmGcFCZL48WfyG_kDvhV_hesP1k7XA28=&verify=1782128226-%2BF6JnF1hFrnJ1nbG6M5464tttJXEO%2Bagj0HjQ9RdASo%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle&oid=47146987&id=K78d5PNPso8FadQNTzK8XONqv2J4k7cduyY2w-f4B6H_I_trmGcFCZL48WfyG_kDvhV_hesP1k7XA28=&verify=1782128226-%2BF6JnF1hFrnJ1nbG6M5464tttJXEO%2Bagj0HjQ9RdASo%3D)
 
 ---
@@ -435,8 +441,6 @@ Hoặc tải trực tiếp tại đây:
 ### ⬇️ Download
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle&oid=47147006&id=vk36Xg5n8hbRVy_Jc2tbeLinU7B_t-WVCrxASZ-GAdJf3hQrnHJUAno6SHlHF0SvYlSjkpKt31m5C30=&verify=1782128263-4iNCJ0WqrCczyzEZsv2515JtL2s%2BOSSvO209gQp2SpU%3D)
-
-Hoặc tải trực tiếp tại đây:
 
 👉 [**VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle&oid=47147006&id=vk36Xg5n8hbRVy_Jc2tbeLinU7B_t-WVCrxASZ-GAdJf3hQrnHJUAno6SHlHF0SvYlSjkpKt31m5C30=&verify=1782128263-4iNCJ0WqrCczyzEZsv2515JtL2s%2BOSSvO209gQp2SpU%3D)
 
@@ -460,8 +464,6 @@ Hoặc tải trực tiếp tại đây:
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle&oid=47147016&id=Aq_tKuidxeoQwE_gS81JKABBFMtUq881KIouCZggnblqcKBtWlM0FbMVM3--RsJ3wvILgNF-XJlZpHM=&verify=1782128284-I8SpzxLz%2Bb2bsFRh2qfRpTaBY5rGUXT6IM4RqG0pUeo%3D)
 
-Hoặc tải trực tiếp tại đây:
-
 👉 [**VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle&oid=47147016&id=Aq_tKuidxeoQwE_gS81JKABBFMtUq881KIouCZggnblqcKBtWlM0FbMVM3--RsJ3wvILgNF-XJlZpHM=&verify=1782128284-I8SpzxLz%2Bb2bsFRh2qfRpTaBY5rGUXT6IM4RqG0pUeo%3D)
 
 ---
@@ -483,8 +485,6 @@ Hoặc tải trực tiếp tại đây:
 ### ⬇️ Download
 
 [![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle&oid=47147024&id=Hqv0WLqLADWl5n8tq8-DbgAj0UiDSPnYqSar1kK2AR8og6wOQsEqPqcVJhhovWjsv-FfzFk_rfvu3nc=&verify=1782128310-6EI85cIUbkUk34HXfgRZzaqfNHLggR2TR297eRQKVGs%3D)
-
-Hoặc tải trực tiếp tại đây:
 
 👉 [**VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle&oid=47147024&id=Hqv0WLqLADWl5n8tq8-DbgAj0UiDSPnYqSar1kK2AR8og6wOQsEqPqcVJhhovWjsv-FfzFk_rfvu3nc=&verify=1782128310-6EI85cIUbkUk34HXfgRZzaqfNHLggR2TR297eRQKVGs%3D)
 
