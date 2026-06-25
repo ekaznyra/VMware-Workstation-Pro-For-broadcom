@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/vmware.svg" width="150" alt="VMware Logo"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=0095D3&center=true&vCenter=true&width=800&lines=📦+VMWARE+WORKSTATION+PRO+📦;TỔNG+HỢP+LINK+TẢI+CHÍNH+THỨC;TỪ+MÁY+CHỦ+BROADCOM" alt="Typing SVG" />
+  <img src="https://cdn.simpleicons.org/vmware/0095D3" width="120" alt="VMware Logo"/>
+  <br/><br/>
+
+# 📦 VMWARE WORKSTATION PRO 📦
+
+### TỔNG HỢP LINK TẢI CHÍNH THỨC TỪ MÁY CHỦ BROADCOM
+
   <p><b>Kho lưu trữ liên kết tải ứng dụng, bộ cài, thông tin phiên bản, mã kiểm tra hash và ghi chú phát hành.</b></p>
   
   [![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
@@ -139,15 +143,16 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.4-24832109.exe&oid=47146741&id=gZkZSblNE4FqrbpvVF7QNNFejUiaqn4vGoT24daZy2fx26NjXAS14UOD0ff5MlbAIhsV5KgrgjeIt2E=&verify=1782127372-d7dqK8JphR4nktvMjGzOgVlf%2B5GC%2FeESHaTqiANcvtg%3D)
+[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=drive_link)
 
-👉 [**VMware-workstation-full-17.6.4-24832109.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.4-24832109.exe&oid=47146741&id=gZkZSblNE4FqrbpvVF7QNNFejUiaqn4vGoT24daZy2fx26NjXAS14UOD0ff5MlbAIhsV5KgrgjeIt2E=&verify=1782127372-d7dqK8JphR4nktvMjGzOgVlf%2B5GC%2FeESHaTqiANcvtg%3D)
+👉 [**VMware-workstation-full-17.6.4-24832109.exe**](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=drive_link)
 
-Hoặc tải từ Google Drive (Mirror):
+<details>
+<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
 
-[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=drive_link)
+[VMware-workstation-full-17.6.4-24832109.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.4-24832109.exe&oid=47146741&id=gZkZSblNE4FqrbpvVF7QNNFejUiaqn4vGoT24daZy2fx26NjXAS14UOD0ff5MlbAIhsV5KgrgjeIt2E=&verify=1782127372-d7dqK8JphR4nktvMjGzOgVlf%2B5GC%2FeESHaTqiANcvtg%3D)
 
-👉 [**VMware-workstation-full-17.6.4-24832109.exe (Google Drive)**](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=drive_link)
+</details>
 
 ---
 
@@ -167,15 +172,16 @@ Hoặc tải từ Google Drive (Mirror):
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.3-24583834.exe&oid=47146751&id=DzpmvyIIKfrSXGBlzBnw9NqDS1Rr0t0dINLVet6gKDbII5Jl6zTTeD5zurLpVz0Y08mqRHz6Yx5BnH8=&verify=1782127410-%2FfOKE%2BLrYR127DIXlp54Ge9iSPxx4TvGH36KUJ5GS3M%3D)
+[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
 
-👉 [**VMware-workstation-full-17.6.3-24583834.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.3-24583834.exe&oid=47146751&id=DzpmvyIIKfrSXGBlzBnw9NqDS1Rr0t0dINLVet6gKDbII5Jl6zTTeD5zurLpVz0Y08mqRHz6Yx5BnH8=&verify=1782127410-%2FfOKE%2BLrYR127DIXlp54Ge9iSPxx4TvGH36KUJ5GS3M%3D)
+👉 [**VMware-workstation-full-17.6.3-24583834.exe**](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
 
-Hoặc tải từ Google Drive (Mirror):
+<details>
+<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
 
-[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
+[VMware-workstation-full-17.6.3-24583834.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.3-24583834.exe&oid=47146751&id=DzpmvyIIKfrSXGBlzBnw9NqDS1Rr0t0dINLVet6gKDbII5Jl6zTTeD5zurLpVz0Y08mqRHz6Yx5BnH8=&verify=1782127410-%2FfOKE%2BLrYR127DIXlp54Ge9iSPxx4TvGH36KUJ5GS3M%3D)
 
-👉 [**VMware-workstation-full-17.6.3-24583834.exe (Google Drive)**](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
+</details>
 
 ---
 
@@ -195,15 +201,16 @@ Hoặc tải từ Google Drive (Mirror):
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=47146774&id=vuytg3H7U9egLiKwQzJXgYp8W1_YM-Lc5EcZFq9MvklKsD4jkCM88VHzzcVDQjn2jvkm9MF8RRI8jJQ=&verify=1782127474-RAPZTbQIeAgW6cIWMtRZKSzmV0VtjYyATkFCjwmQjXE%3D)
+[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=drive_link)
 
-👉 [**VMware-workstation-full-17.6.2-24409262.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=47146774&id=vuytg3H7U9egLiKwQzJXgYp8W1_YM-Lc5EcZFq9MvklKsD4jkCM88VHzzcVDQjn2jvkm9MF8RRI8jJQ=&verify=1782127474-RAPZTbQIeAgW6cIWMtRZKSzmV0VtjYyATkFCjwmQjXE%3D)
+👉 [**VMware-workstation-full-17.6.2-24409262.exe**](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=drive_link)
 
-Hoặc tải từ Google Drive (Mirror):
+<details>
+<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
 
-[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=drive_link)
+[VMware-workstation-full-17.6.2-24409262.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=47146774&id=vuytg3H7U9egLiKwQzJXgYp8W1_YM-Lc5EcZFq9MvklKsD4jkCM88VHzzcVDQjn2jvkm9MF8RRI8jJQ=&verify=1782127474-RAPZTbQIeAgW6cIWMtRZKSzmV0VtjYyATkFCjwmQjXE%3D)
 
-👉 [**VMware-workstation-full-17.6.2-24409262.exe (Google Drive)**](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=drive_link)
+</details>
 
 ---
 
@@ -223,15 +230,16 @@ Hoặc tải từ Google Drive (Mirror):
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.1-24319023.exe&oid=47146875&id=y93DCWKVykPXboHSe3Ln_lTbfhXqn9_MO3o4rtZDjxCA8ugbuHEpcNGhs22t7EAZtVJoqOIIFLGwsrU=&verify=1782127895-6FkOM%2Fgkq5SvgOt0Q8ryLSrchP256CpFYuTUDxAMWuY%3D)
+[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=drive_link)
 
-👉 [**VMware-workstation-full-17.6.1-24319023.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.1-24319023.exe&oid=47146875&id=y93DCWKVykPXboHSe3Ln_lTbfhXqn9_MO3o4rtZDjxCA8ugbuHEpcNGhs22t7EAZtVJoqOIIFLGwsrU=&verify=1782127895-6FkOM%2Fgkq5SvgOt0Q8ryLSrchP256CpFYuTUDxAMWuY%3D)
+👉 [**VMware-workstation-full-17.6.1-24319023.exe**](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=drive_link)
 
-Hoặc tải từ Google Drive (Mirror):
+<details>
+<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
 
-[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=drive_link)
+[VMware-workstation-full-17.6.1-24319023.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.1-24319023.exe&oid=47146875&id=y93DCWKVykPXboHSe3Ln_lTbfhXqn9_MO3o4rtZDjxCA8ugbuHEpcNGhs22t7EAZtVJoqOIIFLGwsrU=&verify=1782127895-6FkOM%2Fgkq5SvgOt0Q8ryLSrchP256CpFYuTUDxAMWuY%3D)
 
-👉 [**VMware-workstation-full-17.6.1-24319023.exe (Google Drive)**](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=drive_link)
+</details>
 
 ---
 
@@ -251,15 +259,16 @@ Hoặc tải từ Google Drive (Mirror):
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.0-24238078.exe&oid=47146885&id=4AgrltC75PgwsyV3zzh4jsdDkM9yJvHsPdLMzc21V1xXu4i8KA0J0uKYmvv8LTs7VlAusRDL9R3PHNc=&verify=1782127926-VT%2BPgtDcdart%2BP9ETuP%2FcGUUJm%2BkrffkKfRmFE2KAXU%3D)
+[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
 
-👉 [**VMware-workstation-full-17.6.0-24238078.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.0-24238078.exe&oid=47146885&id=4AgrltC75PgwsyV3zzh4jsdDkM9yJvHsPdLMzc21V1xXu4i8KA0J0uKYmvv8LTs7VlAusRDL9R3PHNc=&verify=1782127926-VT%2BPgtDcdart%2BP9ETuP%2FcGUUJm%2BkrffkKfRmFE2KAXU%3D)
+👉 [**VMware-workstation-full-17.6.0-24238078.exe**](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
 
-Hoặc tải từ Google Drive (Mirror):
+<details>
+<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
 
-[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
+[VMware-workstation-full-17.6.0-24238078.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.0-24238078.exe&oid=47146885&id=4AgrltC75PgwsyV3zzh4jsdDkM9yJvHsPdLMzc21V1xXu4i8KA0J0uKYmvv8LTs7VlAusRDL9R3PHNc=&verify=1782127926-VT%2BPgtDcdart%2BP9ETuP%2FcGUUJm%2BkrffkKfRmFE2KAXU%3D)
 
-👉 [**VMware-workstation-full-17.6.0-24238078.exe (Google Drive)**](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
+</details>
 
 ---
 
@@ -279,15 +288,16 @@ Hoặc tải từ Google Drive (Mirror):
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.5.2-23775571.exe&oid=47146891&id=NuFkfK8_khRZEA8-o6NWVLY3V4IolIbb6THTegVqYjky6D4U-Ae8fEtm02Ya5M9VL1YZv9mocqFQZS8=&verify=1782127947-aH%2FDxtiBpzHeEd30k%2BqWkXNHvkcDa%2Fh8T6bn55R1p5k%3D)
+[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=drive_link)
 
-👉 [**VMware-workstation-full-17.5.2-23775571.exe**](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.5.2-23775571.exe&oid=47146891&id=NuFkfK8_khRZEA8-o6NWVLY3V4IolIbb6THTegVqYjky6D4U-Ae8fEtm02Ya5M9VL1YZv9mocqFQZS8=&verify=1782127947-aH%2FDxtiBpzHeEd30k%2BqWkXNHvkcDa%2Fh8T6bn55R1p5k%3D)
+👉 [**VMware-workstation-full-17.5.2-23775571.exe**](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=drive_link)
 
-Hoặc tải từ Google Drive (Mirror):
+<details>
+<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
 
-[![Google Drive](https://img.shields.io/badge/Mirror-Google%20Drive-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=drive_link)
+[VMware-workstation-full-17.5.2-23775571.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.5.2-23775571.exe&oid=47146891&id=NuFkfK8_khRZEA8-o6NWVLY3V4IolIbb6THTegVqYjky6D4U-Ae8fEtm02Ya5M9VL1YZv9mocqFQZS8=&verify=1782127947-aH%2FDxtiBpzHeEd30k%2BqWkXNHvkcDa%2Fh8T6bn55R1p5k%3D)
 
-👉 [**VMware-workstation-full-17.5.2-23775571.exe (Google Drive)**](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=drive_link)
+</details>
 
 ---
 
