@@ -4,19 +4,36 @@
 
 # 📦 VMWARE WORKSTATION PRO 📦
 
-### TỔNG HỢP LINK TẢI CHÍNH THỨC TỪ MÁY CHỦ BROADCOM
+### TỔNG HỢP LINK TẢI CHÍNH THỨC — MIRROR VĨNH VIỄN
 
-  <p><b>Kho lưu trữ liên kết tải ứng dụng, bộ cài, thông tin phiên bản, mã kiểm tra hash và ghi chú phát hành.</b></p>
-  
+  <p><b>Kho lưu trữ liên kết tải bộ cài VMware Workstation Pro: link tải vĩnh viễn, thông tin phiên bản, build number, mã kiểm tra hash (SHA-256 / MD5) và ghi chú phát hành.</b></p>
+
   [![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
   [![Linux](https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux)](https://www.linux.org)
   [![VMware](https://img.shields.io/badge/VMware-Workstation_Pro-green?style=for-the-badge&logo=vmware)](https://www.vmware.com)
+  [![Archive.org](https://img.shields.io/badge/Mirror-Archive.org-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/details/vmwareworkstationarchive)
 </div>
 
 <br/>
 
-> [!NOTE]  
-> **Mục đích của Repository:** Tổng hợp các link tải trực tiếp từ máy chủ chính thức của Broadcom. Bao gồm đầy đủ thông tin Build Number, Release Level và Checksum để bạn tiện tra cứu, cài đặt và kiểm tra tính toàn vẹn của file.
+> [!NOTE]
+> **Mục đích của Repository:** Tổng hợp link tải bộ cài VMware Workstation Pro kèm đầy đủ Build Number, Release Level và Checksum để bạn tiện tra cứu, cài đặt và kiểm tra tính toàn vẹn của file.
+>
+> **🆓 VMware Workstation Pro hiện MIỄN PHÍ** cho mọi mục đích (cá nhân, học tập, thương mại) và **không cần license key**.
+
+> [!IMPORTANT]
+> **Vì sao dùng link Archive.org?** Link tải trực tiếp từ máy chủ Broadcom có chứa token xác thực `verify=...` **chỉ sống được vài ngày rồi hết hạn (lỗi 403)**. Vì vậy repo này ưu tiên dùng **mirror Archive.org** — link **vĩnh viễn, không cần đăng nhập, không hết hạn**. Toàn bộ file trên Archive.org đã được **đối chiếu MD5 trùng khớp với bản gốc Broadcom** (18/18 phiên bản ✅), nên hoàn toàn yên tâm về tính toàn vẹn.
+
+---
+
+## ⚡ Tải nhanh (phiên bản mới nhất — 26H1)
+
+| Nền tảng | File | Tải vĩnh viễn (Archive.org) |
+| -------- | ---- | --------------------------- |
+| 🪟 **Windows** | `VMware-Workstation-Full-26H1-25388281.exe` | [![DL](https://img.shields.io/badge/⬇️_Download-26H1_Windows-654FF0?style=flat-square)](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1-25388281.exe) |
+| 🐧 **Linux** | `VMware-Workstation-Full-26H1-25388281.x86_64.bundle` | [![DL](https://img.shields.io/badge/⬇️_Download-26H1_Linux-654FF0?style=flat-square)](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle) |
+
+> 💡 Hoặc dùng **[script tải tự động](#-script-tải-tự-động-auto-download)** để chọn phiên bản qua menu và tự động kiểm tra checksum.
 
 ---
 
@@ -54,9 +71,24 @@
 
 <br>
 
+* [🗂️ Kho phiên bản cũ (Older Versions)](#️-kho-phiên-bản-cũ-older-versions)
+* [🤖 Script tải tự động (Auto Download)](#-script-tải-tự-động-auto-download)
+* [🏢 Tải chính thức từ Broadcom (Official)](#-tải-chính-thức-từ-broadcom-official)
 * [🔐 Hướng dẫn kiểm tra Checksum (Checksum Guide)](#-hướng-dẫn-kiểm-tra-checksum-checksum-guide)
 * [📝 Ghi chú sử dụng (Usage Notes)](#-ghi-chú-sử-dụng-usage-notes)
 * [✅ Bảng tổng hợp các phiên bản](#-bảng-tổng-hợp-các-phiên-bản)
+
+---
+
+## 🔽 Nguồn tải (Download Sources)
+
+Mỗi phiên bản bên dưới có thể có tối đa 3 nguồn tải:
+
+| Nguồn | Đặc điểm | Khuyến nghị |
+| ----- | -------- | :---------: |
+| 🟣 **Archive.org** | Vĩnh viễn, không cần tài khoản, không hết hạn. File đã đối chiếu MD5 khớp bản gốc. | ⭐ **Nên dùng** |
+| 🟦 **Google Drive** | Mirror dự phòng (một số bản 17.x). Tốc độ tốt, có thể giới hạn lượt tải/ngày. | Dự phòng |
+| 🏢 **Broadcom chính thức** | Nguồn gốc của nhà phát hành. **Cần tài khoản miễn phí**, link trực tiếp hết hạn nhanh. | Xác minh nguồn |
 
 ---
 
@@ -78,9 +110,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.exe&oid=47146166&id=sqIAHk5-lESnJmq2nJQ8iuehJ8I1ij75MPK3ZgAfG6NaWGHQqMnpTEPZg_36E_xSsBTFQybPFobOL8E=&verify=1782125681-x0kSJpl%2BUR8lP4pbwS8YcvZ89ZxwmeWUEOhXqlM9b10%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1-25388281.exe)
 
-👉 [**VMware-Workstation-Full-26H1-25388281.exe**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.exe&oid=47146166&id=sqIAHk5-lESnJmq2nJQ8iuehJ8I1ij75MPK3ZgAfG6NaWGHQqMnpTEPZg_36E_xSsBTFQybPFobOL8E=&verify=1782125681-x0kSJpl%2BUR8lP4pbwS8YcvZ89ZxwmeWUEOhXqlM9b10%3D)
+👉 [**VMware-Workstation-Full-26H1-25388281.exe**](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1-25388281.exe)
 
 ---
 
@@ -100,9 +132,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.exe&oid=47146487&id=m4svKPONH7C2W1_GuSE-t8dH7WZfLk8hnVm9gWu3tyc4lhzCEVUUHiFfoscpbCTifC54ZgJZoj7741o=&verify=1782126803-7d1NUneeWr8347RwohkAhKTf1YeIUAzyuNlCpVLuFa4%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2u1-25219725.exe)
 
-👉 [**VMware-Workstation-Full-25H2u1-25219725.exe**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.exe&oid=47146487&id=m4svKPONH7C2W1_GuSE-t8dH7WZfLk8hnVm9gWu3tyc4lhzCEVUUHiFfoscpbCTifC54ZgJZoj7741o=&verify=1782126803-7d1NUneeWr8347RwohkAhKTf1YeIUAzyuNlCpVLuFa4%3D)
+👉 [**VMware-Workstation-Full-25H2u1-25219725.exe**](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2u1-25219725.exe)
 
 ---
 
@@ -121,9 +153,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.exe&oid=47146647&id=K0Xv749W9Bkg9ttMNIgrvuy741g4O8ZN-_k8xuQQfeOZGNkcvajjcuFd-LpQwG-f3cxT6lB9CCeDBk8=&verify=1782127070-4ArmVOzsWcHYfyiFpR0VaagcKHYYtGH4DD40cBs2QFY%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2-24995812.exe)
 
-👉 [**VMware-Workstation-Full-25H2-24995812.exe**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.exe&oid=47146647&id=K0Xv749W9Bkg9ttMNIgrvuy741g4O8ZN-_k8xuQQfeOZGNkcvajjcuFd-LpQwG-f3cxT6lB9CCeDBk8=&verify=1782127070-4ArmVOzsWcHYfyiFpR0VaagcKHYYtGH4DD40cBs2QFY%3D)
+👉 [**VMware-Workstation-Full-25H2-24995812.exe**](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2-24995812.exe)
 
 ---
 
@@ -143,16 +175,10 @@
 
 ### ⬇️ Download
 
-[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=drive_link)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.4-24832109.exe)
+[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=drive_link)
 
-👉 [**VMware-workstation-full-17.6.4-24832109.exe**](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=drive_link)
-
-<details>
-<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
-
-[VMware-workstation-full-17.6.4-24832109.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.4-24832109.exe&oid=47146741&id=gZkZSblNE4FqrbpvVF7QNNFejUiaqn4vGoT24daZy2fx26NjXAS14UOD0ff5MlbAIhsV5KgrgjeIt2E=&verify=1782127372-d7dqK8JphR4nktvMjGzOgVlf%2B5GC%2FeESHaTqiANcvtg%3D)
-
-</details>
+👉 [**VMware-workstation-full-17.6.4-24832109.exe**](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.4-24832109.exe)
 
 ---
 
@@ -172,16 +198,10 @@
 
 ### ⬇️ Download
 
-[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.3-24583834.exe)
+[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
 
-👉 [**VMware-workstation-full-17.6.3-24583834.exe**](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
-
-<details>
-<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
-
-[VMware-workstation-full-17.6.3-24583834.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.3-24583834.exe&oid=47146751&id=DzpmvyIIKfrSXGBlzBnw9NqDS1Rr0t0dINLVet6gKDbII5Jl6zTTeD5zurLpVz0Y08mqRHz6Yx5BnH8=&verify=1782127410-%2FfOKE%2BLrYR127DIXlp54Ge9iSPxx4TvGH36KUJ5GS3M%3D)
-
-</details>
+👉 [**VMware-workstation-full-17.6.3-24583834.exe**](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.3-24583834.exe)
 
 ---
 
@@ -201,16 +221,10 @@
 
 ### ⬇️ Download
 
-[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=drive_link)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.2-24409262.exe)
+[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=drive_link)
 
-👉 [**VMware-workstation-full-17.6.2-24409262.exe**](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=drive_link)
-
-<details>
-<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
-
-[VMware-workstation-full-17.6.2-24409262.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=47146774&id=vuytg3H7U9egLiKwQzJXgYp8W1_YM-Lc5EcZFq9MvklKsD4jkCM88VHzzcVDQjn2jvkm9MF8RRI8jJQ=&verify=1782127474-RAPZTbQIeAgW6cIWMtRZKSzmV0VtjYyATkFCjwmQjXE%3D)
-
-</details>
+👉 [**VMware-workstation-full-17.6.2-24409262.exe**](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.2-24409262.exe)
 
 ---
 
@@ -230,16 +244,10 @@
 
 ### ⬇️ Download
 
-[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=drive_link)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.1-24319023.exe)
+[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=drive_link)
 
-👉 [**VMware-workstation-full-17.6.1-24319023.exe**](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=drive_link)
-
-<details>
-<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
-
-[VMware-workstation-full-17.6.1-24319023.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.1-24319023.exe&oid=47146875&id=y93DCWKVykPXboHSe3Ln_lTbfhXqn9_MO3o4rtZDjxCA8ugbuHEpcNGhs22t7EAZtVJoqOIIFLGwsrU=&verify=1782127895-6FkOM%2Fgkq5SvgOt0Q8ryLSrchP256CpFYuTUDxAMWuY%3D)
-
-</details>
+👉 [**VMware-workstation-full-17.6.1-24319023.exe**](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.1-24319023.exe)
 
 ---
 
@@ -259,16 +267,10 @@
 
 ### ⬇️ Download
 
-[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.0-24238078.exe)
+[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
 
-👉 [**VMware-workstation-full-17.6.0-24238078.exe**](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
-
-<details>
-<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
-
-[VMware-workstation-full-17.6.0-24238078.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.0-24238078.exe&oid=47146885&id=4AgrltC75PgwsyV3zzh4jsdDkM9yJvHsPdLMzc21V1xXu4i8KA0J0uKYmvv8LTs7VlAusRDL9R3PHNc=&verify=1782127926-VT%2BPgtDcdart%2BP9ETuP%2FcGUUJm%2BkrffkKfRmFE2KAXU%3D)
-
-</details>
+👉 [**VMware-workstation-full-17.6.0-24238078.exe**](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.0-24238078.exe)
 
 ---
 
@@ -288,16 +290,10 @@
 
 ### ⬇️ Download
 
-[![Google Drive](https://img.shields.io/badge/Download-Google%20Drive%20Mirror-4285F4?style=for-the-badge\&logo=google-drive\&logoColor=white)](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=drive_link)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.2-23775571.exe)
+[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=drive_link)
 
-👉 [**VMware-workstation-full-17.5.2-23775571.exe**](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=drive_link)
-
-<details>
-<summary>🔗 Link Broadcom gốc (có thể hết hạn)</summary>
-
-[VMware-workstation-full-17.5.2-23775571.exe (Broadcom)](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.5.2-23775571.exe&oid=47146891&id=NuFkfK8_khRZEA8-o6NWVLY3V4IolIbb6THTegVqYjky6D4U-Ae8fEtm02Ya5M9VL1YZv9mocqFQZS8=&verify=1782127947-aH%2FDxtiBpzHeEd30k%2BqWkXNHvkcDa%2Fh8T6bn55R1p5k%3D)
-
-</details>
+👉 [**VMware-workstation-full-17.5.2-23775571.exe**](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.2-23775571.exe)
 
 ---
 
@@ -319,9 +315,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.x86_64.bundle&oid=47146393&id=SYxnAUOWu1CN9319mN6_xoI-fFFWnIYQJtQaLUjulvjEZ2FFZbuafrp-zD2OOSZGrUWZg0PJdpXffaI=&verify=1782126527-JLI6bHfx6zZm3ybPiZpHVMvy7tz2SoF992%2Bo%2F%2B0ssMc%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle)
 
-👉 [**VMware-Workstation-Full-26H1-25388281.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.x86_64.bundle&oid=47146393&id=SYxnAUOWu1CN9319mN6_xoI-fFFWnIYQJtQaLUjulvjEZ2FFZbuafrp-zD2OOSZGrUWZg0PJdpXffaI=&verify=1782126527-JLI6bHfx6zZm3ybPiZpHVMvy7tz2SoF992%2Bo%2F%2B0ssMc%3D)
+👉 [**VMware-Workstation-Full-26H1-25388281.x86_64.bundle**](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle)
 
 ---
 
@@ -341,9 +337,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle&oid=47146665&id=7inIBaoinBz28DZzJIDqYrEOCoarAm5TuIMbtNli3Mz3--yC_Df0L3HH9-NJOlY-uJDQLsVijaC5yL8=&verify=1782127119-jlmK91mhVmz9FVgrdMbbyWJPT1MBrqHSuPRwLzADvdQ%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle)
 
-👉 [**VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle&oid=47146665&id=7inIBaoinBz28DZzJIDqYrEOCoarAm5TuIMbtNli3Mz3--yC_Df0L3HH9-NJOlY-uJDQLsVijaC5yL8=&verify=1782127119-jlmK91mhVmz9FVgrdMbbyWJPT1MBrqHSuPRwLzADvdQ%3D)
+👉 [**VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle**](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle)
 
 ---
 
@@ -362,9 +358,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.x86_64.bundle&oid=47146678&id=kr_OJDDytiV_eDW-h326kEJDdlRxynvxU2d_BzJVwsunWc1K2-zTLyB8c6-HvGGyduz523WpProoppo=&verify=1782127162-qKJYfgALBWRRMt3LyGMdSIp9xIfpoKsNPXkpemXW0AE%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2-24995812.x86_64.bundle)
 
-👉 [**VMware-Workstation-Full-25H2-24995812.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.x86_64.bundle&oid=47146678&id=kr_OJDDytiV_eDW-h326kEJDdlRxynvxU2d_BzJVwsunWc1K2-zTLyB8c6-HvGGyduz523WpProoppo=&verify=1782127162-qKJYfgALBWRRMt3LyGMdSIp9xIfpoKsNPXkpemXW0AE%3D)
+👉 [**VMware-Workstation-Full-25H2-24995812.x86_64.bundle**](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2-24995812.x86_64.bundle)
 
 ---
 
@@ -384,9 +380,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle&oid=47146966&id=XnOIJDaaMDCFmx32iJw7TbwZTn4B-01klQN2_PRCP0eRUhI9euPK6v1CCtXNYCLANa2o1fmM_u457gw=&verify=1782128171-r8sBXxYbViWJIq0Wgcfy0beqgyX7O6nFsO1c2VSDU%2BQ%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle)
 
-👉 [**VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle&oid=47146966&id=XnOIJDaaMDCFmx32iJw7TbwZTn4B-01klQN2_PRCP0eRUhI9euPK6v1CCtXNYCLANa2o1fmM_u457gw=&verify=1782128171-r8sBXxYbViWJIq0Wgcfy0beqgyX7O6nFsO1c2VSDU%2BQ%3D)
+👉 [**VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle**](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle)
 
 ---
 
@@ -406,9 +402,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle&oid=47146975&id=XC0gfb9UbUN6hLvnYTmXpdOS4hrMggZMEaIijOExH5QUZlj01ut2xdBTavMGYMhJ4yPVutubaYayk7k=&verify=1782128205-bV02RKmDQiWqNVmyPq25OuNwlHj%2Fs%2FOEv312Z8KyZWc%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle)
 
-👉 [**VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle&oid=47146975&id=XC0gfb9UbUN6hLvnYTmXpdOS4hrMggZMEaIijOExH5QUZlj01ut2xdBTavMGYMhJ4yPVutubaYayk7k=&verify=1782128205-bV02RKmDQiWqNVmyPq25OuNwlHj%2Fs%2FOEv312Z8KyZWc%3D)
+👉 [**VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle**](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle)
 
 ---
 
@@ -428,9 +424,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle&oid=47146987&id=K78d5PNPso8FadQNTzK8XONqv2J4k7cduyY2w-f4B6H_I_trmGcFCZL48WfyG_kDvhV_hesP1k7XA28=&verify=1782128226-%2BF6JnF1hFrnJ1nbG6M5464tttJXEO%2Bagj0HjQ9RdASo%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle)
 
-👉 [**VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle&oid=47146987&id=K78d5PNPso8FadQNTzK8XONqv2J4k7cduyY2w-f4B6H_I_trmGcFCZL48WfyG_kDvhV_hesP1k7XA28=&verify=1782128226-%2BF6JnF1hFrnJ1nbG6M5464tttJXEO%2Bagj0HjQ9RdASo%3D)
+👉 [**VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle**](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle)
 
 ---
 
@@ -450,9 +446,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle&oid=47147006&id=vk36Xg5n8hbRVy_Jc2tbeLinU7B_t-WVCrxASZ-GAdJf3hQrnHJUAno6SHlHF0SvYlSjkpKt31m5C30=&verify=1782128263-4iNCJ0WqrCczyzEZsv2515JtL2s%2BOSSvO209gQp2SpU%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle)
 
-👉 [**VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle&oid=47147006&id=vk36Xg5n8hbRVy_Jc2tbeLinU7B_t-WVCrxASZ-GAdJf3hQrnHJUAno6SHlHF0SvYlSjkpKt31m5C30=&verify=1782128263-4iNCJ0WqrCczyzEZsv2515JtL2s%2BOSSvO209gQp2SpU%3D)
+👉 [**VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle**](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle)
 
 ---
 
@@ -472,9 +468,9 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle&oid=47147016&id=Aq_tKuidxeoQwE_gS81JKABBFMtUq881KIouCZggnblqcKBtWlM0FbMVM3--RsJ3wvILgNF-XJlZpHM=&verify=1782128284-I8SpzxLz%2Bb2bsFRh2qfRpTaBY5rGUXT6IM4RqG0pUeo%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle)
 
-👉 [**VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle&oid=47147016&id=Aq_tKuidxeoQwE_gS81JKABBFMtUq881KIouCZggnblqcKBtWlM0FbMVM3--RsJ3wvILgNF-XJlZpHM=&verify=1782128284-I8SpzxLz%2Bb2bsFRh2qfRpTaBY5rGUXT6IM4RqG0pUeo%3D)
+👉 [**VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle**](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle)
 
 ---
 
@@ -494,16 +490,95 @@
 
 ### ⬇️ Download
 
-[![Download](https://img.shields.io/badge/Download-VMware%20Workstation%20Pro-blue?style=for-the-badge\&logo=vmware)](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle&oid=47147024&id=Hqv0WLqLADWl5n8tq8-DbgAj0UiDSPnYqSar1kK2AR8og6wOQsEqPqcVJhhovWjsv-FfzFk_rfvu3nc=&verify=1782128310-6EI85cIUbkUk34HXfgRZzaqfNHLggR2TR297eRQKVGs%3D)
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle)
 
-👉 [**VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle**](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle&oid=47147024&id=Hqv0WLqLADWl5n8tq8-DbgAj0UiDSPnYqSar1kK2AR8og6wOQsEqPqcVJhhovWjsv-FfzFk_rfvu3nc=&verify=1782128310-6EI85cIUbkUk34HXfgRZzaqfNHLggR2TR297eRQKVGs%3D)
+👉 [**VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle**](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle)
+
+---
+
+# 🗂️ Kho phiên bản cũ (Older Versions)
+
+> [!TIP]
+> Mirror Archive.org còn lưu trữ **toàn bộ lịch sử VMware Workstation từ 3.x đến nay** (Windows `.exe` và một số bản Linux/Fusion). Bấm vào thư mục để xem & tải trực tiếp.
+
+<details>
+<summary><b>📂 Xem danh sách các dòng phiên bản cũ (Windows)</b></summary>
+<br>
+
+| Dòng | Phạm vi build | Thư mục Archive.org |
+| ---- | ------------- | ------------------- |
+| **17.x** | 17.0.0 → 17.6.4 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/17.x/) |
+| **16.x** | 16.0.0 → 16.2.5 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/16.x/) |
+| **15.x** | 15.0.0 → 15.5.7 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/15.x/) |
+| **14.x** | 14.0.0 → 14.1.8 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/14.x/) |
+| **12.x** | 12.0.0 → 12.5.9 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/12.x/) |
+| **11.x** | 11.0.0 → 11.1.4 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/11.x/) |
+| **10.x** | 10.0.0 → 10.0.7 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/10.x/) |
+| **9.x**  | 9.0.0 → 9.0.4   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/9.x/) |
+| **8.x**  | 8.0.0 → 8.0.6   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/8.x/) |
+| **7.x**  | 7.0.0 → 7.1.6   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/7.x/) |
+| **6.x**  | 6.0.0 → 6.5.5   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/6.x/) |
+| **5.x**  | 5.0.0 → 5.5.9   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/5.x/) |
+| **4.x**  | 4.0.0 → 4.5.3   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/4.x/) |
+| **3.x**  | 3.0.0 → 3.2.1   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/3.x/) |
+
+</details>
+
+👉 Xem toàn bộ kho (Windows + Linux + Fusion): **[archive.org/details/vmwareworkstationarchive](https://archive.org/details/vmwareworkstationarchive)**
+
+---
+
+# 🤖 Script tải tự động (Auto Download)
+
+> [!TIP]
+> Thay vì copy link thủ công, dùng script trong thư mục [`scripts/`](scripts) để **liệt kê phiên bản, tải về và tự động kiểm tra MD5** từ mirror Archive.org.
+
+### 🪟 Windows (PowerShell)
+
+```powershell
+# Tải script về rồi chạy menu chọn phiên bản
+irm https://raw.githubusercontent.com/ekaznyra/VMware-Workstation-Pro-For-broadcom/main/scripts/Get-VMwareWorkstation.ps1 -OutFile Get-VMwareWorkstation.ps1
+.\Get-VMwareWorkstation.ps1                 # menu tương tác
+.\Get-VMwareWorkstation.ps1 -List           # liệt kê tất cả phiên bản
+.\Get-VMwareWorkstation.ps1 -Version 26H1   # tải thẳng bản 26H1 (Windows)
+```
+
+### 🐧 Linux (Bash)
+
+```bash
+curl -fsSLO https://raw.githubusercontent.com/ekaznyra/VMware-Workstation-Pro-For-broadcom/main/scripts/get-vmware-workstation.sh
+chmod +x get-vmware-workstation.sh
+./get-vmware-workstation.sh                  # menu tương tác
+./get-vmware-workstation.sh --list           # liệt kê tất cả phiên bản
+./get-vmware-workstation.sh --version 26H1   # tải thẳng bản 26H1 (Linux)
+```
+
+Script sẽ tự đối chiếu MD5 của file vừa tải với metadata trên Archive.org và báo `✅ OK` hoặc `❌ MISMATCH`.
+
+---
+
+# 🏢 Tải chính thức từ Broadcom (Official)
+
+> [!NOTE]
+> Đây là nguồn gốc của nhà phát hành. Cần **tài khoản Broadcom miễn phí** (dùng email cá nhân Gmail/Outlook... đều được), **không cần license key**.
+
+**Các bước:**
+
+1. Tạo / đăng nhập tài khoản tại **[support.broadcom.com](https://support.broadcom.com)**.
+2. Vào trang tải: **[VMware Workstation Pro Downloads](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)**.
+   *(Hoặc: góc trên bên phải chọn **VMware Cloud Foundation** → menu trái **My Downloads** → mục **Free Software Downloads available HERE**.)*
+3. Chọn **VMware Workstation Pro** → chọn nền tảng (Windows / Linux) → chọn phiên bản.
+4. Tích vào ô **Terms and Conditions** để bật nút tải.
+5. Bấm **Download** (lần đầu có thể phải điền form *trade compliance* — nhập thông tin rồi **I Agree**).
+
+📄 Bài viết tham khảo của Broadcom: [Download and license VMware Desktop Hypervisor](https://knowledge.broadcom.com/external/article/368667/) · [Downloading Free Software from the Broadcom Support Portal](https://knowledge.broadcom.com/external/article/397417/)
 
 ---
 
 # 🔐 Hướng dẫn kiểm tra Checksum (Checksum Guide)
 
-> [!IMPORTANT]  
-> Sau khi tải file, **luôn luôn** kiểm tra checksum để đảm bảo file không bị lỗi trong quá trình tải xuống hoặc bị chỉnh sửa trái phép.
+> [!IMPORTANT]
+> Sau khi tải file, **luôn luôn** kiểm tra checksum để đảm bảo file không bị lỗi trong quá trình tải xuống hoặc bị chỉnh sửa trái phép. So mã kết quả với cột **SHA-256 / MD5** trong bảng phiên bản tương ứng.
 
 <details>
 <summary><b>🪟 Kiểm tra trên Windows (PowerShell)</b></summary>
@@ -545,37 +620,37 @@ md5sum ./VMware-Workstation-Full-26H1-25388281.x86_64.bundle
 
 # 📝 Ghi chú sử dụng (Usage Notes)
 
-> [!WARNING]  
-> * **Nguồn gốc:** Ưu tiên tải trực tiếp từ nguồn chính thức của nhà phát hành.
-> * **Bản quyền:** Repository KHÔNG lưu trữ license key, crack, patch hoặc bất kỳ thông tin/công cụ kích hoạt trái phép nào.
-> * **Hạn sử dụng link:** Nếu link tải có chứa tham số xác thực tạm thời, link có thể hết hạn. Xin vui lòng báo lại nếu phát hiện link hỏng.
-> * **Bảo mật:** Với các file bộ cài quan trọng, hãy luôn đối chiếu lại mã SHA-256 sau khi tải để đảm bảo tính an toàn.
-> * **Mục đích:** Chỉ dùng cho mục đích tra cứu thông tin, lịch sử các bản build và quản lý phiên bản phần mềm.
+> [!WARNING]
+> * **Nguồn gốc:** File trên mirror Archive.org đã được đối chiếu MD5 khớp với bản gốc Broadcom. Nếu cần tuyệt đối chắc chắn về nguồn, hãy tải trực tiếp từ [Broadcom](#-tải-chính-thức-từ-broadcom-official).
+> * **Bản quyền:** Repository **KHÔNG** lưu trữ license key, crack, patch hay bất kỳ công cụ kích hoạt trái phép nào. VMware Workstation Pro vốn đã miễn phí và không cần key.
+> * **Checksum:** Với các file bộ cài quan trọng, hãy luôn đối chiếu lại mã SHA-256 / MD5 sau khi tải để đảm bảo tính an toàn.
+> * **Link Broadcom trực tiếp:** Link tải dạng `downloads2.broadcom.com/?...&verify=...` chỉ sống vài ngày rồi **hết hạn (403)** — repo này không dùng nữa, đã thay bằng mirror Archive.org vĩnh viễn.
+> * **Mục đích:** Dùng để tra cứu thông tin, lịch sử các bản build và quản lý phiên bản phần mềm.
 
 ---
 
 # ✅ Bảng tổng hợp các phiên bản
 
-| STT | Ứng dụng                      | Nền tảng | Phiên bản / Build |  Dung lượng | Tải về                                                                                                                                                                                                                                                             |
-| --: | ----------------------------- | -------- | ----------------- | ----------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|   1 | VMware Workstation Pro 26H1   | Windows  | Build `25388281`  | `274.34 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.exe&oid=47146166&id=sqIAHk5-lESnJmq2nJQ8iuehJ8I1ij75MPK3ZgAfG6NaWGHQqMnpTEPZg_36E_xSsBTFQybPFobOL8E=&verify=1782125681-x0kSJpl%2BUR8lP4pbwS8YcvZ89ZxwmeWUEOhXqlM9b10%3D) |
-|   2 | VMware Workstation Pro 25H2u1 | Windows  | Build `25219725`  | `278.31 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.exe&oid=47146487&id=m4svKPONH7C2W1_GuSE-t8dH7WZfLk8hnVm9gWu3tyc4lhzCEVUUHiFfoscpbCTifC54ZgJZoj7741o=&verify=1782126803-7d1NUneeWr8347RwohkAhKTf1YeIUAzyuNlCpVLuFa4%3D) |
-|   3 | VMware Workstation Pro 25H2   | Windows  | Build `24995812`  | `277.63 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.exe&oid=47146647&id=K0Xv749W9Bkg9ttMNIgrvuy741g4O8ZN-_k8xuQQfeOZGNkcvajjcuFd-LpQwG-f3cxT6lB9CCeDBk8=&verify=1782127070-4ArmVOzsWcHYfyiFpR0VaagcKHYYtGH4DD40cBs2QFY%3D) |
-|   4 | VMware Workstation Pro 17.6.4 | Windows  | Build `24832109`  | `405.72 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.4-24832109.exe&oid=47146741&id=gZkZSblNE4FqrbpvVF7QNNFejUiaqn4vGoT24daZy2fx26NjXAS14UOD0ff5MlbAIhsV5KgrgjeIt2E=&verify=1782127372-d7dqK8JphR4nktvMjGzOgVlf%2B5GC%2FeESHaTqiANcvtg%3D) |
-|   5 | VMware Workstation Pro 17.6.3 | Windows  | Build `24583834`  | `401.43 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.3-24583834.exe&oid=47146751&id=DzpmvyIIKfrSXGBlzBnw9NqDS1Rr0t0dINLVet6gKDbII5Jl6zTTeD5zurLpVz0Y08mqRHz6Yx5BnH8=&verify=1782127410-%2FfOKE%2BLrYR127DIXlp54Ge9iSPxx4TvGH36KUJ5GS3M%3D) |
-|   6 | VMware Workstation Pro 17.6.2 | Windows  | Build `24409262`  | `447.93 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.2-24409262.exe&oid=47146774&id=vuytg3H7U9egLiKwQzJXgYp8W1_YM-Lc5EcZFq9MvklKsD4jkCM88VHzzcVDQjn2jvkm9MF8RRI8jJQ=&verify=1782127474-RAPZTbQIeAgW6cIWMtRZKSzmV0VtjYyATkFCjwmQjXE%3D) |
-|   7 | VMware Workstation Pro 17.6.1 | Windows  | Build `24319023`  | `447.93 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.1-24319023.exe&oid=47146875&id=y93DCWKVykPXboHSe3Ln_lTbfhXqn9_MO3o4rtZDjxCA8ugbuHEpcNGhs22t7EAZtVJoqOIIFLGwsrU=&verify=1782127895-6FkOM%2Fgkq5SvgOt0Q8ryLSrchP256CpFYuTUDxAMWuY%3D) |
-|   8 | VMware Workstation Pro 17.6.0 | Windows  | Build `24238078`  | `447.97 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.6.0-24238078.exe&oid=47146885&id=4AgrltC75PgwsyV3zzh4jsdDkM9yJvHsPdLMzc21V1xXu4i8KA0J0uKYmvv8LTs7VlAusRDL9R3PHNc=&verify=1782127926-VT%2BPgtDcdart%2BP9ETuP%2FcGUUJm%2BkrffkKfRmFE2KAXU%3D) |
-|   9 | VMware Workstation Pro 17.5.2 | Windows  | Build `23775571`  | `618.26 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-workstation-full-17.5.2-23775571.exe&oid=47146891&id=NuFkfK8_khRZEA8-o6NWVLY3V4IolIbb6THTegVqYjky6D4U-Ae8fEtm02Ya5M9VL1YZv9mocqFQZS8=&verify=1782127947-aH%2FDxtiBpzHeEd30k%2BqWkXNHvkcDa%2Fh8T6bn55R1p5k%3D) |
-|  10 | VMware Workstation Pro 26H1   | Linux    | Build `25388281`  | `325.03 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-26H1-25388281.x86_64.bundle&oid=47146393&id=SYxnAUOWu1CN9319mN6_xoI-fFFWnIYQJtQaLUjulvjEZ2FFZbuafrp-zD2OOSZGrUWZg0PJdpXffaI=&verify=1782126527-JLI6bHfx6zZm3ybPiZpHVMvy7tz2SoF992%2Bo%2F%2B0ssMc%3D) |
-|  11 | VMware Workstation Pro 25H2u1 | Linux    | Build `25219725`  | `296.22 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle&oid=47146665&id=7inIBaoinBz28DZzJIDqYrEOCoarAm5TuIMbtNli3Mz3--yC_Df0L3HH9-NJOlY-uJDQLsVijaC5yL8=&verify=1782127119-jlmK91mhVmz9FVgrdMbbyWJPT1MBrqHSuPRwLzADvdQ%3D) |
-|  12 | VMware Workstation Pro 25H2   | Linux    | Build `24995812`  | `295.19 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-25H2-24995812.x86_64.bundle&oid=47146678&id=kr_OJDDytiV_eDW-h326kEJDdlRxynvxU2d_BzJVwsunWc1K2-zTLyB8c6-HvGGyduz523WpProoppo=&verify=1782127162-qKJYfgALBWRRMt3LyGMdSIp9xIfpoKsNPXkpemXW0AE%3D) |
-|  13 | VMware Workstation Pro 17.6.4 | Linux    | Build `24832109`  | `339.46 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle&oid=47146966&id=XnOIJDaaMDCFmx32iJw7TbwZTn4B-01klQN2_PRCP0eRUhI9euPK6v1CCtXNYCLANa2o1fmM_u457gw=&verify=1782128171-r8sBXxYbViWJIq0Wgcfy0beqgyX7O6nFsO1c2VSDU%2BQ%3D) |
-|  14 | VMware Workstation Pro 17.6.3 | Linux    | Build `24583834`  | `335.21 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle&oid=47146975&id=XC0gfb9UbUN6hLvnYTmXpdOS4hrMggZMEaIijOExH5QUZlj01ut2xdBTavMGYMhJ4yPVutubaYayk7k=&verify=1782128205-bV02RKmDQiWqNVmyPq25OuNwlHj%2Fs%2FOEv312Z8KyZWc%3D) |
-|  15 | VMware Workstation Pro 17.6.2 | Linux    | Build `24409262`  | `372.49 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle&oid=47146987&id=K78d5PNPso8FadQNTzK8XONqv2J4k7cduyY2w-f4B6H_I_trmGcFCZL48WfyG_kDvhV_hesP1k7XA28=&verify=1782128226-%2BF6JnF1hFrnJ1nbG6M5464tttJXEO%2Bagj0HjQ9RdASo%3D) |
-|  16 | VMware Workstation Pro 17.6.1 | Linux    | Build `24319023`  | `372.46 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle&oid=47147006&id=vk36Xg5n8hbRVy_Jc2tbeLinU7B_t-WVCrxASZ-GAdJf3hQrnHJUAno6SHlHF0SvYlSjkpKt31m5C30=&verify=1782128263-4iNCJ0WqrCczyzEZsv2515JtL2s%2BOSSvO209gQp2SpU%3D) |
-|  17 | VMware Workstation Pro 17.6.0 | Linux    | Build `24238078`  | `372.46 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle&oid=47147016&id=Aq_tKuidxeoQwE_gS81JKABBFMtUq881KIouCZggnblqcKBtWlM0FbMVM3--RsJ3wvILgNF-XJlZpHM=&verify=1782128284-I8SpzxLz%2Bb2bsFRh2qfRpTaBY5rGUXT6IM4RqG0pUeo%3D) |
-|  18 | VMware Workstation Pro 17.5.2 | Linux    | Build `23775571`  | `510.58 MB` | [⬇️ Download](https://downloads2.broadcom.com/?file=VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle&oid=47147024&id=Hqv0WLqLADWl5n8tq8-DbgAj0UiDSPnYqSar1kK2AR8og6wOQsEqPqcVJhhovWjsv-FfzFk_rfvu3nc=&verify=1782128310-6EI85cIUbkUk34HXfgRZzaqfNHLggR2TR297eRQKVGs%3D) |
+| STT | Ứng dụng                      | Nền tảng | Phiên bản / Build |  Dung lượng | Tải về (Archive.org) |
+| --: | ----------------------------- | -------- | ----------------- | ----------: | -------------------- |
+|   1 | VMware Workstation Pro 26H1   | Windows  | Build `25388281`  | `274.34 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1-25388281.exe) |
+|   2 | VMware Workstation Pro 25H2u1 | Windows  | Build `25219725`  | `278.31 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2u1-25219725.exe) |
+|   3 | VMware Workstation Pro 25H2   | Windows  | Build `24995812`  | `277.63 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2-24995812.exe) |
+|   4 | VMware Workstation Pro 17.6.4 | Windows  | Build `24832109`  | `405.72 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.4-24832109.exe) |
+|   5 | VMware Workstation Pro 17.6.3 | Windows  | Build `24583834`  | `401.43 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.3-24583834.exe) |
+|   6 | VMware Workstation Pro 17.6.2 | Windows  | Build `24409262`  | `447.93 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.2-24409262.exe) |
+|   7 | VMware Workstation Pro 17.6.1 | Windows  | Build `24319023`  | `447.93 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.1-24319023.exe) |
+|   8 | VMware Workstation Pro 17.6.0 | Windows  | Build `24238078`  | `447.97 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.0-24238078.exe) |
+|   9 | VMware Workstation Pro 17.5.2 | Windows  | Build `23775571`  | `618.26 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.2-23775571.exe) |
+|  10 | VMware Workstation Pro 26H1   | Linux    | Build `25388281`  | `325.03 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle) |
+|  11 | VMware Workstation Pro 25H2u1 | Linux    | Build `25219725`  | `296.22 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle) |
+|  12 | VMware Workstation Pro 25H2   | Linux    | Build `24995812`  | `295.19 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2-24995812.x86_64.bundle) |
+|  13 | VMware Workstation Pro 17.6.4 | Linux    | Build `24832109`  | `339.46 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle) |
+|  14 | VMware Workstation Pro 17.6.3 | Linux    | Build `24583834`  | `335.21 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle) |
+|  15 | VMware Workstation Pro 17.6.2 | Linux    | Build `24409262`  | `372.49 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle) |
+|  16 | VMware Workstation Pro 17.6.1 | Linux    | Build `24319023`  | `372.46 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle) |
+|  17 | VMware Workstation Pro 17.6.0 | Linux    | Build `24238078`  | `372.46 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle) |
+|  18 | VMware Workstation Pro 17.5.2 | Linux    | Build `23775571`  | `510.58 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle) |
 
 ---
 
@@ -583,5 +658,5 @@ md5sum ./VMware-Workstation-Full-26H1-25388281.x86_64.bundle
   <br>
   <b>🌟 NGUỒN TÀI NGUYÊN CHẤT LƯỢNG CAO TỪ CỘNG ĐỒNG 🌟</b><br>
   <i>Clean • Organized • Verified</i><br>
-  <sub>Được tổng hợp và cập nhật liên tục để đảm bảo luôn có sẵn phiên bản mới nhất và các phiên bản ổn định cũ.</sub>
+  <sub>Link tải vĩnh viễn qua mirror Archive.org · Checksum đối chiếu khớp 100% với bản gốc Broadcom.</sub>
 </div>
