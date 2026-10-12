@@ -621,43 +621,370 @@
 # 🗂️ Kho phiên bản cũ (Older Versions)
 
 > [!TIP]
-> Mirror Archive.org lưu trữ **toàn bộ lịch sử VMware Workstation (từ 2.x đến nay)** và **VMware Fusion (từ 8.x đến nay)**. Bạn có thể bấm vào từng thư mục để duyệt và tải trực tiếp bất kỳ bản phát hành lịch sử nào.
+> Mirror Archive.org lưu trữ **toàn bộ lịch sử VMware Workstation (từ 2.x đến nay: 136 bản)** và **VMware Fusion (từ 8.x đến nay: 55 bản)**. Bấm vào từng thế hệ bên dưới để xem bảng thông số chi tiết và tải trực tiếp 1-click từng file mà không cần qua thư mục trung gian.
+
+### 🪟 Các dòng phiên bản cũ cho Windows (Workstation 17.x → 2.x)
 
 <details>
-<summary><b>📂 Danh mục các dòng phiên bản cũ cho Windows (Workstation 2.x → 17.x)</b></summary>
+<summary><b>📦 VMware Workstation Pro 17.x (11 phiên bản)</b></summary>
 <br>
 
-| Dòng | Phạm vi build | Thư mục Archive.org |
-| ---- | ------------- | ------------------- |
-| **17.x** | 17.0.0 → 17.6.4 | [📁 Browse 17.x](https://archive.org/download/vmwareworkstationarchive/17.x/) |
-| **16.x** | 16.0.0 → 16.2.5 | [📁 Browse 16.x](https://archive.org/download/vmwareworkstationarchive/16.x/) |
-| **15.x** | 15.0.0 → 15.5.7 | [📁 Browse 15.x](https://archive.org/download/vmwareworkstationarchive/15.x/) |
-| **14.x** | 14.0.0 → 14.1.8 | [📁 Browse 14.x](https://archive.org/download/vmwareworkstationarchive/14.x/) |
-| **12.x** | 12.0.0 → 12.5.9 | [📁 Browse 12.x](https://archive.org/download/vmwareworkstationarchive/12.x/) |
-| **11.x** | 11.0.0 → 11.1.4 | [📁 Browse 11.x](https://archive.org/download/vmwareworkstationarchive/11.x/) |
-| **10.x** | 10.0.0 → 10.0.7 | [📁 Browse 10.x](https://archive.org/download/vmwareworkstationarchive/10.x/) |
-| **9.x**  | 9.0.0 → 9.0.4   | [📁 Browse 9.x](https://archive.org/download/vmwareworkstationarchive/9.x/) |
-| **8.x**  | 8.0.0 → 8.0.6   | [📁 Browse 8.x](https://archive.org/download/vmwareworkstationarchive/8.x/) |
-| **7.x**  | 7.0.0 → 7.1.6   | [📁 Browse 7.x](https://archive.org/download/vmwareworkstationarchive/7.x/) |
-| **6.x**  | 6.0.0 → 6.5.5   | [📁 Browse 6.x](https://archive.org/download/vmwareworkstationarchive/6.x/) |
-| **5.x**  | 5.0.0 → 5.5.9   | [📁 Browse 5.x](https://archive.org/download/vmwareworkstationarchive/5.x/) |
-| **4.x**  | 4.0.0 → 4.5.3   | [📁 Browse 4.x](https://archive.org/download/vmwareworkstationarchive/4.x/) |
-| **3.x**  | 3.0.0 → 3.2.1   | [📁 Browse 3.x](https://archive.org/download/vmwareworkstationarchive/3.x/) |
-| **2.x**  | 2.0.1 → 2.0.4   | [📁 Browse 2.x](https://archive.org/download/vmwareworkstationarchive/2.x/) |
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **17.6.4** | `VMware-workstation-full-17.6.4-24832109.exe` | `405.72 MB` | `b387e0a655798ba356d9a7331d98851a` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.4-24832109.exe) |
+| **17.6.3** | `VMware-workstation-full-17.6.3-24583834.exe` | `401.43 MB` | `de592b18a39513e3414f197ec1a4cb1c` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.3-24583834.exe) |
+| **17.6.2** | `VMware-workstation-full-17.6.2-24409262.exe` | `447.93 MB` | `6227e9e732c4eaddf05ecf1779a94e80` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.2-24409262.exe) |
+| **17.6.1** | `VMware-workstation-full-17.6.1-24319023.exe` | `447.93 MB` | `6896ebcad85daa19c90c044a7200d1b5` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.1-24319023.exe) |
+| **17.6.0** | `VMware-workstation-full-17.6.0-24238078.exe` | `447.97 MB` | `ff4007cc5af53d83790fe87ed2d850f5` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.0-24238078.exe) |
+| **17.5.2** | `VMware-workstation-full-17.5.2-23775571.exe` | `618.26 MB` | `c0a0353c1dade2089b55ce04ca942964` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.2-23775571.exe) |
+| **17.5.1** | `VMware-workstation-full-17.5.1-23298084.exe` | `594.29 MB` | `5151f645be318233e20e2b52c329b529` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.1-23298084.exe) |
+| **17.5.0** | `VMware-workstation-full-17.5.0-22583795.exe` | `571.76 MB` | `b091d9183034eba8415d9ae3ca9bd0e3` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.0-22583795.exe) |
+| **17.0.2** | `VMware-workstation-full-17.0.2-21581411.exe` | `607.7 MB` | `190113ff4da78a2ff9cb3272d5509b05` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.0.2-21581411.exe) |
+| **17.0.1** | `VMware-workstation-full-17.0.1-21139696.exe` | `607.72 MB` | `20d238602b91237aea12a534cd148a4a` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.0.1-21139696.exe) |
+| **17.0.0** | `VMware-workstation-full-17.0.0-20800274.exe` | `607.88 MB` | `cb7adf6d87af6575f35da9974a3b46b9` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.0.0-20800274.exe) |
 
 </details>
 
 <details>
-<summary><b>📂 Danh mục các dòng phiên bản cũ cho macOS (VMware Fusion 8.x → 13.x)</b></summary>
+<summary><b>📦 VMware Workstation Pro 16.x (10 phiên bản)</b></summary>
 <br>
 
-| Dòng | Phạm vi build | Thư mục Archive.org |
-| ---- | ------------- | ------------------- |
-| **13.x** | 13.0.0 → 13.6.4 | [📁 Browse Fusion 13.x](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/) |
-| **12.x** | 12.0.0 → 12.2.5 | [📁 Browse Fusion 12.x](https://archive.org/download/vmwareworkstationarchive/Fusion/12.x/) |
-| **11.x** | 11.0.0 → 11.5.7 | [📁 Browse Fusion 11.x](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/) |
-| **10.x** | 10.0.0 → 10.1.3 | [📁 Browse Fusion 10.x](https://archive.org/download/vmwareworkstationarchive/Fusion/10.x/) |
-| **8.x**  | 8.0.0 → 8.5.10  | [📁 Browse Fusion 8.x](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/) |
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **16.2.5** | `VMware-workstation-full-16.2.5-20904516.exe` | `615.58 MB` | `b72276af0d1f093c146c6623c463218f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/16.x/VMware-workstation-full-16.2.5-20904516.exe) |
+| **16.2.4** | `VMware-workstation-full-16.2.4-20089737.exe` | `615.58 MB` | `d60f20003600b70defb72215417aadee` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/16.x/VMware-workstation-full-16.2.4-20089737.exe) |
+| **16.2.3** | `VMware-workstation-full-16.2.3-19376536.exe` | `615.43 MB` | `22b5e0c04b405524f1678f64c72b0191` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/16.x/VMware-workstation-full-16.2.3-19376536.exe) |
+| **16.2.2** | `VMware-workstation-full-16.2.2-19200509.exe` | `615.42 MB` | `86986763bf7e37e43958ce829f8d28bb` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/16.x/VMware-workstation-full-16.2.2-19200509.exe) |
+| **16.2.1** | `VMware-workstation-full-16.2.1-18811642.exe` | `615.54 MB` | `862ea8cf0b328fb81c09f96343ad8702` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/16.x/VMware-workstation-full-16.2.1-18811642.exe) |
+| **16.2.0** | `VMware-workstation-full-16.2.0-18760230.exe` | `615.5 MB` | `bfbee98b01e881ccec0a3253ecb65b27` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/16.x/VMware-workstation-full-16.2.0-18760230.exe) |
+| **16.1.2** | `VMware-workstation-full-16.1.2-17966106.exe` | `621.29 MB` | `5fcfa89362819c5121b43336c672ed35` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/16.x/VMware-workstation-full-16.1.2-17966106.exe) |
+| **16.1.1** | `VMware-workstation-full-16.1.1-17801498.exe` | `621.48 MB` | `20742f8cba06a8466e02b144ddf4e807` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/16.x/VMware-workstation-full-16.1.1-17801498.exe) |
+| **16.1.0** | `VMware-workstation-full-16.1.0-17198959.exe` | `621.55 MB` | `dfd804f813a483907ec996ced444af66` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/16.x/VMware-workstation-full-16.1.0-17198959.exe) |
+| **16.0.0** | `VMware-workstation-full-16.0.0-16894299.exe` | `619.26 MB` | `fcec2125fbaa98f51e17baa3fddb0be0` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/16.x/VMware-workstation-full-16.0.0-16894299.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 15.x (12 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **15.5.7** | `VMware-workstation-full-15.5.7-17171714.exe` | `552.28 MB` | `8cb641951abb0f144d2967e56aa45a5b` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.5.7-17171714.exe) |
+| **15.5.6** | `VMware-workstation-full-15.5.6-16341506.exe` | `552.35 MB` | `691b29b02ad17536767d6c6316be5511` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.5.6-16341506.exe) |
+| **15.5.5** | `VMware-workstation-full-15.5.5-16285975.exe` | `552.38 MB` | `d1ef3746c6271a020e5e2df21d870e53` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.5.5-16285975.exe) |
+| **15.5.2** | `VMware-workstation-full-15.5.2-15785246.exe` | `541.97 MB` | `5df0ecbddca4b30a8cd2d1eb23a59d3b` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.5.2-15785246.exe) |
+| **15.5.1** | `VMware-workstation-full-15.5.1-15018445.exe` | `541.16 MB` | `bb10f40a4dbfb55e89bd0cd9aa693306` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.5.1-15018445.exe) |
+| **15.5.0** | `VMware-workstation-full-15.5.0-14665864.exe` | `541.05 MB` | `3a6d2c949d4377b5c6dad98d126916e8` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.5.0-14665864.exe) |
+| **15.1.0** | `VMware-workstation-full-15.1.0-13591040.exe` | `513.26 MB` | `f80fde2d48221da17da4ee5671540afe` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.1.0-13591040.exe) |
+| **15.0.4** | `VMware-workstation-full-15.0.4-12990004.exe` | `511.3 MB` | `24856730a3ec3a03780a898e0369b657` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.0.4-12990004.exe) |
+| **15.0.3** | `VMware-workstation-full-15.0.3-12422535.exe` | `511.35 MB` | `d5db7db318e35b93ce0e339c97a95739` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.0.3-12422535.exe) |
+| **15.0.2** | `VMware-workstation-full-15.0.2-10952284.exe` | `511.84 MB` | `8e8102994aa5f0614610637b6eb815ec` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.0.2-10952284.exe) |
+| **15.0.1** | `VMware-workstation-full-15.0.1-10737736.exe` | `511.87 MB` | `f08e518052ef84d87239306d9464d394` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.0.1-10737736.exe) |
+| **15.0.0** | `VMware-workstation-full-15.0.0-10134415.exe` | `511.75 MB` | `e29580600a3beaf47df852fcc4f108c0` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/15.x/VMware-workstation-full-15.0.0-10134415.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 14.x (10 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **14.1.8** | `VMware-workstation-full-14.1.8-14921873.exe` | `487.14 MB` | `5afdb47adeb97b2075cc1dede0c0ac25` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/14.x/VMware-workstation-full-14.1.8-14921873.exe) |
+| **14.1.7** | `VMware-workstation-full-14.1.7-12989993.exe` | `487.15 MB` | `e838b874a8e40bf0ebd50df5627ad923` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/14.x/VMware-workstation-full-14.1.7-12989993.exe) |
+| **14.1.6** | `VMware-workstation-full-14.1.6-12368378.exe` | `487.14 MB` | `1f394a798bd332d313555b5ed8190704` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/14.x/VMware-workstation-full-14.1.6-12368378.exe) |
+| **14.1.5** | `VMware-workstation-full-14.1.5-10950780.exe` | `487.13 MB` | `618e3c62e3c850c49cc0bb46ccc745c0` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/14.x/VMware-workstation-full-14.1.5-10950780.exe) |
+| **14.1.4** | `VMware-workstation-full-14.1.4-10722678.exe` | `487.12 MB` | `994ac1b2b096a1767085ec4499a5ab4f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/14.x/VMware-workstation-full-14.1.4-10722678.exe) |
+| **14.1.3** | `VMware-workstation-full-14.1.3-9474260.exe` | `487.09 MB` | `d4808be7a32f5d731dd11e9d285497f1` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/14.x/VMware-workstation-full-14.1.3-9474260.exe) |
+| **14.1.2** | `VMware-workstation-full-14.1.2-8497320.exe` | `487.08 MB` | `79935903c0c0ed415ef965751c9c5b15` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/14.x/VMware-workstation-full-14.1.2-8497320.exe) |
+| **14.1.1** | `VMware-workstation-full-14.1.1-7528167.exe` | `465.21 MB` | `40356030561a11c5387e32e239f74cab` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/14.x/VMware-workstation-full-14.1.1-7528167.exe) |
+| **14.1.0** | `VMware-workstation-full-14.1.0-7370693.exe` | `465.23 MB` | `dbb68ef94254ce3465e9f6982b30bcaa` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/14.x/VMware-workstation-full-14.1.0-7370693.exe) |
+| **14.0.0** | `VMware-workstation-full-14.0.0-6661328.exe` | `462.92 MB` | `32ea815fe34c6f92b0a2204d6f83d532` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/14.x/VMware-workstation-full-14.0.0-6661328.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 12.x (14 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **12.5.9** | `VMware-workstation-full-12.5.9-7535481.exe` | `400.86 MB` | `ec799d611f1617284ea9205d1d029a8b` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.5.9-7535481.exe) |
+| **12.5.8** | `VMware-workstation-full-12.5.8-7098237.exe` | `400.83 MB` | `79b83cd2f5914fd05a58fae98fa5e88c` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.5.8-7098237.exe) |
+| **12.5.7** | `VMware-workstation-full-12.5.7-5813279.exe` | `404.92 MB` | `70c07e575d3ce6cc04dd881f1d25bb4d` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.5.7-5813279.exe) |
+| **12.5.6** | `VMware-workstation-full-12.5.6-5528349.exe` | `404.92 MB` | `c2c5bcccde5e5af082dc7206029f97ae` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.5.6-5528349.exe) |
+| **12.5.5** | `VMware-workstation-full-12.5.5-5234757.exe` | `400.53 MB` | `8da3046175e5a30ec1d5c927bd851826` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.5.5-5234757.exe) |
+| **12.5.4** | `VMware-workstation-full-12.5.4-5192485.exe` | `400.47 MB` | `65709b9908f634030863b0519f1e476c` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.5.4-5192485.exe) |
+| **12.5.3** | `VMware-workstation-full-12.5.3-5115892.exe` | `400.51 MB` | `e9724fea13926856c078fe14cb398da8` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.5.3-5115892.exe) |
+| **12.5.2** | `VMware-workstation-full-12.5.2-4638234.exe` | `303.68 MB` | `4a20e05d4d744927d4cf06384b6c91bd` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.5.2-4638234.exe) |
+| **12.5.1** | `VMware-workstation-full-12.5.1-4542065.exe` | `303.67 MB` | `c0657bf104488329e28822c3f65d7467` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.5.1-4542065.exe) |
+| **12.5.0** | `VMware-workstation-full-12.5.0-4352439.exe` | `303.64 MB` | `e747db89a8fb3c5f77cdb467d9528c47` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.5.0-4352439.exe) |
+| **12.1.1** | `VMware-workstation-full-12.1.1-3770994.exe` | `293.67 MB` | `8cb9ee7b675a81e894f738ab5e7da5e1` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.1.1-3770994.exe) |
+| **12.1.0** | `VMware-workstation-full-12.1.0-3272444.exe` | `293.26 MB` | `fe3a2ac7b040ecfde73a81134cf72521` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.1.0-3272444.exe) |
+| **12.0.1** | `VMware-workstation-full-12.0.1-3160714.exe` | `292.41 MB` | `3f8321ea391dd0450d361e0d670bcc69` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.0.1-3160714.exe) |
+| **12.0.0** | `VMware-workstation-full-12.0.0-2985596.exe` | `292.11 MB` | `13ea0ce5fa513194564f36bf5fdb9695` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/12.x/VMware-workstation-full-12.0.0-2985596.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 11.x (6 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **11.1.4** | `VMware-workstation-full-11.1.4-3848939.exe` | `303.11 MB` | `1209981ec487e5c2e505997092399204` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/11.x/VMware-workstation-full-11.1.4-3848939.exe) |
+| **11.1.3** | `VMware-workstation-full-11.1.3-3206955.exe` | `302.9 MB` | `fbdd890de81a0e6a2b729693e24027df` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/11.x/VMware-workstation-full-11.1.3-3206955.exe) |
+| **11.1.2** | `VMware-workstation-full-11.1.2-2780323.exe` | `302.93 MB` | `a0ab3d9319af65b04fc98411981c5e25` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/11.x/VMware-workstation-full-11.1.2-2780323.exe) |
+| **11.1.1** | `VMware-workstation-full-11.1.1-2771112.exe` | `303.07 MB` | `f4dad1b1f73d1eca43eba824cabd7780` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/11.x/VMware-workstation-full-11.1.1-2771112.exe) |
+| **11.1.0** | `VMware-workstation-full-11.1.0-2496824.exe` | `301.58 MB` | `1d39b51a241852fe2c7e86074d4e163b` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/11.x/VMware-workstation-full-11.1.0-2496824.exe) |
+| **11.0.0** | `VMware-workstation-full-11.0.0-2305329.exe` | `307.36 MB` | `1dbd6da532cb40a0b177cd6f69be483b` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/11.x/VMware-workstation-full-11.0.0-2305329.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 10.x (8 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **10.0.7** | `VMware-workstation-full-10.0.7-2844087.exe` | `495.52 MB` | `2b385d448ce8a117edeab01d0c678703` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/10.x/VMware-workstation-full-10.0.7-2844087.exe) |
+| **10.0.6** | `VMware-workstation-full-10.0.6-2700073.exe` | `495.79 MB` | `242d7853bcd6fcba5fb15a0afa56801f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/10.x/VMware-workstation-full-10.0.6-2700073.exe) |
+| **10.0.5** | `VMware-workstation-full-10.0.5-2443746.exe` | `491.12 MB` | `edd7a3f0d10fb6a8f8f7bad09964e1e3` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/10.x/VMware-workstation-full-10.0.5-2443746.exe) |
+| **10.0.4** | `VMware-workstation-full-10.0.4-2249910.exe` | `491.13 MB` | `6ebd748dfbf2759f24e8512cdcc31e41` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/10.x/VMware-workstation-full-10.0.4-2249910.exe) |
+| **10.0.3** | `VMware-workstation-full-10.0.3-1895310.exe` | `491.27 MB` | `a3ce005daa98dfa865fddb9129be7194` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/10.x/VMware-workstation-full-10.0.3-1895310.exe) |
+| **10.0.2** | `VMware-workstation-full-10.0.2-1744117.exe` | `490.76 MB` | `2b3ce1728645e41ed628930ba8a191c4` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/10.x/VMware-workstation-full-10.0.2-1744117.exe) |
+| **10.0.1** | `VMware-workstation-full-10.0.1-1379776.exe` | `490.28 MB` | `ccdb65d8e24137e2407d4c6bc6be1b01` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/10.x/VMware-workstation-full-10.0.1-1379776.exe) |
+| **10.0.0** | `VMware-workstation-full-10.0.0-1295980.exe` | `489.97 MB` | `4adc77d37ae1107950156b6d330ac948` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/10.x/VMware-workstation-full-10.0.0-1295980.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 9.x (5 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **9.0.4** | `VMware-workstation-full-9.0.4-1945795.exe` | `476.16 MB` | `2b1e7d525f1a2befda1df2e49a0732f5` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/9.x/VMware-workstation-full-9.0.4-1945795.exe) |
+| **9.0.3** | `VMware-workstation-full-9.0.3-1410761.exe` | `431.1 MB` | `d5885660c6e1b718ab27666a5072d592` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/9.x/VMware-workstation-full-9.0.3-1410761.exe) |
+| **9.0.2** | `VMware-workstation-full-9.0.2-1031769.exe` | `429.91 MB` | `b4db8858e5dc06e50a800c53c1431963` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/9.x/VMware-workstation-full-9.0.2-1031769.exe) |
+| **9.0.1** | `VMware-workstation-full-9.0.1-894247.exe` | `425.15 MB` | `dc3f15d6c5fc153b7f91405e4d9a2596` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/9.x/VMware-workstation-full-9.0.1-894247.exe) |
+| **9.0.0** | `VMware-workstation-full-9.0.0-812388.exe` | `425.99 MB` | `5b674f4daa2eed2fd795143a18cc108c` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/9.x/VMware-workstation-full-9.0.0-812388.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 8.x (7 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **8.0.6** | `VMware-workstation-full-8.0.6-1035888.exe` | `465.41 MB` | `6ac88cda44b68968e78bdf95d8403a26` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/8.x/VMware-workstation-full-8.0.6-1035888.exe) |
+| **8.0.5** | `VMware-workstation-full-8.0.5-893925.exe` | `465.69 MB` | `d67a9eee7d42efddbb1b24d7d62c90c7` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/8.x/VMware-workstation-full-8.0.5-893925.exe) |
+| **8.0.4** | `VMware-workstation-full-8.0.4-744019.exe` | `471.16 MB` | `9c74d5468d693714d2b6c616fd416e54` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/8.x/VMware-workstation-full-8.0.4-744019.exe) |
+| **8.0.3** | `VMware-workstation-full-8.0.3-703057.exe` | `468.48 MB` | `c8cabe876ab629f27e47cea02f0d4def` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/8.x/VMware-workstation-full-8.0.3-703057.exe) |
+| **8.0.2** | `VMware-workstation-full-8.0.2-591240.exe` | `468.48 MB` | `912df11644fccac439b6fc5f80af5cdb` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/8.x/VMware-workstation-full-8.0.2-591240.exe) |
+| **8.0.1** | `VMware-workstation-full-8.0.1-528992.exe` | `474.02 MB` | `f77f3cb80e88e9fe12b6825d7c484406` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/8.x/VMware-workstation-full-8.0.1-528992.exe) |
+| **8.0.0** | `VMware-workstation-full-8.0.0-471780.exe` | `473.17 MB` | `4cab6130e142e71443af911bd0d01a70` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/8.x/VMware-workstation-full-8.0.0-471780.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 7.x (9 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **7.1.6** | `VMware-workstation-full-7.1.6-744570.exe` | `572.21 MB` | `f7856421babd716dace2f0250ae271f7` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/7.x/VMware-workstation-full-7.1.6-744570.exe) |
+| **7.1.5** | `VMware-workstation-full-7.1.5-491717.exe` | `571.0 MB` | `40a0a39377a6ba804d5e76e59449d51f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/7.x/VMware-workstation-full-7.1.5-491717.exe) |
+| **7.1.4** | `VMware-workstation-full-7.1.4-385536.exe` | `571.8 MB` | `b52d064dff3e9fb009e0637d59b79c44` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/7.x/VMware-workstation-full-7.1.4-385536.exe) |
+| **7.1.3** | `VMware-workstation-full-7.1.3-324285.exe` | `570.1 MB` | `7b9dc01bf733047a00711f5800df6107` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/7.x/VMware-workstation-full-7.1.3-324285.exe) |
+| **7.1.2** | `VMware-workstation-full-7.1.2-301548.exe` | `568.79 MB` | `2e9715ec297dc3ca904ad2707d3e2614` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/7.x/VMware-workstation-full-7.1.2-301548.exe) |
+| **7.1.1** | `VMware-workstation-full-7.1.1-282343.exe` | `567.14 MB` | `2c202c7ac27c8f117554ee6822b50157` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/7.x/VMware-workstation-full-7.1.1-282343.exe) |
+| **7.1.0** | `VMware-workstation-full-7.1.0-261024.exe` | `567.27 MB` | `c810e98030edcc8acc639aef9239f0ca` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/7.x/VMware-workstation-full-7.1.0-261024.exe) |
+| **7.0.1** | `VMware-workstation-full-7.0.1-227600.exe` | `514.64 MB` | `fc8502a748de3b8f94c5c9571c1f17d2` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/7.x/VMware-workstation-full-7.0.1-227600.exe) |
+| **7.0.0** | `VMware-workstation-full-7.0.0-203739.exe` | `512.47 MB` | `91b3aa9b999bde061906100cccb40834` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/7.x/VMware-workstation-full-7.0.0-203739.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 6.x (12 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **6.5.5** | `VMware-workstation-6.5.5-328052.exe` | `507.13 MB` | `7bff9b621529efb0de808a45e7821274` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.5.5-328052.exe) |
+| **6.5.4** | `VMware-workstation-6.5.4-246459.exe` | `507.22 MB` | `2dc393fcc4e78dcf2165098a4938699a` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.5.4-246459.exe) |
+| **6.5.3** | `VMware-workstation-6.5.3-185404.exe` | `507.42 MB` | `7565d16b7d7e0173b90c3b76ca4656bc` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.5.3-185404.exe) |
+| **6.5.2** | `VMware-workstation-6.5.2-156735.exe` | `462.54 MB` | `8336586b9f9e5180d5279a0b988e82a6` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.5.2-156735.exe) |
+| **6.5.1** | `VMware-workstation-6.5.1-126130.exe` | `499.77 MB` | `c521c3a1df22dd972b7e46767aee40e4` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.5.1-126130.exe) |
+| **6.5.0** | `VMware-workstation-6.5.0-118166.exe` | `555.34 MB` | `2fa85ed38e6e31531ade6367a2ab0025` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.5.0-118166.exe) |
+| **6.0.5** | `VMware-workstation-6.0.5-109488.exe` | `319.08 MB` | `46b4c54f0493f59f52ac6c2965296859` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.0.5-109488.exe) |
+| **6.0.4** | `VMware-workstation-6.0.4-93057.exe` | `318.99 MB` | `f50a05831e94c19d98f363c752fca5f9` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.0.4-93057.exe) |
+| **6.0.3** | `VMware-workstation-6.0.3-80004.exe` | `322.56 MB` | `323f054957066fae07735160b73b91e5` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.0.3-80004.exe) |
+| **6.0.2** | `VMware-workstation-6.0.2-59824.exe` | `314.46 MB` | `81bc2d016c42916df6ef969c0c8dd2e1` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.0.2-59824.exe) |
+| **6.0.1** | `VMware-workstation-6.0.1-55017.exe` | `314.41 MB` | `f6fc201869c7b164bade285eaabc6c67` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.0.1-55017.exe) |
+| **6.0.0** | `VMware-workstation-6.0.0-45731.exe` | `275.82 MB` | `be7e0e07834e364a3bfbc2bdbe0c6d7a` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/6.x/VMware-workstation-6.0.0-45731.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 5.x (9 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **5.5.9** | `VMware-workstation-5.5.9-126128.exe` | `92.66 MB` | `509c7b323a8ac42c0a92b0a1446bb0f8` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/5.x/VMware-workstation-5.5.9-126128.exe) |
+| **5.5.8** | `VMware-workstation-5.5.8-108000.exe` | `92.67 MB` | `745c3250e5254eaf6e65fcfc4172070f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/5.x/VMware-workstation-5.5.8-108000.exe) |
+| **5.5.7** | `VMware-workstation-5.5.7-91707.exe` | `92.64 MB` | `4c6a6653b7296240197aac048591c659` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/5.x/VMware-workstation-5.5.7-91707.exe) |
+| **5.5.6** | `VMware-workstation-5.5.6-80404.exe` | `92.64 MB` | `9c2dd94db5eed93d7f64e8d6ba8d8bd3` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/5.x/VMware-workstation-5.5.6-80404.exe) |
+| **5.5.5** | `VMware-workstation-5.5.5-56455.exe` | `92.52 MB` | `7c6962fb97b42d35ddda87baab001f88` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/5.x/VMware-workstation-5.5.5-56455.exe) |
+| **5.5.4** | `VMware-workstation-5.5.4-44386.exe` | `92.48 MB` | `a4ec4d82508469680ba917bd54258405` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/5.x/VMware-workstation-5.5.4-44386.exe) |
+| **5.5.3** | `VMware-workstation-5.5.3-34685.exe` | `92.46 MB` | `d597c6894edc84609050560fa31d88d8` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/5.x/VMware-workstation-5.5.3-34685.exe) |
+| **5.5.2** | `VMware-workstation-5.5.2-29772.exe` | `91.13 MB` | `23458c3a3309676da0cfdf834d8da788` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/5.x/VMware-workstation-5.5.2-29772.exe) |
+| **5.0.0** | `VMware-workstation-5.0.0-13124.exe` | `55.96 MB` | `454b20e4007dd16f2173c29f0d230be2` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/5.x/VMware-workstation-5.0.0-13124.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 4.x (7 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **4.5.3** | `VMware-workstation-4.5.3-19414.exe` | `34.83 MB` | `02076c1d35059f3bdc0cf4262b4f8932` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/4.x/VMware-workstation-4.5.3-19414.exe) |
+| **4.5.2** | `VMware-workstation-4.5.2-8848.exe` | `36.25 MB` | `69c83940a186272c14646c267500e05a` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/4.x/VMware-workstation-4.5.2-8848.exe) |
+| **4.5.1** | `VMware-workstation-4.5.1-7568.exe` | `33.32 MB` | `0263bb2e39807f3d5a4e6946f05ddd67` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/4.x/VMware-workstation-4.5.1-7568.exe) |
+| **4.0.5** | `VMware-workstation-4.0.5-6030.exe` | `21.25 MB` | `bd884d961825a23e27725d2ae34d4bba` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/4.x/VMware-workstation-4.0.5-6030.exe) |
+| **4.0.2** | `VMware-Workstation-4.0.2-5592.exe` | `21.24 MB` | `1a189c8a73831f6c74697917bca25aa8` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/4.x/VMware-Workstation-4.0.2-5592.exe) |
+| **4.0.1** | `VMware-workstation-4.0.1-5289.exe` | `21.26 MB` | `d7a438c20397490c2824cf0416689256` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/4.x/VMware-workstation-4.0.1-5289.exe) |
+| **4.0.0** | `VMware-workstation-4.0.0-4460.exe` | `19.25 MB` | `9feb559124e199f41b27721e347609ea` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/4.x/VMware-workstation-4.0.0-4460.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation Pro 3.x (5 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **3.2.1** | `VMware-workstation-3.2.1-2237.exe` | `17.74 MB` | `4d2c01180af470036b8e9bbb455092eb` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/3.x/VMware-workstation-3.2.1-2237.exe) |
+| **3.2.0** | `VMware-workstation-3.2.0-2230.exe` | `17.74 MB` | `4926b2c23a97e40524249e04d7cfdf53` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/3.x/VMware-workstation-3.2.0-2230.exe) |
+| **3.1.1** | `VMware-workstation-3.1.1-1790.exe` | `17.82 MB` | `2d5e0f8caf076c42c0bd86e67fb4f2ac` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/3.x/VMware-workstation-3.1.1-1790.exe) |
+| **3.1.0** | `VMware-workstation-3.1.0-1769.exe` | `17.9 MB` | `0ed8987483659e7bde3e6c6452dfb5b3` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/3.x/VMware-workstation-3.1.0-1769.exe) |
+| **3.0.0** | `VMwareWorkstation-3.0.0-1455.exe` | `12.06 MB` | `f9e5f0cf0f1b4ca3d3a4d65c48c2035f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/3.x/VMwareWorkstation-3.0.0-1455.exe) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Workstation 2.x (5 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **2.0.4** | `VMware-2.0.4-1142.exe` | `5.3 MB` | `8f7eb88ff6069a4024de275bc7bf9b9f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/2.x/VMware-2.0.4-1142.exe) |
+| **2.0.3** | `VMware-2.0.3-774.exe` | `5.3 MB` | `f194e8ee17a0ed8ba6532359f8ea70aa` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/2.x/VMware-2.0.3-774.exe) |
+| **2.0.3** | `VMware-2.0.3-799.exe` | `5.3 MB` | `4dfcc07fb1e105e85b01ed6ed6ac1b3d` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/2.x/VMware-2.0.3-799.exe) |
+| **2.0.2** | `VMware-2.0.2-621.exe` | `5.28 MB` | `aaddea2bf3097ad1ce98aa115609dc2b` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/2.x/VMware-2.0.2-621.exe) |
+| **2.0.1** | `VMware-2.0.1-570.exe` | `5.28 MB` | `6b5b70e7f1d1dc758e9239f9d3b8c3b4` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/2.x/VMware-2.0.1-570.exe) |
+
+</details>
+
+### 🍎 Các dòng phiên bản cũ cho macOS (VMware Fusion 13.x → 8.x)
+
+<details>
+<summary><b>📦 VMware Fusion Pro 13.x (10 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **13.6.4** | `VMware-Fusion-13.6.4-24832108_universal.dmg` | `530.91 MB` | `e8c0ede51546f0c2e1f13f1f3fd0992a` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.6.4-24832108_universal.dmg) |
+| **13.6.3** | `VMware-Fusion-13.6.3-24585314_universal.dmg` | `517.48 MB` | `e2fa7f6ed90e7b7639c404272d89afee` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.6.3-24585314_universal.dmg) |
+| **13.6.2** | `VMware-Fusion-13.6.2-24409261_universal.dmg` | `539.77 MB` | `2df4ee532a4a56201abea7c65c6bb5c7` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.6.2-24409261_universal.dmg) |
+| **13.6.1** | `VMware-Fusion-13.6.1-24319021_universal.dmg` | `539.78 MB` | `13304cbc30a0849a34cf1f7ea4065978` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.6.1-24319021_universal.dmg) |
+| **13.6.0** | `VMware-Fusion-13.6.0-24238079_universal.dmg` | `539.77 MB` | `4610f0c3c9e10f16f296e5c00aaa9a9f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.6.0-24238079_universal.dmg) |
+| **13.5.2** | `VMware-Fusion-13.5.2-23775688_universal.dmg` | `750.23 MB` | `0601c5b92139b3cbab3eba68217f6576` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.5.2-23775688_universal.dmg) |
+| **13.5.1** | `VMware-Fusion-13.5.1-23298085_universal.dmg` | `692.34 MB` | `fafb7fc993bcbdb0e857ef049a3c8d6e` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.5.1-23298085_universal.dmg) |
+| **13.5.0** | `VMware-Fusion-13.5.0-22583790_universal.dmg` | `689.4 MB` | `ead1eaa6379d01a52f16740507c619f6` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.5.0-22583790_universal.dmg) |
+| **13.0.1** | `VMware-Fusion-13.0.1-21139760_universal.dmg` | `672.09 MB` | `e14a500701464ec1a34f5a0ad54d5256` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.0.1-21139760_universal.dmg) |
+| **13.0.0** | `VMware-Fusion-13.0.0-20802013_universal.dmg` | `672.06 MB` | `09da5b60e48490bc2262951041fa7121` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.0.0-20802013_universal.dmg) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Fusion Pro 12.x (8 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **12.2.5** | `VMware-Fusion-12.2.5-20904517_x86.dmg` | `621.8 MB` | `f0ce49aedde643e1148fc820d546e675` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/12.x/VMware-Fusion-12.2.5-20904517_x86.dmg) |
+| **12.2.3** | `VMware-Fusion-12.2.3-19436697_x86.dmg` | `621.0 MB` | `801f66de09a015cd9ee431bd345a2318` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/12.x/VMware-Fusion-12.2.3-19436697_x86.dmg) |
+| **12.2.1** | `VMware-Fusion-12.2.1-18811640_x86.dmg` | `621.0 MB` | `c63b4b721e1fc61695fd50233248a91e` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/12.x/VMware-Fusion-12.2.1-18811640_x86.dmg) |
+| **12.2.0** | `VMware-Fusion-12.2.0-18760249_x86.dmg` | `621.0 MB` | `7fbba948d02fc5fa819cafdca931366e` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/12.x/VMware-Fusion-12.2.0-18760249_x86.dmg) |
+| **12.1.2** | `VMware-Fusion-12.1.2-17964953.dmg` | `622.22 MB` | `0fd7d67c4cf57e2f23e357b279bb6759` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/12.x/VMware-Fusion-12.1.2-17964953.dmg) |
+| **12.1.1** | `VMware-Fusion-12.1.1-17801503.dmg` | `623.36 MB` | `af8847859dc6f7e1bc33768a366f2f19` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/12.x/VMware-Fusion-12.1.1-17801503.dmg) |
+| **12.1.0** | `VMware-Fusion-12.1.0-17195230.dmg` | `623.36 MB` | `19cd6444697ae493fcd2c9f4a21fcfa9` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/12.x/VMware-Fusion-12.1.0-17195230.dmg) |
+| **12.0.0** | `VMware-Fusion-12.0.0-16880131.dmg` | `611.94 MB` | `89661ba7e224779c6038659bf9a5e0fb` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/12.x/VMware-Fusion-12.0.0-16880131.dmg) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Fusion Pro 11.x (13 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **11.5.7** | `VMware-Fusion-11.5.7-17130923.dmg` | `601.68 MB` | `c61b15e7e3337767fc8b77368d610fb3` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.5.7-17130923.dmg) |
+| **11.5.6** | `VMware-Fusion-11.5.6-16696540.dmg` | `602.04 MB` | `180d8ed37d815b10fc776630eaebd71e` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.5.6-16696540.dmg) |
+| **11.5.5** | `VMware-Fusion-11.5.5-16269456.dmg` | `602.0 MB` | `e0fab40984b5d46a2952106bd6110454` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.5.5-16269456.dmg) |
+| **11.5.3** | `VMware-Fusion-11.5.3-15870345.dmg` | `518.79 MB` | `65c94191cc42363e03fc4f3ff2333e34` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.5.3-15870345.dmg) |
+| **11.5.2** | `VMware-Fusion-11.5.2-15794494.dmg` | `518.8 MB` | `2df07fbda555f309a7ee4b4c13954567` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.5.2-15794494.dmg) |
+| **11.5.1** | `VMware-Fusion-11.5.1-15018442.dmg` | `518.43 MB` | `13803aa0f6b80d2de175216be62ed576` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.5.1-15018442.dmg) |
+| **11.5.0** | `VMware-Fusion-11.5.0-14634996.dmg` | `518.24 MB` | `cee8ef67d8e18e649f279ef6d6c4ae29` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.5.0-14634996.dmg) |
+| **11.1.1** | `VMware-Fusion-11.1.1-14328561.dmg` | `495.21 MB` | `8f53302dd108c0504ba725c3204c32d9` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.1.1-14328561.dmg) |
+| **11.1.0** | `VMware-Fusion-11.1.0-13668589.dmg` | `495.21 MB` | `70830b19374b9ff092c3866ed322dab5` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.1.0-13668589.dmg) |
+| **11.0.3** | `VMware-Fusion-11.0.3-12992109.dmg` | `495.51 MB` | `bf4eaabd12ec510a3bae54a5f488ded6` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.0.3-12992109.dmg) |
+| **11.0.2** | `VMware-Fusion-11.0.2-10952296.dmg` | `495.41 MB` | `970bc25e92abccca5f37a1f02446cef8` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.0.2-10952296.dmg) |
+| **11.0.1** | `VMware-Fusion-11.0.1-10738065.dmg` | `495.4 MB` | `4f5fed0dab9a6ecaf7a8f35fe2434e13` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.0.1-10738065.dmg) |
+| **11.0.0** | `VMware-Fusion-11.0.0-10120384.dmg` | `495.48 MB` | `09a56457494c39ad4933b5428991c34f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/VMware-Fusion-11.0.0-10120384.dmg) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Fusion Pro 10.x (6 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **10.1.3** | `VMware-Fusion-10.1.3-9472307.dmg` | `444.07 MB` | `6fe0d0dc50141b064733c61936079bee` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/10.x/VMware-Fusion-10.1.3-9472307.dmg) |
+| **10.1.2** | `VMware-Fusion-10.1.2-8502123.dmg` | `444.08 MB` | `9e89b267bf4d98bdcd08ff741041702f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/10.x/VMware-Fusion-10.1.2-8502123.dmg) |
+| **10.1.1** | `VMware-Fusion-10.1.1-7520154.dmg` | `471.77 MB` | `0c3325fddd6e20bec879cecc626533e7` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/10.x/VMware-Fusion-10.1.1-7520154.dmg) |
+| **10.1.0** | `VMware-Fusion-10.1.0-7370838.dmg` | `471.74 MB` | `1b78966e72adcd9b74bcded90d581d8c` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/10.x/VMware-Fusion-10.1.0-7370838.dmg) |
+| **10.0.1** | `VMware-Fusion-10.0.1-6754183.dmg` | `469.71 MB` | `d216a900556039352daec91b36db3484` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/10.x/VMware-Fusion-10.0.1-6754183.dmg) |
+| **10.0.0** | `VMware-Fusion-10.0.0-6665085.dmg` | `469.74 MB` | `ad0c073a19cf1d34b0079650a03093ae` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/10.x/VMware-Fusion-10.0.0-6665085.dmg) |
+
+</details>
+
+<details>
+<summary><b>📦 VMware Fusion Pro 8.x (14 phiên bản)</b></summary>
+<br>
+
+| Phiên bản | Tên file | Dung lượng | Checksum MD5 | Nút tải trực tiếp Archive.org |
+| :-------- | :------- | ---------: | :----------- | :---------------------------: |
+| **8.5.10** | `VMware-Fusion-8.5.10-7527438.dmg` | `467.21 MB` | `167b6f633dc17a55c95d92619e7726a9` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.5.10-7527438.dmg) |
+| **8.5.8** | `VMware-Fusion-8.5.8-5824040.dmg` | `467.19 MB` | `951cee1f0fa8244a0b967cb816179bbd` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.5.8-5824040.dmg) |
+| **8.5.7** | `VMware-Fusion-8.5.7-5528452.dmg` | `467.17 MB` | `7f88f04a7bc1df610b449f9c8f916201` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.5.7-5528452.dmg) |
+| **8.5.6** | `VMware-Fusion-8.5.6-5234762.dmg` | `467.15 MB` | `d6cb4d3aeb4e30252d96d695d47ec50c` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.5.6-5234762.dmg) |
+| **8.5.5** | `VMware-Fusion-8.5.5-5192483.dmg` | `467.11 MB` | `d93ccf4403565d46dac95efd9697b5f5` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.5.5-5192483.dmg) |
+| **8.5.4** | `VMware-Fusion-8.5.4-5115894.dmg` | `467.06 MB` | `44a92532ee957170654483dd0d813a3f` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.5.4-5115894.dmg) |
+| **8.5.3** | `VMware-Fusion-8.5.3-4696910.dmg` | `368.04 MB` | `a76e6772cd8f07bda743caca982da825` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.5.3-4696910.dmg) |
+| **8.5.2** | `VMware-Fusion-8.5.2-4635224.dmg` | `367.95 MB` | `b2d136e7173b814c83bfeae3057c0dc2` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.5.2-4635224.dmg) |
+| **8.5.1** | `VMware-Fusion-8.5.1-4543325.dmg` | `367.95 MB` | `5625ffa9b041cc042541435f07eff683` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.5.1-4543325.dmg) |
+| **8.5.0** | `VMware-Fusion-8.5.0-4352717.dmg` | `368.2 MB` | `1e4ac4d11a33e0c86feb4735b6d6aeb1` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.5.0-4352717.dmg) |
+| **8.1.1** | `VMware-Fusion-8.1.1-3771013.dmg` | `363.39 MB` | `4584b6405b612da75792b1519da3c205` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.1.1-3771013.dmg) |
+| **8.1.0** | `VMware-Fusion-8.1.0-3272237.dmg` | `363.0 MB` | `438be9e6a1b5135e20a7f4462f8eb9e3` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.1.0-3272237.dmg) |
+| **8.0.3** | `VMware-Fusion-8.0.3-3164312.dmg` | `362.02 MB` | `b585f53b2a38858b29874977531546af` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.0.3-3164312.dmg) |
+| **8.0.0** | `VMware-Fusion-8.0.0-2985594.dmg` | `361.69 MB` | `efcb2183b402da37673088337c76d0e5` | [⬇️ Tải về](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/VMware-Fusion-8.0.0-2985594.dmg) |
 
 </details>
 
