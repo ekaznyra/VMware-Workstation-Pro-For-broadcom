@@ -2,48 +2,53 @@
   <img src="https://cdn.simpleicons.org/vmware/0095D3" width="120" alt="VMware Logo"/>
   <br/><br/>
 
-# 📦 VMWARE WORKSTATION PRO 📦
+# 📦 VMWARE WORKSTATION PRO & FUSION 📦
 
-### TỔNG HỢP LINK TẢI CHÍNH THỨC — MIRROR VĨNH VIỄN
+### TỔNG HỢP LINK TẢI CHÍNH THỨC — MIRROR ARCHIVE.ORG VĨNH VIỄN
 
-  <p><b>Kho lưu trữ liên kết tải bộ cài VMware Workstation Pro: link tải vĩnh viễn, thông tin phiên bản, build number, mã kiểm tra hash (SHA-256 / MD5) và ghi chú phát hành.</b></p>
+  <p><b>Kho lưu trữ liên kết tải bộ cài VMware Workstation Pro & VMware Fusion Pro: link tải vĩnh viễn, thông tin phiên bản, build number, mã kiểm tra hash (SHA-256 / MD5) và ghi chú phát hành.</b></p>
 
   [![Windows](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
   [![Linux](https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux)](https://www.linux.org)
-  [![VMware](https://img.shields.io/badge/VMware-Workstation_Pro-green?style=for-the-badge&logo=vmware)](https://www.vmware.com)
-  [![Archive.org](https://img.shields.io/badge/Mirror-Archive.org-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/details/vmwareworkstationarchive)
-  [![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1iOGWI--zyEonrUsPPwSuYNfkxWGA3tfV)
+  [![macOS](https://img.shields.io/badge/OS-macOS-lightgrey?style=for-the-badge&logo=apple)](https://www.apple.com/macos)
+  [![VMware](https://img.shields.io/badge/VMware-Desktop_Hypervisors-green?style=for-the-badge&logo=vmware)](https://www.vmware.com)
+  [![Archive.org](https://img.shields.io/badge/Mirror-Archive.org_(Vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/details/vmwareworkstationarchive)
 </div>
 
 <br/>
 
 > [!NOTE]
-> **Mục đích của Repository:** Tổng hợp link tải bộ cài VMware Workstation Pro kèm đầy đủ Build Number, Release Level và Checksum để bạn tiện tra cứu, cài đặt và kiểm tra tính toàn vẹn của file.
+> **Mục đích của Repository:** Tổng hợp liên kết tải bộ cài VMware Workstation Pro (Windows/Linux) và VMware Fusion Pro (macOS) kèm đầy đủ Build Number, File Size và Checksum (SHA-256 / MD5) giúp bạn tra cứu nhanh, tải tốc độ cao và xác minh tính toàn vẹn của file.
 >
-> **🆓 VMware Workstation Pro hiện MIỄN PHÍ** cho mọi mục đích (cá nhân, học tập, thương mại) và **không cần license key**.
+> **🆓 Hoàn toàn MIỄN PHÍ:** VMware Workstation Pro và VMware Fusion Pro hiện được Broadcom phát hành **miễn phí 100%** cho mọi mục đích (cá nhân, học tập, nghiên cứu và thương mại), **không cần license key**.
 
 > [!IMPORTANT]
-> **Vì sao dùng link Archive.org / Google Drive?** Link tải trực tiếp từ máy chủ Broadcom có chứa token xác thực `verify=...` **chỉ sống được vài ngày rồi hết hạn (lỗi 403)**. Vì vậy repo này dùng **2 mirror vĩnh viễn**: **Archive.org** và **Google Drive** — link **không cần đăng nhập, không hết hạn**. Toàn bộ file trên Archive.org đã được **đối chiếu MD5 trùng khớp với bản gốc Broadcom** (18/18 phiên bản ✅).
+> **Vì sao sử dụng Mirror Archive.org vĩnh viễn?**
+> * **Không bao giờ hết hạn:** Link tải trực tiếp từ máy chủ Broadcom sử dụng token bảo mật tạm thời `verify=...` chỉ có hiệu lực vài ngày rồi trả về mã lỗi HTTP 403 Forbidden.
+> * **Không bị khóa (No False-Positive Blocks):** Các dịch vụ lưu trữ đám mây như Google Drive thường xuyên quét tự động và gắn cờ nhầm các bộ cài đặt `.exe` / `.bundle` thương mại, dẫn đến lỗi khóa truy cập vi phạm Điều khoản dịch vụ (ToS).
+> * **Toàn vẹn và an toàn:** Toàn bộ file lưu trữ trên mirror Archive.org đã được đối chiếu MD5 và SHA-256 trùng khớp 100% với bản phát hành gốc từ Broadcom. Tải trực tiếp, hỗ trợ tiếp tục tải khi đứt mạng (resume download), không yêu cầu tài khoản hay đăng nhập.
 
 ---
 
-## ⚡ Tải nhanh (phiên bản mới nhất — 26H1)
+## ⚡ Tải nhanh (Phiên bản mới nhất)
 
-| Nền tảng | File | Archive.org (vĩnh viễn) | Google Drive |
-| -------- | ---- | ----------------------- | ------------ |
-| 🪟 **Windows** | `VMware-Workstation-Full-26H1-25388281.exe` | [![DL](https://img.shields.io/badge/⬇️_Archive.org-654FF0?style=flat-square)](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1-25388281.exe) | [![DL](https://img.shields.io/badge/⬇️_Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1LJmxrZyYmhi_5wiInnw5QFVxxUy-tdeR/view?usp=sharing) |
-| 🐧 **Linux** | `VMware-Workstation-Full-26H1-25388281.x86_64.bundle` | [![DL](https://img.shields.io/badge/⬇️_Archive.org-654FF0?style=flat-square)](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle) | [![DL](https://img.shields.io/badge/⬇️_Drive-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1c4tJuG_3xIy3Op_iuQAxsZz1afDsO3OI/view?usp=sharing) |
+| Nền tảng | Ứng dụng | Phiên bản / Build | File | Tải về trực tiếp (Archive.org) |
+| -------- | -------- | ----------------- | ---- | :----------------------------: |
+| 🪟 **Windows** | VMware Workstation Pro | **26H1u1** (`25688693`) | `VMware-Workstation-Full-26H1u1-25688693.exe` | [![Tải về](https://img.shields.io/badge/⬇️_Tải_bản_Windows-654FF0?style=flat-square&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1u1-25688693.exe) |
+| 🐧 **Linux** | VMware Workstation Pro | **26H1** (`25388281`) | `VMware-Workstation-Full-26H1-25388281.x86_64.bundle` | [![Tải về](https://img.shields.io/badge/⬇️_Tải_bản_Linux-654FF0?style=flat-square&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle) |
+| 🍎 **macOS** | VMware Fusion Pro | **26H1u1** (`25689522`) | `VMware-Fusion-26H1u1-25689522_universal.dmg` | [![Tải về](https://img.shields.io/badge/⬇️_Tải_bản_macOS-654FF0?style=flat-square&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Fusion/26H1/VMware-Fusion-26H1u1-25689522_universal.dmg) |
 
-> 💡 Hoặc dùng **[script tải tự động](#-script-tải-tự-động-auto-download)** để chọn phiên bản qua menu và tự động kiểm tra checksum.
+> 💡 Hoặc sử dụng **[script tải tự động](#-script-tải-tự-động-auto-download)** để tự động kiểm tra checksum và tải về máy.
 
 ---
 
 ## 📚 Danh mục (Table of Contents)
 
 <details open>
-<summary><b>🪟 Windows Applications</b></summary>
+<summary><b>🪟 Windows Applications (VMware Workstation Pro)</b></summary>
 <br>
 
+* [VMware Workstation Pro 26H1u1 for Windows](#vmware-workstation-pro-26h1u1-for-windows) 🆕
 * [VMware Workstation Pro 26H1 for Windows](#vmware-workstation-pro-26h1-for-windows)
 * [VMware Workstation Pro 25H2u1 for Windows](#vmware-workstation-pro-25h2u1-for-windows)
 * [VMware Workstation Pro 25H2 for Windows](#vmware-workstation-pro-25h2-for-windows)
@@ -56,7 +61,7 @@
 </details>
 
 <details open>
-<summary><b>🐧 Linux Applications</b></summary>
+<summary><b>🐧 Linux Applications (VMware Workstation Pro)</b></summary>
 <br>
 
 * [VMware Workstation Pro 26H1 for Linux](#vmware-workstation-pro-26h1-for-linux)
@@ -70,6 +75,17 @@
 * [VMware Workstation Pro 17.5.2 for Linux](#vmware-workstation-pro-1752-for-linux)
 </details>
 
+<details open>
+<summary><b>🍎 macOS Applications (VMware Fusion Pro)</b></summary>
+<br>
+
+* [VMware Fusion Pro 26H1u1 for macOS](#vmware-fusion-pro-26h1u1-for-macos) 🆕
+* [VMware Fusion Pro 26H1 for macOS](#vmware-fusion-pro-26h1-for-macos)
+* [VMware Fusion Pro 25H2u1 for macOS](#vmware-fusion-pro-25h2u1-for-macos)
+* [VMware Fusion Pro 25H2 for macOS](#vmware-fusion-pro-25h2-for-macos)
+* [VMware Fusion Pro 13.6.4 for macOS](#vmware-fusion-pro-1364-for-macos)
+</details>
+
 <br>
 
 * [🗂️ Kho phiên bản cũ (Older Versions)](#️-kho-phiên-bản-cũ-older-versions)
@@ -81,19 +97,27 @@
 
 ---
 
-## 🔽 Nguồn tải (Download Sources)
+# 🪟 Windows Applications
 
-Mỗi phiên bản bên dưới có 3 nguồn tải:
+## VMware Workstation Pro 26H1u1 for Windows
 
-| Nguồn | Đặc điểm | Khuyến nghị |
-| ----- | -------- | :---------: |
-| 🟣 **Archive.org** | Vĩnh viễn, không cần tài khoản, không hết hạn. File đã đối chiếu MD5 khớp bản gốc. | ⭐ **Nên dùng** |
-| 🟦 **Google Drive** | Mirror đầy đủ tất cả phiên bản (Windows `.exe` + Linux `.bundle`). Tốc độ tốt, có thể giới hạn lượt tải/ngày. → [📁 Mở folder](https://drive.google.com/drive/folders/1iOGWI--zyEonrUsPPwSuYNfkxWGA3tfV) | Dự phòng |
-| 🏢 **Broadcom chính thức** | Nguồn gốc của nhà phát hành. **Cần tài khoản miễn phí**, link trực tiếp hết hạn nhanh. | Xác minh nguồn |
+| Thông tin                     | Chi tiết                                                              |
+| ----------------------------- | --------------------------------------------------------------------- |
+| **Tên ứng dụng**              | VMware Workstation Pro 26H1u1 for Windows                             |
+| **Tên file**                  | `VMware-Workstation-Full-26H1u1-25688693.exe`                         |
+| **Dung lượng**                | `267.61 MB` (280,609,368 bytes)                                       |
+| **Build Number**              | `25688693`                                                            |
+| **Ngày cập nhật / file date** | `Sep 06, 2026`                                                        |
+| **SHA-256**                   | `3d775c3c2153600eef4642f95d519a514ba7e861400bda2598352bff792db473`    |
+| **MD5**                       | `9209838fcb622438e87422a25622bfa7`                                    |
+
+### ⬇️ Download
+
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1u1-25688693.exe)
+
+👉 **Link trực tiếp:** [VMware-Workstation-Full-26H1u1-25688693.exe](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1u1-25688693.exe)
 
 ---
-
-# 🪟 Windows Applications
 
 ## VMware Workstation Pro 26H1 for Windows
 
@@ -112,10 +136,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1-25388281.exe)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1LJmxrZyYmhi_5wiInnw5QFVxxUy-tdeR/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-26H1-25388281.exe](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1-25388281.exe)
-🟦 **Google Drive:** [VMware-Workstation-Full-26H1-25388281.exe](https://drive.google.com/file/d/1LJmxrZyYmhi_5wiInnw5QFVxxUy-tdeR/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-26H1-25388281.exe](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1-25388281.exe)
 
 ---
 
@@ -136,10 +158,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2u1-25219725.exe)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17fKLLNpFD7UJ1PzXV-B1BqGVwArR-m1C/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-25H2u1-25219725.exe](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2u1-25219725.exe)
-🟦 **Google Drive:** [VMware-Workstation-Full-25H2u1-25219725.exe](https://drive.google.com/file/d/17fKLLNpFD7UJ1PzXV-B1BqGVwArR-m1C/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-25H2u1-25219725.exe](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2u1-25219725.exe)
 
 ---
 
@@ -159,10 +179,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2-24995812.exe)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1K8jcprl8PDetKJU3JGqvOVmMEtM-grwP/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-25H2-24995812.exe](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2-24995812.exe)
-🟦 **Google Drive:** [VMware-Workstation-Full-25H2-24995812.exe](https://drive.google.com/file/d/1K8jcprl8PDetKJU3JGqvOVmMEtM-grwP/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-25H2-24995812.exe](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2-24995812.exe)
 
 ---
 
@@ -183,10 +201,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.4-24832109.exe)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Kv5RkxQFsh49M0d9Lr9A4rW9GCU9tzjE/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-workstation-full-17.6.4-24832109.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.4-24832109.exe)
-🟦 **Google Drive:** [VMware-workstation-full-17.6.4-24832109.exe](https://drive.google.com/file/d/1Kv5RkxQFsh49M0d9Lr9A4rW9GCU9tzjE/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-workstation-full-17.6.4-24832109.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.4-24832109.exe)
 
 ---
 
@@ -207,10 +223,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.3-24583834.exe)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/11598ZnAYzY0I0d_xikcAtYe8yTNR_DjC/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-workstation-full-17.6.3-24583834.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.3-24583834.exe)
-🟦 **Google Drive:** [VMware-workstation-full-17.6.3-24583834.exe](https://drive.google.com/file/d/11598ZnAYzY0I0d_xikcAtYe8yTNR_DjC/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-workstation-full-17.6.3-24583834.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.3-24583834.exe)
 
 ---
 
@@ -231,10 +245,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.2-24409262.exe)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1VmaKsjcup3xb_F0z2OUauns3qFtIOoWC/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-workstation-full-17.6.2-24409262.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.2-24409262.exe)
-🟦 **Google Drive:** [VMware-workstation-full-17.6.2-24409262.exe](https://drive.google.com/file/d/1VmaKsjcup3xb_F0z2OUauns3qFtIOoWC/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-workstation-full-17.6.2-24409262.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.2-24409262.exe)
 
 ---
 
@@ -255,10 +267,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.1-24319023.exe)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1iSFmOMI5YQS4HXieKog8O84Hj3IcyQ2Z/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-workstation-full-17.6.1-24319023.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.1-24319023.exe)
-🟦 **Google Drive:** [VMware-workstation-full-17.6.1-24319023.exe](https://drive.google.com/file/d/1iSFmOMI5YQS4HXieKog8O84Hj3IcyQ2Z/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-workstation-full-17.6.1-24319023.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.1-24319023.exe)
 
 ---
 
@@ -279,10 +289,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.0-24238078.exe)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1LVQylRahiwxKNkwQaCaEgzhfsHV59pNh/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-workstation-full-17.6.0-24238078.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.0-24238078.exe)
-🟦 **Google Drive:** [VMware-workstation-full-17.6.0-24238078.exe](https://drive.google.com/file/d/1LVQylRahiwxKNkwQaCaEgzhfsHV59pNh/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-workstation-full-17.6.0-24238078.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.0-24238078.exe)
 
 ---
 
@@ -303,10 +311,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.2-23775571.exe)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1_E45E1I_idPy0auYe6JMwSKMYoEtg6SK/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-workstation-full-17.5.2-23775571.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.2-23775571.exe)
-🟦 **Google Drive:** [VMware-workstation-full-17.5.2-23775571.exe](https://drive.google.com/file/d/1_E45E1I_idPy0auYe6JMwSKMYoEtg6SK/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-workstation-full-17.5.2-23775571.exe](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.2-23775571.exe)
 
 ---
 
@@ -329,10 +335,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1c4tJuG_3xIy3Op_iuQAxsZz1afDsO3OI/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-26H1-25388281.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle)
-🟦 **Google Drive:** [VMware-Workstation-Full-26H1-25388281.x86_64.bundle](https://drive.google.com/file/d/1c4tJuG_3xIy3Op_iuQAxsZz1afDsO3OI/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-26H1-25388281.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle)
 
 ---
 
@@ -353,10 +357,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1bQUvoZOhp4uqrCLvwmY478DaQJwKselw/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle)
-🟦 **Google Drive:** [VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle](https://drive.google.com/file/d/1bQUvoZOhp4uqrCLvwmY478DaQJwKselw/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle)
 
 ---
 
@@ -376,10 +378,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2-24995812.x86_64.bundle)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1a44cWoehzmNlg-LSbCzhc-5b8HMTqnl1/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-25H2-24995812.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2-24995812.x86_64.bundle)
-🟦 **Google Drive:** [VMware-Workstation-Full-25H2-24995812.x86_64.bundle](https://drive.google.com/file/d/1a44cWoehzmNlg-LSbCzhc-5b8HMTqnl1/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-25H2-24995812.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2-24995812.x86_64.bundle)
 
 ---
 
@@ -400,10 +400,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle)
-🟦 **Google Drive:** [VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle)
 
 ---
 
@@ -424,10 +422,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle)
-🟦 **Google Drive:** [VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle)
 
 ---
 
@@ -448,10 +444,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle)
-🟦 **Google Drive:** [VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle)
 
 ---
 
@@ -472,10 +466,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle)
-🟦 **Google Drive:** [VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle)
 
 ---
 
@@ -496,10 +488,8 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle)
-🟦 **Google Drive:** [VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle)
 
 ---
 
@@ -520,111 +510,229 @@ Mỗi phiên bản bên dưới có 3 nguồn tải:
 ### ⬇️ Download
 
 [![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle)
-[![Google Drive](https://img.shields.io/badge/Mirror-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=sharing)
 
-👉 **Archive.org:** [VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle)
-🟦 **Google Drive:** [VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=sharing)
+👉 **Link trực tiếp:** [VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle)
+
+---
+
+# 🍎 macOS Applications (VMware Fusion Pro)
+
+## VMware Fusion Pro 26H1u1 for macOS
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Fusion Pro 26H1u1 for macOS (Universal)                     |
+| **Kiến trúc hỗ trợ**          | Apple Silicon (M1/M2/M3/M4) & Intel (x86_64)                       |
+| **Tên file**                  | `VMware-Fusion-26H1u1-25689522_universal.dmg`                      |
+| **Dung lượng**                | `497.25 MB` (521,403,629 bytes)                                    |
+| **Build Number**              | `25689522`                                                         |
+| **Ngày cập nhật / file date** | `Sep 06, 2026`                                                     |
+| **MD5**                       | `72390276a1eaef54d57363e008b98c8d`                                 |
+| **SHA-1**                     | `02d6c55dddc238c23357c2d2333ee263df3db156`                         |
+
+### ⬇️ Download
+
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Fusion/26H1/VMware-Fusion-26H1u1-25689522_universal.dmg)
+
+👉 **Link trực tiếp:** [VMware-Fusion-26H1u1-25689522_universal.dmg](https://archive.org/download/vmwareworkstationarchive/Fusion/26H1/VMware-Fusion-26H1u1-25689522_universal.dmg)
+
+---
+
+## VMware Fusion Pro 26H1 for macOS
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Fusion Pro 26H1 for macOS (Universal)                       |
+| **Kiến trúc hỗ trợ**          | Apple Silicon (M1/M2/M3/M4) & Intel (x86_64)                       |
+| **Tên file**                  | `VMware-Fusion-26H1-25388279_universal.dmg`                        |
+| **Dung lượng**                | `480.71 MB`                                                        |
+| **Build Number**              | `25388279`                                                         |
+| **Ngày cập nhật / file date** | `May 05, 2026`                                                     |
+| **MD5**                       | `42414933dd368abd622b15e70ceff8a1`                                 |
+
+### ⬇️ Download
+
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Fusion/26H1/VMware-Fusion-26H1-25388279_universal.dmg)
+
+👉 **Link trực tiếp:** [VMware-Fusion-26H1-25388279_universal.dmg](https://archive.org/download/vmwareworkstationarchive/Fusion/26H1/VMware-Fusion-26H1-25388279_universal.dmg)
+
+---
+
+## VMware Fusion Pro 25H2u1 for macOS
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Fusion Pro 25H2u1 for macOS (Universal)                     |
+| **Kiến trúc hỗ trợ**          | Apple Silicon & Intel                                              |
+| **Tên file**                  | `VMware-Fusion-25H2u1-25219963_universal.dmg`                      |
+| **Dung lượng**                | `484.82 MB`                                                        |
+| **Build Number**              | `25219963`                                                         |
+| **Ngày cập nhật / file date** | `Feb 20, 2026`                                                     |
+| **MD5**                       | `630976aa785f5ec578ec303cd94117b6`                                 |
+
+### ⬇️ Download
+
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Fusion/25H2/VMware-Fusion-25H2u1-25219963_universal.dmg)
+
+👉 **Link trực tiếp:** [VMware-Fusion-25H2u1-25219963_universal.dmg](https://archive.org/download/vmwareworkstationarchive/Fusion/25H2/VMware-Fusion-25H2u1-25219963_universal.dmg)
+
+---
+
+## VMware Fusion Pro 25H2 for macOS
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Fusion Pro 25H2 for macOS (Universal)                       |
+| **Kiến trúc hỗ trợ**          | Apple Silicon & Intel                                              |
+| **Tên file**                  | `VMware-Fusion-25H2-24995814_universal.dmg`                        |
+| **Dung lượng**                | `484.58 MB`                                                        |
+| **Build Number**              | `24995814`                                                         |
+| **Ngày cập nhật / file date** | `Oct 09, 2025`                                                     |
+| **MD5**                       | `2f7b9c6b871467d28a63fffd18fd6ca8`                                 |
+
+### ⬇️ Download
+
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Fusion/25H2/VMware-Fusion-25H2-24995814_universal.dmg)
+
+👉 **Link trực tiếp:** [VMware-Fusion-25H2-24995814_universal.dmg](https://archive.org/download/vmwareworkstationarchive/Fusion/25H2/VMware-Fusion-25H2-24995814_universal.dmg)
+
+---
+
+## VMware Fusion Pro 13.6.4 for macOS
+
+| Thông tin                     | Chi tiết                                                           |
+| ----------------------------- | ------------------------------------------------------------------ |
+| **Tên ứng dụng**              | VMware Fusion Pro 13.6.4 for macOS (Universal)                     |
+| **Kiến trúc hỗ trợ**          | Apple Silicon & Intel                                              |
+| **Tên file**                  | `VMware-Fusion-13.6.4-24832108_universal.dmg`                      |
+| **Dung lượng**                | `530.91 MB`                                                        |
+| **Build Number**              | `24832108`                                                         |
+| **Ngày cập nhật / file date** | `Jul 09, 2025`                                                     |
+| **MD5**                       | `e8c0ede51546f0c2e1f13f1f3fd0992a`                                 |
+
+### ⬇️ Download
+
+[![Archive.org](https://img.shields.io/badge/⭐_Download-Archive.org_(vĩnh_viễn)-654FF0?style=for-the-badge&logo=internetarchive&logoColor=white)](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.6.4-24832108_universal.dmg)
+
+👉 **Link trực tiếp:** [VMware-Fusion-13.6.4-24832108_universal.dmg](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.6.4-24832108_universal.dmg)
 
 ---
 
 # 🗂️ Kho phiên bản cũ (Older Versions)
 
 > [!TIP]
-> Mirror Archive.org còn lưu trữ **toàn bộ lịch sử VMware Workstation từ 3.x đến nay** (Windows `.exe` và một số bản Linux/Fusion). Bấm vào thư mục để xem & tải trực tiếp.
+> Mirror Archive.org lưu trữ **toàn bộ lịch sử VMware Workstation (từ 2.x đến nay)** và **VMware Fusion (từ 8.x đến nay)**. Bạn có thể bấm vào từng thư mục để duyệt và tải trực tiếp bất kỳ bản phát hành lịch sử nào.
 
 <details>
-<summary><b>📂 Xem danh sách các dòng phiên bản cũ (Windows)</b></summary>
+<summary><b>📂 Danh mục các dòng phiên bản cũ cho Windows (Workstation 2.x → 17.x)</b></summary>
 <br>
 
 | Dòng | Phạm vi build | Thư mục Archive.org |
 | ---- | ------------- | ------------------- |
-| **17.x** | 17.0.0 → 17.6.4 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/17.x/) |
-| **16.x** | 16.0.0 → 16.2.5 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/16.x/) |
-| **15.x** | 15.0.0 → 15.5.7 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/15.x/) |
-| **14.x** | 14.0.0 → 14.1.8 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/14.x/) |
-| **12.x** | 12.0.0 → 12.5.9 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/12.x/) |
-| **11.x** | 11.0.0 → 11.1.4 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/11.x/) |
-| **10.x** | 10.0.0 → 10.0.7 | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/10.x/) |
-| **9.x**  | 9.0.0 → 9.0.4   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/9.x/) |
-| **8.x**  | 8.0.0 → 8.0.6   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/8.x/) |
-| **7.x**  | 7.0.0 → 7.1.6   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/7.x/) |
-| **6.x**  | 6.0.0 → 6.5.5   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/6.x/) |
-| **5.x**  | 5.0.0 → 5.5.9   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/5.x/) |
-| **4.x**  | 4.0.0 → 4.5.3   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/4.x/) |
-| **3.x**  | 3.0.0 → 3.2.1   | [📁 Browse](https://archive.org/download/vmwareworkstationarchive/3.x/) |
+| **17.x** | 17.0.0 → 17.6.4 | [📁 Browse 17.x](https://archive.org/download/vmwareworkstationarchive/17.x/) |
+| **16.x** | 16.0.0 → 16.2.5 | [📁 Browse 16.x](https://archive.org/download/vmwareworkstationarchive/16.x/) |
+| **15.x** | 15.0.0 → 15.5.7 | [📁 Browse 15.x](https://archive.org/download/vmwareworkstationarchive/15.x/) |
+| **14.x** | 14.0.0 → 14.1.8 | [📁 Browse 14.x](https://archive.org/download/vmwareworkstationarchive/14.x/) |
+| **12.x** | 12.0.0 → 12.5.9 | [📁 Browse 12.x](https://archive.org/download/vmwareworkstationarchive/12.x/) |
+| **11.x** | 11.0.0 → 11.1.4 | [📁 Browse 11.x](https://archive.org/download/vmwareworkstationarchive/11.x/) |
+| **10.x** | 10.0.0 → 10.0.7 | [📁 Browse 10.x](https://archive.org/download/vmwareworkstationarchive/10.x/) |
+| **9.x**  | 9.0.0 → 9.0.4   | [📁 Browse 9.x](https://archive.org/download/vmwareworkstationarchive/9.x/) |
+| **8.x**  | 8.0.0 → 8.0.6   | [📁 Browse 8.x](https://archive.org/download/vmwareworkstationarchive/8.x/) |
+| **7.x**  | 7.0.0 → 7.1.6   | [📁 Browse 7.x](https://archive.org/download/vmwareworkstationarchive/7.x/) |
+| **6.x**  | 6.0.0 → 6.5.5   | [📁 Browse 6.x](https://archive.org/download/vmwareworkstationarchive/6.x/) |
+| **5.x**  | 5.0.0 → 5.5.9   | [📁 Browse 5.x](https://archive.org/download/vmwareworkstationarchive/5.x/) |
+| **4.x**  | 4.0.0 → 4.5.3   | [📁 Browse 4.x](https://archive.org/download/vmwareworkstationarchive/4.x/) |
+| **3.x**  | 3.0.0 → 3.2.1   | [📁 Browse 3.x](https://archive.org/download/vmwareworkstationarchive/3.x/) |
+| **2.x**  | 2.0.1 → 2.0.4   | [📁 Browse 2.x](https://archive.org/download/vmwareworkstationarchive/2.x/) |
 
 </details>
 
-👉 Xem toàn bộ kho (Windows + Linux + Fusion): **[archive.org/details/vmwareworkstationarchive](https://archive.org/details/vmwareworkstationarchive)**
+<details>
+<summary><b>📂 Danh mục các dòng phiên bản cũ cho macOS (VMware Fusion 8.x → 13.x)</b></summary>
+<br>
+
+| Dòng | Phạm vi build | Thư mục Archive.org |
+| ---- | ------------- | ------------------- |
+| **13.x** | 13.0.0 → 13.6.4 | [📁 Browse Fusion 13.x](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/) |
+| **12.x** | 12.0.0 → 12.2.5 | [📁 Browse Fusion 12.x](https://archive.org/download/vmwareworkstationarchive/Fusion/12.x/) |
+| **11.x** | 11.0.0 → 11.5.7 | [📁 Browse Fusion 11.x](https://archive.org/download/vmwareworkstationarchive/Fusion/11.x/) |
+| **10.x** | 10.0.0 → 10.1.3 | [📁 Browse Fusion 10.x](https://archive.org/download/vmwareworkstationarchive/Fusion/10.x/) |
+| **8.x**  | 8.0.0 → 8.5.10  | [📁 Browse Fusion 8.x](https://archive.org/download/vmwareworkstationarchive/Fusion/8.x/) |
+
+</details>
+
+👉 **Trang kho tổng quan:** [archive.org/details/vmwareworkstationarchive](https://archive.org/details/vmwareworkstationarchive)
 
 ---
 
 # 🤖 Script tải tự động (Auto Download)
 
 > [!TIP]
-> Thay vì copy link thủ công, dùng script trong thư mục [`scripts/`](scripts) để **liệt kê phiên bản, tải về và tự động kiểm tra MD5** từ mirror Archive.org.
+> Thay vì sao chép link thủ công, các script trong thư mục [`scripts/`](scripts) hỗ trợ **liệt kê phiên bản (mới nhất xếp lên đầu), tự động tải (có thanh tiến trình và resume) và kiểm tra checksum MD5**.
 
 ### 🪟 Windows (PowerShell)
 
 ```powershell
-# Tải script về rồi chạy menu chọn phiên bản
+# Tải script về và chạy
 irm https://raw.githubusercontent.com/ekaznyra/VMware-Workstation-Pro-For-broadcom/main/scripts/Get-VMwareWorkstation.ps1 -OutFile Get-VMwareWorkstation.ps1
-.\Get-VMwareWorkstation.ps1                 # menu tương tác
-.\Get-VMwareWorkstation.ps1 -List           # liệt kê tất cả phiên bản
-.\Get-VMwareWorkstation.ps1 -Version 26H1   # tải thẳng bản 26H1 (Windows)
+
+.\Get-VMwareWorkstation.ps1                     # Menu tương tác chọn phiên bản Windows (mặc định 26H1u1)
+.\Get-VMwareWorkstation.ps1 -List               # Liệt kê tất cả phiên bản Windows
+.\Get-VMwareWorkstation.ps1 -Version 26H1u1     # Tải thẳng bản mới nhất 26H1u1 cho Windows
+.\Get-VMwareWorkstation.ps1 -Platform Linux -List # Liệt kê các bản Linux
+.\Get-VMwareWorkstation.ps1 -Platform macOS -List # Liệt kê các bản VMware Fusion cho macOS
 ```
 
-### 🐧 Linux (Bash)
+### 🐧 Linux & 🍎 macOS (Bash)
 
 ```bash
+# Tải script và cấp quyền thực thi
 curl -fsSLO https://raw.githubusercontent.com/ekaznyra/VMware-Workstation-Pro-For-broadcom/main/scripts/get-vmware-workstation.sh
 chmod +x get-vmware-workstation.sh
-./get-vmware-workstation.sh                  # menu tương tác
-./get-vmware-workstation.sh --list           # liệt kê tất cả phiên bản
-./get-vmware-workstation.sh --version 26H1   # tải thẳng bản 26H1 (Linux)
-```
 
-Script sẽ tự đối chiếu MD5 của file vừa tải với metadata trên Archive.org và báo `✅ OK` hoặc `❌ MISMATCH`.
+./get-vmware-workstation.sh                      # Menu tương tác (tự động nhận diện Linux hoặc macOS)
+./get-vmware-workstation.sh --list               # Liệt kê phiên bản có sẵn
+./get-vmware-workstation.sh --version 26H1       # Tải thẳng phiên bản 26H1 (Linux)
+./get-vmware-workstation.sh --platform macos -l  # Liệt kê các bản macOS Fusion
+./get-vmware-workstation.sh --platform windows -l # Liệt kê các bản Windows
+```
 
 ---
 
 # 🏢 Tải chính thức từ Broadcom (Official)
 
 > [!NOTE]
-> Đây là nguồn gốc của nhà phát hành. Cần **tài khoản Broadcom miễn phí** (dùng email cá nhân Gmail/Outlook... đều được), **không cần license key**.
+> Nguồn gốc từ nhà phát hành Broadcom. Cần **tài khoản Broadcom miễn phí** (email cá nhân bất kỳ), **không cần license key**.
 
-**Các bước:**
+**Các bước tải chính thức:**
 
-1. Tạo / đăng nhập tài khoản tại **[support.broadcom.com](https://support.broadcom.com)**.
-2. Vào trang tải: **[VMware Workstation Pro Downloads](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)**.
-   *(Hoặc: góc trên bên phải chọn **VMware Cloud Foundation** → menu trái **My Downloads** → mục **Free Software Downloads available HERE**.)*
-3. Chọn **VMware Workstation Pro** → chọn nền tảng (Windows / Linux) → chọn phiên bản.
-4. Tích vào ô **Terms and Conditions** để bật nút tải.
-5. Bấm **Download** (lần đầu có thể phải điền form *trade compliance* — nhập thông tin rồi **I Agree**).
+1. Đăng nhập hoặc đăng ký tài khoản tại: **[support.broadcom.com](https://support.broadcom.com)**.
+2. Truy cập cổng tải: **[VMware Workstation Pro Downloads](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)**.
+3. Chọn sản phẩm **VMware Workstation Pro** (hoặc **VMware Fusion Pro**) → chọn nền tảng → chọn phiên bản.
+4. Tích chọn ô đồng ý với **Terms and Conditions** để kích hoạt nút tải.
+5. Nhấn **Download** (nếu lần đầu tải, hoàn tất biểu mẫu *Trade Compliance* rồi chọn *I Agree*).
 
-📄 Bài viết tham khảo của Broadcom: [Download and license VMware Desktop Hypervisor](https://knowledge.broadcom.com/external/article/368667/) · [Downloading Free Software from the Broadcom Support Portal](https://knowledge.broadcom.com/external/article/397417/)
+📄 Tài liệu hướng dẫn chính thức từ Broadcom: [Download and license VMware Desktop Hypervisor](https://knowledge.broadcom.com/external/article/368667/) · [Downloading Free Software from the Broadcom Support Portal](https://knowledge.broadcom.com/external/article/397417/)
 
 ---
 
 # 🔐 Hướng dẫn kiểm tra Checksum (Checksum Guide)
 
 > [!IMPORTANT]
-> Sau khi tải file, **luôn luôn** kiểm tra checksum để đảm bảo file không bị lỗi trong quá trình tải xuống hoặc bị chỉnh sửa trái phép. So mã kết quả với cột **SHA-256 / MD5** trong bảng phiên bản tương ứng.
+> Sau khi tải xong, hãy kiểm tra mã hash (SHA-256 hoặc MD5) để đảm bảo file tải về hoàn chỉnh, không bị lỗi mạng hoặc bị can thiệp.
 
-<details>
+<details open>
 <summary><b>🪟 Kiểm tra trên Windows (PowerShell)</b></summary>
 <br>
 
 **1. Kiểm tra SHA-256:**
-Mở PowerShell tại thư mục chứa file rồi chạy lệnh:
 ```powershell
-Get-FileHash .\VMware-Workstation-Full-26H1-25388281.exe -Algorithm SHA256
+Get-FileHash .\VMware-Workstation-Full-26H1u1-25688693.exe -Algorithm SHA256
 ```
-Kết quả hiển thị mã Hash phải khớp hoàn toàn với thông tin trên bảng.
 
 **2. Kiểm tra MD5:**
 ```powershell
-Get-FileHash .\VMware-Workstation-Full-26H1-25388281.exe -Algorithm MD5
+Get-FileHash .\VMware-Workstation-Full-26H1u1-25688693.exe -Algorithm MD5
 ```
 
 </details>
@@ -634,15 +742,29 @@ Get-FileHash .\VMware-Workstation-Full-26H1-25388281.exe -Algorithm MD5
 <br>
 
 **1. Kiểm tra SHA-256:**
-Mở Terminal tại thư mục chứa file rồi chạy lệnh:
 ```bash
 sha256sum ./VMware-Workstation-Full-26H1-25388281.x86_64.bundle
 ```
-Kết quả hiển thị mã Hash phải khớp hoàn toàn với thông tin trên bảng.
 
 **2. Kiểm tra MD5:**
 ```bash
 md5sum ./VMware-Workstation-Full-26H1-25388281.x86_64.bundle
+```
+
+</details>
+
+<details>
+<summary><b>🍎 Kiểm tra trên macOS (Terminal)</b></summary>
+<br>
+
+**1. Kiểm tra SHA-256:**
+```bash
+shasum -a 256 ./VMware-Fusion-26H1u1-25689522_universal.dmg
+```
+
+**2. Kiểm tra MD5:**
+```bash
+md5 ./VMware-Fusion-26H1u1-25689522_universal.dmg
 ```
 
 </details>
@@ -652,44 +774,47 @@ md5sum ./VMware-Workstation-Full-26H1-25388281.x86_64.bundle
 # 📝 Ghi chú sử dụng (Usage Notes)
 
 > [!WARNING]
-> * **Nguồn gốc:** File trên mirror Archive.org đã được đối chiếu MD5 khớp với bản gốc Broadcom. Nếu cần tuyệt đối chắc chắn về nguồn, hãy tải trực tiếp từ [Broadcom](#-tải-chính-thức-từ-broadcom-official).
-> * **Bản quyền:** Repository **KHÔNG** lưu trữ license key, crack, patch hay bất kỳ công cụ kích hoạt trái phép nào. VMware Workstation Pro vốn đã miễn phí và không cần key.
-> * **Checksum:** Với các file bộ cài quan trọng, hãy luôn đối chiếu lại mã SHA-256 / MD5 sau khi tải để đảm bảo tính an toàn.
-> * **Link Broadcom trực tiếp:** Link tải dạng `downloads2.broadcom.com/?...&verify=...` chỉ sống vài ngày rồi **hết hạn (403)** — repo này không dùng nữa, đã thay bằng mirror Archive.org + Google Drive vĩnh viễn.
-> * **Mục đích:** Dùng để tra cứu thông tin, lịch sử các bản build và quản lý phiên bản phần mềm.
+> * **Tính chính chủ:** Toàn bộ file trên mirror Archive.org đều đã được đối chiếu MD5 và SHA-256 trùng khớp 100% với bản phát hành gốc của Broadcom.
+> * **Không crack / keygen:** Repository **TUYỆT ĐỐI KHÔNG** chứa phần mềm bẻ khóa, patch, crack hay keygen. VMware Workstation Pro và Fusion Pro đã được Broadcom cung cấp miễn phí hoàn toàn.
+> * **Loại bỏ Google Drive & Direct Token:** Các liên kết Google Drive đã bị loại bỏ hoàn toàn do các hạn chế vi phạm chính sách tự động từ Google. Toàn bộ tài nguyên được chuyển hóa sang mirror vĩnh viễn [Archive.org](https://archive.org/details/vmwareworkstationarchive).
+> * **Tính toàn vẹn:** Luôn so sánh chuỗi hash sau khi tải với thông tin tại các bảng tra cứu bên trên để an tâm cài đặt.
 
 ---
 
 # ✅ Bảng tổng hợp các phiên bản
 
-> Mỗi phiên bản đều có thêm **mirror Google Drive** — xem ở mục tương ứng phía trên hoặc [📁 mở folder Drive](https://drive.google.com/drive/folders/1iOGWI--zyEonrUsPPwSuYNfkxWGA3tfV).
-
-| STT | Ứng dụng                      | Nền tảng | Phiên bản / Build |  Dung lượng | Archive.org | Google Drive |
-| --: | ----------------------------- | -------- | ----------------- | ----------: | ----------- | ------------ |
-|   1 | VMware Workstation Pro 26H1   | Windows  | Build `25388281`  | `274.34 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1-25388281.exe) | [🟦](https://drive.google.com/file/d/1LJmxrZyYmhi_5wiInnw5QFVxxUy-tdeR/view?usp=sharing) |
-|   2 | VMware Workstation Pro 25H2u1 | Windows  | Build `25219725`  | `278.31 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2u1-25219725.exe) | [🟦](https://drive.google.com/file/d/17fKLLNpFD7UJ1PzXV-B1BqGVwArR-m1C/view?usp=sharing) |
-|   3 | VMware Workstation Pro 25H2   | Windows  | Build `24995812`  | `277.63 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2-24995812.exe) | [🟦](https://drive.google.com/file/d/1K8jcprl8PDetKJU3JGqvOVmMEtM-grwP/view?usp=sharing) |
-|   4 | VMware Workstation Pro 17.6.4 | Windows  | Build `24832109`  | `405.72 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.4-24832109.exe) | [🟦](https://drive.google.com/file/d/1Kv5RkxQFsh49M0d9Lr9A4rW9GCU9tzjE/view?usp=sharing) |
-|   5 | VMware Workstation Pro 17.6.3 | Windows  | Build `24583834`  | `401.43 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.3-24583834.exe) | [🟦](https://drive.google.com/file/d/11598ZnAYzY0I0d_xikcAtYe8yTNR_DjC/view?usp=sharing) |
-|   6 | VMware Workstation Pro 17.6.2 | Windows  | Build `24409262`  | `447.93 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.2-24409262.exe) | [🟦](https://drive.google.com/file/d/1VmaKsjcup3xb_F0z2OUauns3qFtIOoWC/view?usp=sharing) |
-|   7 | VMware Workstation Pro 17.6.1 | Windows  | Build `24319023`  | `447.93 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.1-24319023.exe) | [🟦](https://drive.google.com/file/d/1iSFmOMI5YQS4HXieKog8O84Hj3IcyQ2Z/view?usp=sharing) |
-|   8 | VMware Workstation Pro 17.6.0 | Windows  | Build `24238078`  | `447.97 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.0-24238078.exe) | [🟦](https://drive.google.com/file/d/1LVQylRahiwxKNkwQaCaEgzhfsHV59pNh/view?usp=sharing) |
-|   9 | VMware Workstation Pro 17.5.2 | Windows  | Build `23775571`  | `618.26 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.2-23775571.exe) | [🟦](https://drive.google.com/file/d/1_E45E1I_idPy0auYe6JMwSKMYoEtg6SK/view?usp=sharing) |
-|  10 | VMware Workstation Pro 26H1   | Linux    | Build `25388281`  | `325.03 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle) | [🟦](https://drive.google.com/file/d/1c4tJuG_3xIy3Op_iuQAxsZz1afDsO3OI/view?usp=sharing) |
-|  11 | VMware Workstation Pro 25H2u1 | Linux    | Build `25219725`  | `296.22 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle) | [🟦](https://drive.google.com/file/d/1bQUvoZOhp4uqrCLvwmY478DaQJwKselw/view?usp=sharing) |
-|  12 | VMware Workstation Pro 25H2   | Linux    | Build `24995812`  | `295.19 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2-24995812.x86_64.bundle) | [🟦](https://drive.google.com/file/d/1a44cWoehzmNlg-LSbCzhc-5b8HMTqnl1/view?usp=sharing) |
-|  13 | VMware Workstation Pro 17.6.4 | Linux    | Build `24832109`  | `339.46 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle) | [🟦](https://drive.google.com/file/d/19vPUx-8OOptSS2-RbGPjEB2Ji9vm9qzj/view?usp=sharing) |
-|  14 | VMware Workstation Pro 17.6.3 | Linux    | Build `24583834`  | `335.21 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle) | [🟦](https://drive.google.com/file/d/1VwFcc9EMNJ5RHlt5hmqUBhqSxX3190YJ/view?usp=sharing) |
-|  15 | VMware Workstation Pro 17.6.2 | Linux    | Build `24409262`  | `372.49 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle) | [🟦](https://drive.google.com/file/d/1pGeI0GjQlg_OEkgYimuYUn3UvDO0zXkq/view?usp=sharing) |
-|  16 | VMware Workstation Pro 17.6.1 | Linux    | Build `24319023`  | `372.46 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle) | [🟦](https://drive.google.com/file/d/1G2sVvkUbDUmO-PWZtO-vqMB29cHHG_4l/view?usp=sharing) |
-|  17 | VMware Workstation Pro 17.6.0 | Linux    | Build `24238078`  | `372.46 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle) | [🟦](https://drive.google.com/file/d/1b_HkfoCiOgh47dUtvQ-46cyK5A-a5EPB/view?usp=sharing) |
-|  18 | VMware Workstation Pro 17.5.2 | Linux    | Build `23775571`  | `510.58 MB` | [⬇️](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle) | [🟦](https://drive.google.com/file/d/14a9tn8aiTHQ_eJU3fnCfvJNeNS9enHgq/view?usp=sharing) |
+| STT | Ứng dụng | Nền tảng | Phiên bản / Build | Dung lượng | Tải về (Archive.org) |
+| --: | -------- | -------- | ----------------- | ---------: | :------------------: |
+|   1 | VMware Workstation Pro | Windows | **26H1u1** (`25688693`) | `267.61 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1u1-25688693.exe) |
+|   2 | VMware Workstation Pro | Windows | **26H1** (`25388281`) | `274.34 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/26H1/VMware-Workstation-Full-26H1-25388281.exe) |
+|   3 | VMware Workstation Pro | Windows | **25H2u1** (`25219725`) | `278.31 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2u1-25219725.exe) |
+|   4 | VMware Workstation Pro | Windows | **25H2** (`24995812`) | `277.63 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/25H2/VMware-Workstation-Full-25H2-24995812.exe) |
+|   5 | VMware Workstation Pro | Windows | **17.6.4** (`24832109`) | `405.72 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.4-24832109.exe) |
+|   6 | VMware Workstation Pro | Windows | **17.6.3** (`24583834`) | `401.43 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.3-24583834.exe) |
+|   7 | VMware Workstation Pro | Windows | **17.6.2** (`24409262`) | `447.93 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.2-24409262.exe) |
+|   8 | VMware Workstation Pro | Windows | **17.6.1** (`24319023`) | `447.93 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.1-24319023.exe) |
+|   9 | VMware Workstation Pro | Windows | **17.6.0** (`24238078`) | `447.97 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.6.0-24238078.exe) |
+|  10 | VMware Workstation Pro | Windows | **17.5.2** (`23775571`) | `618.26 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/17.x/VMware-workstation-full-17.5.2-23775571.exe) |
+|  11 | VMware Workstation Pro | Linux | **26H1** (`25388281`) | `325.03 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/26H1/VMware-Workstation-Full-26H1-25388281.x86_64.bundle) |
+|  12 | VMware Workstation Pro | Linux | **25H2u1** (`25219725`) | `296.22 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2u1-25219725.x86_64.bundle) |
+|  13 | VMware Workstation Pro | Linux | **25H2** (`24995812`) | `295.19 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/25H2/VMware-Workstation-Full-25H2-24995812.x86_64.bundle) |
+|  14 | VMware Workstation Pro | Linux | **17.6.4** (`24832109`) | `339.46 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.4-24832109.x86_64.bundle) |
+|  15 | VMware Workstation Pro | Linux | **17.6.3** (`24583834`) | `335.21 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.3-24583834.x86_64.bundle) |
+|  16 | VMware Workstation Pro | Linux | **17.6.2** (`24409262`) | `372.49 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.2-24409262.x86_64.bundle) |
+|  17 | VMware Workstation Pro | Linux | **17.6.1** (`24319023`) | `372.46 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.1-24319023.x86_64.bundle) |
+|  18 | VMware Workstation Pro | Linux | **17.6.0** (`24238078`) | `372.46 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.6.0-24238078.x86_64.bundle) |
+|  19 | VMware Workstation Pro | Linux | **17.5.2** (`23775571`) | `510.58 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Linux/17.x/VMware-Workstation-Full-17.5.2-23775571.x86_64.bundle) |
+|  20 | VMware Fusion Pro | macOS | **26H1u1** (`25689522`) | `497.25 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Fusion/26H1/VMware-Fusion-26H1u1-25689522_universal.dmg) |
+|  21 | VMware Fusion Pro | macOS | **26H1** (`25388279`) | `480.71 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Fusion/26H1/VMware-Fusion-26H1-25388279_universal.dmg) |
+|  22 | VMware Fusion Pro | macOS | **25H2u1** (`25219963`) | `484.82 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Fusion/25H2/VMware-Fusion-25H2u1-25219963_universal.dmg) |
+|  23 | VMware Fusion Pro | macOS | **25H2** (`24995814`) | `484.58 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Fusion/25H2/VMware-Fusion-25H2-24995814_universal.dmg) |
+|  24 | VMware Fusion Pro | macOS | **13.6.4** (`24832108`) | `530.91 MB` | [⬇️ Download](https://archive.org/download/vmwareworkstationarchive/Fusion/13.x/VMware-Fusion-13.6.4-24832108_universal.dmg) |
 
 ---
 
 <div align="center">
   <br>
   <b>🌟 NGUỒN TÀI NGUYÊN CHẤT LƯỢNG CAO TỪ CỘNG ĐỒNG 🌟</b><br>
-  <i>Clean • Organized • Verified</i><br>
-  <sub>Link tải vĩnh viễn qua 2 mirror: Archive.org & Google Drive · Checksum đối chiếu khớp 100% với bản gốc Broadcom.</sub>
+  <i>Clean • Organized • Verified • 100% Direct Archive.org Mirror</i><br>
+  <sub>Checksum đối chiếu khớp 100% với bản gốc Broadcom · Hỗ trợ Windows, Linux & macOS.</sub>
 </div>
